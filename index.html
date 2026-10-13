@@ -113,6 +113,8 @@ footer .in{max-width:1180px;margin:0 auto;padding:0 20px;display:flex;justify-co
 footer b{color:var(--goldl)}
 .note{margin-top:16px;font-size:12px;color:#748a7f}
 @media(max-width:760px){nav .lnk{display:none}}
+  .mmap{width:100%;height:260px;border:0;border-radius:12px;margin:14px 0 6px}
+  .credit{font-size:11.5px;color:#9aa5a1;margin-top:10px}
 </style>
 </head>
 <body>
@@ -179,7 +181,7 @@ footer b{color:var(--goldl)}
 <footer>
   <div class="in">
     <div><b>SomaWest</b> · School finder for Western Uganda<br>
-    <span class="note">Photos are illustrative and free-licensed. Profiles list verified school facts; fees, term dates and application requirements come directly from each school.</span></div>
+    <span class="note">School photos via Wikimedia Commons (CC BY-SA); location maps © OpenStreetMap contributors; in-app map © Google. Profiles list verified school facts; fees and term dates come directly from each school.</span></div>
     <div>Platform by <b>Derycode</b></div>
   </div>
 </footer>
@@ -190,17 +192,17 @@ footer b{color:var(--goldl)}
 
 <script>
 const SCHOOLS = [
- {id:"kyenjojo-ss", name:"Kyenjojo Secondary School", district:"Kyenjojo", loc:"Kyenjojo town", gender:"Mixed", board:"—", level:"O level (S.1–S.4)", founded:"", phone:"+256 773 159351", img:"images/class3.jpg?v=1", blurb:"A community secondary school serving Kyenjojo town and the wider district, preparing students for UNEB examinations. Its website is run with SomaWest partner Derycode.", site:"https://asiimwe3.github.io/kyenjojo-secondary-school/"},
- {id:"nyakasura", name:"Nyakasura School", district:"Kabarole", loc:"Fort Portal", gender:"Boys", board:"Boarding", level:"O & A level", founded:"1926", phone:"", img:"images/group1.jpg?v=1", blurb:"One of Uganda's oldest and best-known boys' schools, founded in 1926 at the foot of the Rwenzori mountains in Fort Portal.", site:""},
- {id:"st-leos", name:"St. Leo's College Kyegobe", district:"Kyenjojo", loc:"Kyegobe, Butiti", gender:"Boys", board:"Boarding", level:"O & A level", founded:"1923", phone:"", img:"images/class1.jpg?v=1", blurb:"Founded in 1923, St. Leo's is among the oldest schools in Western Uganda and a long-standing boys' boarding college at Butiti near Fort Portal.", site:""},
- {id:"st-thereza", name:"St. Thereza Girls SSS Bwanda", district:"Kabarole", loc:"Bwanda, near Fort Portal", gender:"Girls", board:"Boarding", level:"O & A level", founded:"", phone:"", img:"images/group2.jpg?v=1", blurb:"A well-known Catholic girls' secondary school in the Fort Portal area with a strong academic tradition.", site:""},
- {id:"kasese-ss", name:"Kasese Secondary School", district:"Kasese", loc:"Kasese town", gender:"Mixed", board:"—", level:"—", founded:"", phone:"", img:"images/field1.jpg?v=1", blurb:"A leading secondary school in Kasese town, serving one of the largest districts in the Rwenzori region.", site:""},
- {id:"ntare", name:"Ntare School", district:"Mbarara", loc:"Mbarara city", gender:"Boys", board:"Boarding", level:"O & A level", founded:"1956", phone:"", img:"images/group3.jpg?v=1", blurb:"Founded in 1956, Ntare is one of Uganda's most famous schools — a boys' boarding school in Mbarara with an outstanding academic record.", site:""},
- {id:"mbarara-high", name:"Mbarara High School", district:"Mbarara", loc:"Mbarara city", gender:"Boys", board:"Boarding", level:"O & A level", founded:"1911", phone:"", img:"images/class2.jpg?v=1", blurb:"Founded in 1911, Mbarara High is the oldest school in Western Uganda and one of the historic boys' boarding schools of the region.", site:""},
- {id:"mary-hill", name:"Mary Hill High School", district:"Mbarara", loc:"Mbarara city", gender:"Boys", board:"Boarding", level:"O & A level", founded:"", phone:"", img:"images/class4.jpg?v=1", blurb:"A prominent Catholic boys' boarding high school in Mbarara city with a long academic tradition.", site:""},
- {id:"bweranyangi", name:"Bweranyangi Girls' SS", district:"Bushenyi", loc:"Igara, Bushenyi", gender:"Girls", board:"Boarding", level:"O & A level", founded:"", phone:"", img:"images/lab1.jpg?v=1", blurb:"One of the oldest girls' schools in Uganda, located in Igara in Bushenyi district, with generations of notable alumnae.", site:""},
- {id:"kitabi", name:"Kitabi Seminary", district:"Bushenyi", loc:"Kitabi, Bushenyi", gender:"Boys", board:"Boarding", level:"O & A level", founded:"", phone:"", img:"images/lab2.jpg?v=1", blurb:"A historic boys' minor seminary in Kitabi, Bushenyi district, known for discipline and academic excellence.", site:""},
- {id:"muntuyera", name:"Muntuyera High School Kitunga", district:"Ntungamo", loc:"Kitunga, Ntungamo", gender:"Mixed", board:"Boarding", level:"O & A level", founded:"", phone:"", img:"images/lab3.jpg?v=1", blurb:"A respected boarding high school in Kitunga, Ntungamo district, serving the Ankole sub-region.", site:""}
+ {id:"kyenjojo-ss", name:"Kyenjojo Secondary School", district:"Kyenjojo", loc:"Kyenjojo town", gender:"Mixed", board:"—", level:"O level (S.1–S.4)", founded:"", phone:"+256 773 159351", img:"images/map_kyenjojo_ss.jpg?v=2", blurb:"A community secondary school serving Kyenjojo town and the wider district, preparing students for UNEB examinations. Its website is run with SomaWest partner Derycode.", site:"https://asiimwe3.github.io/kyenjojo-secondary-school/"},
+ {id:"nyakasura", name:"Nyakasura School", district:"Kabarole", loc:"Fort Portal", gender:"Boys", board:"Boarding", level:"O & A level", founded:"1926", phone:"", img:"images/nyakasura.jpg?v=2", blurb:"One of Uganda's oldest and best-known boys' schools, founded in 1926 at the foot of the Rwenzori mountains in Fort Portal.", site:""},
+ {id:"st-leos", name:"St. Leo's College Kyegobe", district:"Kyenjojo", loc:"Kyegobe, Butiti", gender:"Boys", board:"Boarding", level:"O & A level", founded:"1923", phone:"", img:"images/map_stleos.jpg?v=2", blurb:"Founded in 1923, St. Leo's is among the oldest schools in Western Uganda and a long-standing boys' boarding college at Butiti near Fort Portal.", site:""},
+ {id:"st-thereza", name:"St. Thereza Girls SSS Bwanda", district:"Kabarole", loc:"Bwanda, near Fort Portal", gender:"Girls", board:"Boarding", level:"O & A level", founded:"", phone:"", img:"images/map_bwanda.jpg?v=2", blurb:"A well-known Catholic girls' secondary school in the Fort Portal area with a strong academic tradition.", site:""},
+ {id:"kasese-ss", name:"Kasese Secondary School", district:"Kasese", loc:"Kasese town", gender:"Mixed", board:"—", level:"—", founded:"", phone:"", img:"images/map_kasese_ss.jpg?v=2", blurb:"A leading secondary school in Kasese town, serving one of the largest districts in the Rwenzori region.", site:""},
+ {id:"ntare", name:"Ntare School", district:"Mbarara", loc:"Mbarara city", gender:"Boys", board:"Boarding", level:"O & A level", founded:"1956", phone:"", img:"images/ntare.jpg?v=2", blurb:"Founded in 1956, Ntare is one of Uganda's most famous schools — a boys' boarding school in Mbarara with an outstanding academic record.", site:""},
+ {id:"mbarara-high", name:"Mbarara High School", district:"Mbarara", loc:"Mbarara city", gender:"Boys", board:"Boarding", level:"O & A level", founded:"1911", phone:"", img:"images/map_mbarara_high.jpg?v=2", blurb:"Founded in 1911, Mbarara High is the oldest school in Western Uganda and one of the historic boys' boarding schools of the region.", site:""},
+ {id:"mary-hill", name:"Mary Hill High School", district:"Mbarara", loc:"Mbarara city", gender:"Boys", board:"Boarding", level:"O & A level", founded:"", phone:"", img:"images/map_maryhill.jpg?v=2", blurb:"A prominent Catholic boys' boarding high school in Mbarara city with a long academic tradition.", site:""},
+ {id:"bweranyangi", name:"Bweranyangi Girls' SS", district:"Bushenyi", loc:"Igara, Bushenyi", gender:"Girls", board:"Boarding", level:"O & A level", founded:"", phone:"", img:"images/bweranyangi.jpg?v=2", blurb:"One of the oldest girls' schools in Uganda, located in Igara in Bushenyi district, with generations of notable alumnae.", site:""},
+ {id:"kitabi", name:"Kitabi Seminary", district:"Bushenyi", loc:"Kitabi, Bushenyi", gender:"Boys", board:"Boarding", level:"O & A level", founded:"", phone:"", img:"images/map_kitabi.jpg?v=2", blurb:"A historic boys' minor seminary in Kitabi, Bushenyi district, known for discipline and academic excellence.", site:""},
+ {id:"muntuyera", name:"Muntuyera High School Kitunga", district:"Ntungamo", loc:"Kitunga, Ntungamo", gender:"Mixed", board:"Boarding", level:"O & A level", founded:"", phone:"", img:"images/map_muntuyera.jpg?v=2", blurb:"A respected boarding high school in Kitunga, Ntungamo district, serving the Ankole sub-region.", site:""}
 ];
 
 let state = {q:"", district:"", gender:"", level:"", board:false};
@@ -292,6 +294,8 @@ function openModal(id){
         <div class="f"><b>Housing</b><span>${s.board==='—'?'Contact school':s.board}</span></div>
         <div class="f"><b>Level</b><span>${s.level==='—'?'Contact school':s.level}</span></div>
       </div>
+      <iframe class="mmap" loading="lazy" title="School location" src="https://www.google.com/maps?q=${encodeURIComponent(s.name+" "+s.district+" Uganda")}&output=embed"></iframe>
+      <div class="credit">${s.img.includes("map_")?"Location map © OpenStreetMap contributors":"Photo via Wikimedia Commons (CC BY-SA)"}</div>
       <div class="acts">
         <a class="btn g" target="_blank" rel="noopener" href="https://wa.me/256772002326?text=${encodeURIComponent(`Hello SomaWest, I would like admission information for ${s.name}.`)}">Enquire about admission</a>
         <a class="btn o" target="_blank" rel="noopener" href="${map}">View on map</a>

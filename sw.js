@@ -1,4 +1,4 @@
-const CACHE='somawest-v1';
+const CACHE='somawest-v2';
 const ASSETS=['./','./index.html','./manifest.json','./favicon.png',
 './icons/icon-192.png','./icons/icon-512.png','./icons/apple-touch-icon.png',
 './images/hero_band.jpg?v=1','./images/class1.jpg?v=1','./images/class2.jpg?v=1','./images/class3.jpg?v=1','./images/class4.jpg?v=1',
