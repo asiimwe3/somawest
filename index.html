@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>SomaWest | Find a School in Western Uganda</title>
+<meta name="description" content="SomaWest is the school finder for Western Uganda. Search and compare secondary schools across Kyenjojo, Kabarole, Kasese, Bushenyi, Mbarara and more.">
+<meta property="og:title" content="SomaWest | Find a School in Western Uganda">
+<meta property="og:description" content="Search, compare and enquire about secondary schools across Western Uganda.">
+<meta property="og:type" content="website">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="favicon.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="theme-color" content="#0b3d2e">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"SomaWest","description":"School finder for Western Uganda","url":"https://asiimwe3.github.io/somawest/"}
+</script>
+<style>
+:root{--green:#0b3d2e;--green2:#0f5138;--gold:#d4a017;--goldl:#f0c445;--ink:#1c2320;--mut:#5f6b64;--bg:#f7f8f6;--card:#fff;--line:#e4e9e4}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;background:var(--bg);color:var(--ink);-webkit-font-smoothing:antialiased;padding-bottom:env(safe-area-inset-bottom)}
+img{display:block}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+header{position:sticky;top:0;z-index:50;background:#fff;box-shadow:0 1px 0 var(--line)}
+.hd{display:flex;align-items:center;justify-content:space-between;padding:12px 20px;max-width:1180px;margin:0 auto}
+.brand{display:flex;align-items:center;gap:10px}
+.brand .mark{width:42px;height:42px;border-radius:10px;background:var(--green);display:flex;align-items:center;justify-content:center}
+.brand .mark svg{width:26px;height:26px;fill:var(--gold)}
+.brand b{font-size:19px;letter-spacing:.4px;color:var(--green)}
+.brand span{display:block;font-size:10.5px;color:var(--mut);letter-spacing:1.4px;text-transform:uppercase;font-weight:600}
+nav{display:flex;align-items:center;gap:22px;font-size:14px;font-weight:600;color:#3a4640}
+nav a:hover{color:var(--green)}
+.btn{display:inline-block;background:var(--gold);color:#1c2320;font-weight:700;padding:10px 18px;border-radius:9px;font-size:14px;border:none;cursor:pointer;transition:.15s}
+.btn:hover{background:var(--goldl)}
+.btn.g{background:var(--green);color:#fff}
+.btn.g:hover{background:var(--green2)}
+.hero{position:relative;min-height:520px;display:flex;align-items:center;background:#0a2e22}
+.hero .bg{position:absolute;inset:0;background:url('images/hero_band.jpg?v=1') center/cover no-repeat;opacity:.38}
+.hero .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(6,32,23,.55),rgba(6,32,23,.86))}
+.hero .in{position:relative;z-index:2;width:100%;max-width:900px;margin:0 auto;padding:64px 20px 56px;text-align:center;color:#fff}
+.hero .tag{display:inline-block;background:var(--gold);color:#201a04;font-size:12.5px;font-weight:800;letter-spacing:1.6px;padding:6px 14px;border-radius:7px;text-transform:uppercase;margin-bottom:18px}
+.hero h1{font-size:clamp(28px,5vw,44px);line-height:1.14;font-weight:800}
+.hero h1 em{font-style:normal;color:var(--goldl)}
+.hero p{margin:14px auto 26px;font-size:16.5px;color:#d7e4dc;max-width:640px}
+.search{background:#fff;border-radius:16px;padding:16px;display:grid;grid-template-columns:2fr 1fr 1fr auto;gap:10px;box-shadow:0 14px 40px rgba(0,0,0,.28)}
+.search input,.search select{width:100%;padding:13px 14px;border:1.5px solid var(--line);border-radius:10px;font-size:15px;color:var(--ink);background:#fff}
+.search input:focus,.search select:focus{outline:2px solid var(--gold);border-color:var(--gold)}
+.search .btn{padding:13px 24px;border-radius:10px}
+@media(max-width:860px){.search{grid-template-columns:1fr 1fr}.search input{grid-column:1/-1}}
+@media(max-width:560px){.search{grid-template-columns:1fr}.search .btn{width:100%}}
+.fbar{display:flex;flex-wrap:wrap;gap:10px;margin:26px 0 8px;align-items:center}
+.fbar .lbl{font-size:12.5px;font-weight:700;color:var(--mut);text-transform:uppercase;letter-spacing:1px;margin-right:4px}
+.chip{padding:7px 14px;border-radius:999px;border:1.5px solid var(--line);background:#fff;font-size:13.5px;font-weight:600;color:#3a4640;cursor:pointer;transition:.12s}
+.chip:hover{border-color:var(--green)}
+.chip.on{background:var(--green);border-color:var(--green);color:#fff}
+.res-head{display:flex;justify-content:space-between;align-items:center;margin:26px 0 14px;flex-wrap:wrap;gap:8px}
+.res-head h2{font-size:21px;color:var(--green)}
+.res-head span{font-size:14px;color:var(--mut);font-weight:600}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:22px;padding-bottom:10px}
+.card{background:var(--card);border-radius:14px;overflow:hidden;border:1px solid var(--line);display:flex;flex-direction:column;transition:.16s}
+.card:hover{box-shadow:0 10px 28px rgba(11,61,46,.13);transform:translateY(-2px)}
+.card .ph{position:relative;height:190px;overflow:hidden;background:#dfe8e2}
+.card .ph img{width:100%;height:100%;object-fit:cover}
+.badge{position:absolute;top:12px;left:12px;background:rgba(11,61,46,.92);color:#fff;font-size:11.5px;font-weight:700;padding:5px 10px;border-radius:7px;letter-spacing:.5px;text-transform:uppercase}
+.card .bd{padding:16px 18px 18px;display:flex;flex-direction:column;gap:9px;flex:1}
+.card h3{font-size:18px;color:var(--green);line-height:1.25}
+.meta{display:flex;flex-wrap:wrap;gap:6px}
+.meta i{font-style:normal;font-size:12px;font-weight:600;color:#3a4640;background:#eef2ee;border-radius:6px;padding:4px 9px}
+.meta i.hot{background:#fbf3dd;color:#7a5c00}
+.card p{font-size:13.8px;color:var(--mut);line-height:1.5}
+.card .acts{margin-top:auto;display:flex;gap:9px;padding-top:6px}
+.card .acts .btn{flex:1;text-align:center;padding:11px 10px;font-size:13.5px}
+.card .acts .btn.o{background:#fff;border:1.5px solid var(--green);color:var(--green)}
+.card .acts .btn.o:hover{background:#eef4f0}
+.empty{padding:60px 20px;text-align:center;color:var(--mut)}
+.empty b{font-size:18px;color:var(--ink);display:block;margin-bottom:6px}
+.modal{position:fixed;inset:0;background:rgba(8,24,18,.66);z-index:100;display:none;align-items:flex-end;justify-content:center}
+.modal.open{display:flex}
+.sheet{background:#fff;width:100%;max-width:760px;max-height:92vh;overflow:auto;border-radius:18px 18px 0 0;position:relative;animation:up .22s ease-out}
+@keyframes up{from{transform:translateY(50px);opacity:.4}to{transform:none;opacity:1}}
+.sheet .hero-img{height:240px;position:relative;overflow:hidden}
+.sheet .hero-img img{width:100%;height:100%;object-fit:cover}
+.sheet .x{position:absolute;top:14px;right:14px;width:38px;height:38px;border-radius:50%;background:rgba(255,255,255,.94);border:none;font-size:19px;cursor:pointer;font-weight:700;color:var(--green)}
+.sheet .pad{padding:24px 26px 30px}
+.sheet h3{font-size:24px;color:var(--green);margin-bottom:4px}
+.sheet .loc{color:var(--mut);font-size:14.5px;margin-bottom:14px}
+.sheet .meta{margin:10px 0 16px}
+.sheet p{font-size:15px;line-height:1.65;color:#38423c}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:18px 0}
+.facts .f{background:#f2f6f2;border-radius:10px;padding:12px 14px}
+.facts .f b{display:block;font-size:11px;text-transform:uppercase;letter-spacing:1px;color:var(--mut)}
+.facts .f span{font-size:15px;font-weight:700;color:var(--green)}
+.sheet .acts{display:flex;gap:12px;margin-top:8px;flex-wrap:wrap}
+.sheet .acts .btn{padding:13px 22px}
+.sheet .acts .btn.o{background:#fff;border:1.5px solid var(--green);color:var(--green)}
+.how{background:#fff;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:54px 0;margin-top:46px}
+.how h2{text-align:center;font-size:26px;color:var(--green);margin-bottom:8px}
+.how .sub{text-align:center;color:var(--mut);margin-bottom:36px;font-size:15px}
+.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:22px}
+.step{background:var(--bg);border-radius:14px;padding:24px}
+.step .n{width:40px;height:40px;border-radius:10px;background:var(--green);color:var(--goldl);display:flex;align-items:center;justify-content:center;font-weight:800;font-size:18px;margin-bottom:14px}
+.step h4{font-size:17px;margin-bottom:7px;color:var(--ink)}
+.step p{font-size:14px;color:var(--mut);line-height:1.55}
+.list{padding:58px 0}
+.list .box{background:linear-gradient(120deg,var(--green),var(--green2));border-radius:18px;color:#fff;display:grid;grid-template-columns:1fr auto;gap:26px;align-items:center;padding:34px 36px}
+.list h2{font-size:26px;margin-bottom:8px}
+.list p{color:#cfdfd6;font-size:15px;max-width:520px;line-height:1.6}
+.list .btn{padding:14px 26px}
+@media(max-width:720px){.list .box{grid-template-columns:1fr}}
+footer{background:#082018;color:#a9bcb2;padding:34px 0;font-size:13.5px}
+footer .in{max-width:1180px;margin:0 auto;padding:0 20px;display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap;align-items:center}
+footer b{color:var(--goldl)}
+.note{margin-top:16px;font-size:12px;color:#748a7f}
+@media(max-width:760px){nav .lnk{display:none}}
+</style>
+</head>
+<body>
+<header>
+  <div class="hd">
+    <a class="brand" href="#" onclick="resetAll();return false">
+      <span class="mark"><svg viewBox="0 0 24 24"><path d="M12 3 1 8l11 5 9-4.09V15h2V8L12 3zM5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82z"/></svg></span>
+      <div><b>SomaWest</b><span>School Finder · Western Uganda</span></div>
+    </a>
+    <nav>
+      <a class="lnk" href="#schools">Schools</a>
+      <a class="lnk" href="#how">How it works</a>
+      <a class="btn g" href="#list" style="padding:10px 16px">Add your school</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="bg"></div><div class="ov"></div>
+  <div class="in">
+    <span class="tag">Serving Tooro, Rwenzori &amp; Ankole</span>
+    <h1>Find the right school<br>in <em>Western Uganda</em></h1>
+    <p>Search and compare secondary schools across the region — then send your admission enquiry straight from SomaWest.</p>
+    <div class="search">
+      <input id="q" type="search" placeholder="School name or district…">
+      <select id="f-district"><option value="">All districts</option></select>
+      <select id="f-gender"><option value="">Boys, girls or mixed</option><option>Boys</option><option>Girls</option><option>Mixed</option></select>
+      <button class="btn" onclick="scrollRes()">Search</button>
+    </div>
+  </div>
+</section>
+
+<main class="wrap" id="schools">
+  <div class="fbar" id="chips"></div>
+  <div class="res-head"><h2 id="res-title">All schools</h2><span id="res-count"></span></div>
+  <div class="grid" id="grid"></div>
+  <div class="empty" id="empty" style="display:none"><b>No schools match</b>Try clearing a filter or searching another district.</div>
+</main>
+
+<section class="how" id="how">
+  <div class="wrap">
+    <h2>How SomaWest works</h2>
+    <p class="sub">Like booking a hotel — but for your child's education.</p>
+    <div class="steps">
+      <div class="step"><div class="n">1</div><h4>Search</h4><p>Filter schools by district, level, gender and boarding. Every listing is a real school in Western Uganda.</p></div>
+      <div class="step"><div class="n">2</div><h4>Compare</h4><p>Open a profile to see the school's level, student community, location on the map and background.</p></div>
+      <div class="step"><div class="n">3</div><h4>Enquire</h4><p>Send an admission enquiry from the listing. The school or our team responds with what you need to apply.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="list" id="list">
+  <div class="wrap">
+    <div class="box">
+      <div>
+        <h2>Run a school in Western Uganda?</h2>
+        <p>Put your school in front of parents searching the region. Listing is free at launch — send us your school's details and we'll add it.</p>
+      </div>
+      <a class="btn" href="https://wa.me/256772002326?text=Hello%20SomaWest%2C%20I%20would%20like%20to%20list%20my%20school%20on%20the%20platform." target="_blank" rel="noopener">List your school</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="in">
+    <div><b>SomaWest</b> · School finder for Western Uganda<br>
+    <span class="note">Photos are illustrative and free-licensed. Profiles list verified school facts; fees, term dates and application requirements come directly from each school.</span></div>
+    <div>Platform by <b>Derycode</b></div>
+  </div>
+</footer>
+
+<div class="modal" id="modal" onclick="if(event.target===this)closeModal()">
+  <div class="sheet" id="sheet"></div>
+</div>
+
+<script>
+const SCHOOLS = [
+ {id:"kyenjojo-ss", name:"Kyenjojo Secondary School", district:"Kyenjojo", loc:"Kyenjojo town", gender:"Mixed", board:"—", level:"O level (S.1–S.4)", founded:"", phone:"+256 773 159351", img:"images/class3.jpg?v=1", blurb:"A community secondary school serving Kyenjojo town and the wider district, preparing students for UNEB examinations. Its website is run with SomaWest partner Derycode.", site:"https://asiimwe3.github.io/kyenjojo-secondary-school/"},
+ {id:"nyakasura", name:"Nyakasura School", district:"Kabarole", loc:"Fort Portal", gender:"Boys", board:"Boarding", level:"O & A level", founded:"1926", phone:"", img:"images/group1.jpg?v=1", blurb:"One of Uganda's oldest and best-known boys' schools, founded in 1926 at the foot of the Rwenzori mountains in Fort Portal.", site:""},
+ {id:"st-leos", name:"St. Leo's College Kyegobe", district:"Kyenjojo", loc:"Kyegobe, Butiti", gender:"Boys", board:"Boarding", level:"O & A level", founded:"1923", phone:"", img:"images/class1.jpg?v=1", blurb:"Founded in 1923, St. Leo's is among the oldest schools in Western Uganda and a long-standing boys' boarding college at Butiti near Fort Portal.", site:""},
+ {id:"st-thereza", name:"St. Thereza Girls SSS Bwanda", district:"Kabarole", loc:"Bwanda, near Fort Portal", gender:"Girls", board:"Boarding", level:"O & A level", founded:"", phone:"", img:"images/group2.jpg?v=1", blurb:"A well-known Catholic girls' secondary school in the Fort Portal area with a strong academic tradition.", site:""},
+ {id:"kasese-ss", name:"Kasese Secondary School", district:"Kasese", loc:"Kasese town", gender:"Mixed", board:"—", level:"—", founded:"", phone:"", img:"images/field1.jpg?v=1", blurb:"A leading secondary school in Kasese town, serving one of the largest districts in the Rwenzori region.", site:""},
+ {id:"ntare", name:"Ntare School", district:"Mbarara", loc:"Mbarara city", gender:"Boys", board:"Boarding", level:"O & A level", founded:"1956", phone:"", img:"images/group3.jpg?v=1", blurb:"Founded in 1956, Ntare is one of Uganda's most famous schools — a boys' boarding school in Mbarara with an outstanding academic record.", site:""},
+ {id:"mbarara-high", name:"Mbarara High School", district:"Mbarara", loc:"Mbarara city", gender:"Boys", board:"Boarding", level:"O & A level", founded:"1911", phone:"", img:"images/class2.jpg?v=1", blurb:"Founded in 1911, Mbarara High is the oldest school in Western Uganda and one of the historic boys' boarding schools of the region.", site:""},
+ {id:"mary-hill", name:"Mary Hill High School", district:"Mbarara", loc:"Mbarara city", gender:"Boys", board:"Boarding", level:"O & A level", founded:"", phone:"", img:"images/class4.jpg?v=1", blurb:"A prominent Catholic boys' boarding high school in Mbarara city with a long academic tradition.", site:""},
+ {id:"bweranyangi", name:"Bweranyangi Girls' SS", district:"Bushenyi", loc:"Igara, Bushenyi", gender:"Girls", board:"Boarding", level:"O & A level", founded:"", phone:"", img:"images/lab1.jpg?v=1", blurb:"One of the oldest girls' schools in Uganda, located in Igara in Bushenyi district, with generations of notable alumnae.", site:""},
+ {id:"kitabi", name:"Kitabi Seminary", district:"Bushenyi", loc:"Kitabi, Bushenyi", gender:"Boys", board:"Boarding", level:"O & A level", founded:"", phone:"", img:"images/lab2.jpg?v=1", blurb:"A historic boys' minor seminary in Kitabi, Bushenyi district, known for discipline and academic excellence.", site:""},
+ {id:"muntuyera", name:"Muntuyera High School Kitunga", district:"Ntungamo", loc:"Kitunga, Ntungamo", gender:"Mixed", board:"Boarding", level:"O & A level", founded:"", phone:"", img:"images/lab3.jpg?v=1", blurb:"A respected boarding high school in Kitunga, Ntungamo district, serving the Ankole sub-region.", site:""}
+];
+
+let state = {q:"", district:"", gender:"", level:"", board:false};
+
+const districtSel = document.getElementById('f-district');
+[...new Set(SCHOOLS.map(s=>s.district))].sort().forEach(d=>{
+  const o=document.createElement('option'); o.textContent=d; districtSel.appendChild(o);
+});
+
+function chips(){
+  const el=document.getElementById('chips');
+  const ds=[...new Set(SCHOOLS.map(s=>s.district))].sort();
+  el.innerHTML='<span class="lbl">District:</span>' + ds.map(d=>
+    `<button class="chip ${state.district===d?'on':''}" onclick="setDistrict('${d}')">${d}</button>`).join('') +
+    `<span class="lbl" style="margin-left:14px">Type:</span>
+     <button class="chip ${state.board?'on':''}" onclick="toggleBoard()">Boarding</button>
+     <button class="chip ${state.level==='A'?'on':''}" onclick="toggleLevel()">A level</button>`;
+}
+function setDistrict(d){ state.district = state.district===d ? "" : d; districtSel.value=state.district; render(); }
+function toggleBoard(){ state.board=!state.board; render(); }
+function toggleLevel(){ state.level = state.level==='A' ? "" : "A"; render(); }
+
+function match(s){
+  if(state.district && s.district!==state.district) return false;
+  if(state.gender && s.gender!==state.gender) return false;
+  if(state.board && s.board!=='Boarding') return false;
+  if(state.level==='A' && s.level!=='O & A level') return false;
+  if(state.q){
+    const q=state.q.toLowerCase();
+    if(!(s.name.toLowerCase().includes(q)||s.district.toLowerCase().includes(q)||s.loc.toLowerCase().includes(q))) return false;
+  }
+  return true;
+}
+
+function cardHTML(s){
+  return `<div class="card">
+    <div class="ph"><img src="${s.img}" alt="${s.name}" loading="lazy">
+      <span class="badge">${s.district}</span></div>
+    <div class="bd">
+      <h3>${s.name}</h3>
+      <div class="meta">
+        ${s.gender!=='—'?`<i>${s.gender}</i>`:''}
+        ${s.board==='Boarding'?`<i class="hot">Boarding</i>`:''}
+        ${s.level==='O & A level'?`<i>A level</i>`:''}
+        ${s.founded?`<i>Est. ${s.founded}</i>`:''}
+      </div>
+      <p>${s.blurb.slice(0,110)}…</p>
+      <div class="acts">
+        <button class="btn o" onclick="openModal('${s.id}')">View profile</button>
+        <button class="btn" onclick="enquiry('${s.id}')">Enquire</button>
+      </div>
+    </div>
+  </div>`;
+}
+
+function render(){
+  const list=SCHOOLS.filter(match);
+  document.getElementById('grid').innerHTML=list.map(cardHTML).join('');
+  document.getElementById('res-count').textContent=list.length+" school"+(list.length===1?"":"s");
+  document.getElementById('res-title').textContent=state.district?state.district+" district":(state.q?"Search results":"All schools");
+  document.getElementById('empty').style.display=list.length?'none':'block';
+  chips();
+}
+
+function enquiry(id){
+  const s=SCHOOLS.find(x=>x.id===id);
+  const msg=encodeURIComponent(`Hello SomaWest, I would like admission information for ${s.name} (${s.district} district). Please share fees, requirements and term dates.`);
+  window.open(`https://wa.me/256772002326?text=${msg}`,'_blank');
+}
+
+function openModal(id){
+  const s=SCHOOLS.find(x=>x.id===id);
+  const map=`https://www.google.com/maps/search/${encodeURIComponent(s.name+" "+s.district+" Uganda")}`;
+  document.getElementById('sheet').innerHTML=`
+    <div class="hero-img"><img src="${s.img}" alt="${s.name}"><button class="x" onclick="closeModal()">✕</button></div>
+    <div class="pad">
+      <h3>${s.name}</h3>
+      <div class="loc">📍 ${s.loc}, ${s.district} district</div>
+      <div class="meta">
+        ${s.gender!=='—'?`<i>${s.gender}</i>`:''}
+        ${s.board!=='—'?`<i class="hot">${s.board}</i>`:''}
+        <i>${s.level==='—'?'Contact school':s.level}</i>
+        ${s.founded?`<i>Est. ${s.founded}</i>`:''}
+      </div>
+      <p>${s.blurb}</p>
+      <div class="facts">
+        <div class="f"><b>District</b><span>${s.district}</span></div>
+        <div class="f"><b>Students</b><span>${s.gender}</span></div>
+        <div class="f"><b>Housing</b><span>${s.board==='—'?'Contact school':s.board}</span></div>
+        <div class="f"><b>Level</b><span>${s.level==='—'?'Contact school':s.level}</span></div>
+      </div>
+      <div class="acts">
+        <a class="btn g" target="_blank" rel="noopener" href="https://wa.me/256772002326?text=${encodeURIComponent(`Hello SomaWest, I would like admission information for ${s.name}.`)}">Enquire about admission</a>
+        <a class="btn o" target="_blank" rel="noopener" href="${map}">View on map</a>
+        ${s.phone?`<a class="btn o" href="tel:${s.phone.replace(/\s/g,'')}">Call school</a>`:''}
+        ${s.site?`<a class="btn o" target="_blank" rel="noopener" href="${s.site}">Website</a>`:''}
+      </div>
+    </div>`;
+  document.getElementById('modal').classList.add('open');
+  document.body.style.overflow='hidden';
+}
+function closeModal(){ document.getElementById('modal').classList.remove('open'); document.body.style.overflow=''; }
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal()});
+function scrollRes(){ document.getElementById('schools').scrollIntoView({behavior:'smooth'}); }
+function resetAll(){ state={q:"",district:"",gender:"",level:"",board:false}; document.getElementById('q').value=''; districtSel.value=''; document.getElementById('f-gender').value=''; render(); }
+
+document.getElementById('q').addEventListener('input',e=>{state.q=e.target.value;render()});
+districtSel.addEventListener('change',e=>{state.district=e.target.value;render()});
+document.getElementById('f-gender').addEventListener('change',e=>{state.gender=e.target.value;render()});
+render();
+</script>
+</body>
+</html>
