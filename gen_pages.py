@@ -85,6 +85,18 @@ def page_html(slug, name, district, level, la, lo, feat=None):
         if feat.get("phone"): bits.append(f'<i>{esc(feat["phone"])}</i>')
         fb = "".join(bits)
     mapq = urllib.parse.quote(f"{name} {district} Uganda")
+    coordsline = f"Coordinates: {la}, {lo} · " if la and lo else ""
+    schema = {"@context":"https://schema.org","@type":"School","name":name,
+        "url":f"{SITE}school/{slug}",
+        "address":{"@type":"PostalAddress","addressRegion":f"{district}, Western Uganda","addressCountry":"UG"},
+        "areaServed":district + " district, Western Uganda"}
+    try:
+        if la != "" and lo != "":
+            schema["geo"] = {"@type":"GeoCoordinates","latitude":float(la),"longitude":float(lo)}
+    except (TypeError, ValueError):
+        pass
+    jsonld = json.dumps(schema)
+    ogimg = f'<meta property="og:image" content="{feat["img"]}">' if feat and feat.get("img") else ""
     wa_share = urllib.parse.quote(f"{name} ({level}, {district} district) is on SomaWest — the school finder for Western Uganda: {SITE}school/{slug}")
     claim_msg = urllib.parse.quote(f"Hello SomaWest, I represent {name} in {district} district. I want to manage our listing. Here is our updated info: 1) fees per term, 2) WhatsApp/phone contacts, 3) photos, 4) term dates, 5) admission requirements.")
     levelsel = "selected" if level == "Secondary" else ""
@@ -100,6 +112,8 @@ def page_html(slug, name, district, level, la, lo, feat=None):
 <meta property="og:type" content="website">
 <link rel="icon" href="../favicon.png">
 <link rel="canonical" href="{SITE}school/{slug}">
+{ogimg}
+<script type="application/ld+json">{jsonld}</script>
 <style>{CSS}</style>
 </head>
 <body>
@@ -112,7 +126,7 @@ def page_html(slug, name, district, level, la, lo, feat=None):
 <h2>Location</h2>
 <p class="small">Map position of the school (OpenStreetMap data):</p>
 <iframe class="map" loading="lazy" src="https://www.google.com/maps?q={mapq}&output=embed"></iframe>
-<p class="small">Coordinates: {la}, {lo} · <a href="https://www.google.com/maps/search/{mapq}" target="_blank" rel="noopener">Open in Google Maps</a></p>
+<p class="small">{coordsline}<a href="https://www.google.com/maps/search/{mapq}" target="_blank" rel="noopener">Open in Google Maps</a></p>
 </div>
 <div class="card" id="apply">
 <h2>Apply for admission</h2>
@@ -132,6 +146,11 @@ def page_html(slug, name, district, level, la, lo, feat=None):
 const SLUG={json.dumps(slug)},NAME={name_j},DIST={dist_j};
 function track(ev){{fetch("{API}",{{method:"POST",headers:{{"Content-Type":"application/json"}},body:JSON.stringify({{slug:SLUG,name:NAME,district:DIST,event:ev}})}}).catch(function(){{}});}}
 track("view");
+fetch("{API}").then(function(r){{return r.json()}}).then(function(d){{
+  if(!d||!d.ok||!d.ranked)return;
+  var me=d.ranked.findIndex(function(r){{return r.slug===SLUG}});
+  if(me>-1){{var b=document.createElement("div");b.style.cssText="background:#d4a017;color:#1c1602;font-weight:800;border-radius:99px;display:inline-block;padding:8px 14px;font-size:14px;margin-top:8px";b.textContent="🏆 #"+(me+1)+" on SomaWest — popular with parents";var h1=document.querySelector("h1");h1.parentNode.insertBefore(b,h1.nextSibling);}}
+}}).catch(function(){{}});
 function sendApply(){{
   var st=document.getElementById("st").value,cl=document.getElementById("cl").value,ps=document.getElementById("ps").value,pn=document.getElementById("pn").value,pp=document.getElementById("pp").value;
   if(!st||!pp){{alert("Please fill the student name and guardian phone.");return;}}
