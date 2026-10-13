@@ -1,0 +1,3360 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-13T18:23:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3983816049,
+  "lat": -0.6148248,
+  "lon": 30.6326939,
+  "tags": {
+    "addr:city": "Mbarara High School",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruharo",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "name": "Mbarara High School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q6799639",
+    "wikipedia": "en:Mbarara High School"
+  }
+},
+{
+  "type": "node",
+  "id": 4041008852,
+  "lat": -0.6386270,
+  "lon": 30.6921752,
+  "tags": {
+    "addr:city": "Kabaare Vii",
+    "addr:county": "Isingiro",
+    "addr:district": "Isingiro",
+    "addr:parish": "Kabaare",
+    "addr:subcounty": "Masha",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kabaare Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010548"
+  }
+},
+{
+  "type": "node",
+  "id": 4041008855,
+  "lat": -0.6253470,
+  "lon": 30.6745253,
+  "tags": {
+    "addr:city": "Katete Central",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katete",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Katete Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010544"
+  }
+},
+{
+  "type": "node",
+  "id": 4041008856,
+  "lat": -0.6697792,
+  "lon": 30.6995914,
+  "tags": {
+    "addr:city": "Omukabaare",
+    "addr:county": "Isingiro",
+    "addr:district": "Isingiro",
+    "addr:parish": "Nyarubungo",
+    "addr:subcounty": "Masha",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kibuli High School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010545"
+  }
+},
+{
+  "type": "node",
+  "id": 4041008858,
+  "lat": -0.6208883,
+  "lon": 30.6817388,
+  "tags": {
+    "addr:city": "Karugangama",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katete",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "name": "Malidad Memorial School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010538"
+  }
+},
+{
+  "type": "node",
+  "id": 4041008862,
+  "lat": -0.6455651,
+  "lon": 30.6765406,
+  "tags": {
+    "addr:district": "Isingiro",
+    "amenity": "school",
+    "name": "Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4041008865,
+  "lat": -0.6584674,
+  "lon": 30.7184496,
+  "tags": {
+    "addr:city": "Rwendezi",
+    "addr:county": "Isingiro",
+    "addr:district": "Isingiro",
+    "addr:parish": "Rukuuba",
+    "addr:subcounty": "Masha",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "isced:level": "1",
+    "name": "Rwendezi Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010550"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744754,
+  "lat": -0.6371474,
+  "lon": 30.6107895,
+  "tags": {
+    "addr:city": "Nyakakoni B",
+    "addr:county": "Rwampara",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rukindo",
+    "addr:subcounty": "Nyakayojo",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Ankole Hill High School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010629"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744755,
+  "lat": -0.6490975,
+  "lon": 30.6002526,
+  "tags": {
+    "addr:city": "Bwenkoma A",
+    "addr:county": "Rwampara",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rukindo",
+    "addr:subcounty": "Nyakayojo",
+    "amenity": "school",
+    "name": "Bright Future Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744758,
+  "lat": -0.6352372,
+  "lon": 30.6128179,
+  "tags": {
+    "addr:city": "Nyakakoni A",
+    "addr:county": "Rwampara",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rukindo",
+    "addr:subcounty": "Nyakayojo",
+    "amenity": "school",
+    "isced:level": "0;1",
+    "name": "Day Star Nursery and Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010625"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744759,
+  "lat": -0.6311101,
+  "lon": 30.6230937,
+  "tags": {
+    "addr:city": "Kateera",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruti",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "High Way Junior School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010624"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744761,
+  "lat": -0.6433589,
+  "lon": 30.5932008,
+  "tags": {
+    "addr:city": "Kaguhanzya",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruhunga",
+    "addr:subcounty": "Rubaya",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kaguhanzya Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010637"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744763,
+  "lat": -0.6464965,
+  "lon": 30.5962589,
+  "tags": {
+    "addr:city": "Bwenkoma B",
+    "addr:county": "Rwampara",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rukindo",
+    "addr:subcounty": "Nyakayojo",
+    "amenity": "school",
+    "name": "Katatumba Academy Senior School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010635"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744764,
+  "lat": -0.6474053,
+  "lon": 30.5976143,
+  "tags": {
+    "addr:city": "Bwenkoma B",
+    "addr:county": "Rwampara",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rukindo",
+    "addr:subcounty": "Nyakayojo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Katatumba Primary Academy School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010634"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744768,
+  "lat": -0.6229936,
+  "lon": 30.6516184,
+  "tags": {
+    "addr:city": "Nyamitanga",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katete",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Madarasat Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010630"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744769,
+  "lat": -0.6371794,
+  "lon": 30.6690954,
+  "tags": {
+    "addr:city": "Rwizi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katete",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Madarasat Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010608"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744770,
+  "lat": -0.6208630,
+  "lon": 30.6419736,
+  "tags": {
+    "addr:city": "Nyamitanga",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruti",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Mary Hill High School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010607"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744771,
+  "lat": -0.6383038,
+  "lon": 30.6197840,
+  "tags": {
+    "addr:city": "Katojo",
+    "addr:county": "Rwampara",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katojo",
+    "addr:subcounty": "Nyakayojo",
+    "amenity": "school",
+    "name": "Mbarara Institute For Social Development",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010606"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744772,
+  "lat": -0.6169681,
+  "lon": 30.6310512,
+  "tags": {
+    "addr:city": "Mbarara High School",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruharo",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "name": "Mbarara Junior School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010605"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744773,
+  "lat": -0.6155739,
+  "lon": 30.6602763,
+  "tags": {
+    "addr:city": "Medical",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "name": "Mbarara University of Science and Technology",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010549"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744774,
+  "lat": -0.6376954,
+  "lon": 30.6279042,
+  "tags": {
+    "addr:city": "Ngaara",
+    "addr:county": "Rwampara",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katojo",
+    "addr:subcounty": "Nyakayojo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ngaara Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010601"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744775,
+  "lat": -0.6512525,
+  "lon": 30.6256486,
+  "tags": {
+    "addr:city": "Ngaara",
+    "addr:county": "Rwampara",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katojo",
+    "addr:subcounty": "Nyakayojo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ngaara Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010601"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744776,
+  "lat": -0.6459932,
+  "lon": 30.6055528,
+  "tags": {
+    "addr:city": "Bwenkoma A",
+    "addr:county": "Rwampara",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rukindo",
+    "addr:subcounty": "Nyakayojo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyakayojo Child Development Center Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010599"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744777,
+  "lat": -0.6447177,
+  "lon": 30.6057510,
+  "tags": {
+    "addr:city": "Bwenkoma A",
+    "addr:county": "Rwampara",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rukindo",
+    "addr:subcounty": "Nyakayojo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyakayojo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010621"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744778,
+  "lat": -0.6437083,
+  "lon": 30.6060663,
+  "tags": {
+    "addr:city": "Bwenkoma A",
+    "addr:county": "Rwampara",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rukindo",
+    "addr:subcounty": "Nyakayojo",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Nyakayojo Senior Secondary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010619"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744779,
+  "lat": -0.6236361,
+  "lon": 30.6411556,
+  "tags": {
+    "addr:city": "Nyamitanga",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruti",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Nyamitanga College of Business Study",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010617"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744780,
+  "lat": -0.6237286,
+  "lon": 30.6500018,
+  "tags": {
+    "addr:city": "Nsikye",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katete",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyamitanga Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010615"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744781,
+  "lat": -0.6246248,
+  "lon": 30.6502246,
+  "tags": {
+    "addr:city": "Nsikye",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katete",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Nyamitanga Secondary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010613"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744782,
+  "lat": -0.6199449,
+  "lon": 30.6450669,
+  "tags": {
+    "addr:city": "Nyamitanga",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruti",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "name": "Nyamitanga Technical Institute",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010611"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744783,
+  "lat": -0.6529739,
+  "lon": 30.6099959,
+  "tags": {
+    "addr:city": "Nyamiyaga",
+    "addr:county": "Rwampara",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rukindo",
+    "addr:subcounty": "Nyakayojo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyamiyaga Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22807114"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744784,
+  "lat": -0.6414098,
+  "lon": 30.6699488,
+  "tags": {
+    "addr:district": "Isingiro",
+    "amenity": "school",
+    "name": "Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744785,
+  "lat": -0.6420809,
+  "lon": 30.6715307,
+  "tags": {
+    "addr:district": "Isingiro",
+    "amenity": "school",
+    "name": "Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744786,
+  "lat": -0.6457609,
+  "lon": 30.6590430,
+  "tags": {
+    "addr:district": "Isingiro",
+    "amenity": "school",
+    "name": "Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744787,
+  "lat": -0.6488430,
+  "lon": 30.6582354,
+  "tags": {
+    "addr:district": "Isingiro",
+    "amenity": "school",
+    "name": "Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042744788,
+  "lat": -0.6696050,
+  "lon": 30.6730990,
+  "tags": {
+    "addr:district": "Isingiro",
+    "amenity": "school",
+    "name": "Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746694,
+  "lat": -0.6190451,
+  "lon": 30.6725426,
+  "tags": {
+    "addr:city": "Rwemirinzi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katete",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "name": "Riverside Junior School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010604"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746695,
+  "lat": -0.6232665,
+  "lon": 30.6432293,
+  "tags": {
+    "addr:city": "Nyamitanga",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruti",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "denomination": "roman_catholic",
+    "name": "Roman Catholic Church School",
+    "religion": "christian",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010602"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746696,
+  "lat": -0.6328981,
+  "lon": 30.6255543,
+  "tags": {
+    "addr:city": "Kateera",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruti",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "name": "Rudicop Polytechnic School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010600"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746697,
+  "lat": -0.6231280,
+  "lon": 30.5870918,
+  "tags": {
+    "addr:city": "Rukindo",
+    "addr:county": "Rwampara",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rukindo",
+    "addr:subcounty": "Nyakayojo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rukindo Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010622"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746698,
+  "lat": -0.6269892,
+  "lon": 30.6202561,
+  "tags": {
+    "addr:city": "Rwizi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruti",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ruti Muslim Primary School",
+    "religion": "muslim",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010620"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746699,
+  "lat": -0.6285236,
+  "lon": 30.6296859,
+  "tags": {
+    "addr:city": "Kirehe",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruti",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "name": "Ruti Rehabilitation Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010618"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746700,
+  "lat": -0.6568296,
+  "lon": 30.6442011,
+  "tags": {
+    "addr:city": "Rwariire I",
+    "addr:county": "Rwampara",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katojo",
+    "addr:subcounty": "Nyakayojo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwariire Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010616"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746701,
+  "lat": -0.6305771,
+  "lon": 30.6504855,
+  "tags": {
+    "addr:city": "Nsikye",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katete",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Stagnes Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010614"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746703,
+  "lat": -0.6222475,
+  "lon": 30.6382478,
+  "tags": {
+    "addr:city": "Nyamitanga",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruti",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Staloysius Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010610"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746704,
+  "lat": -0.6255769,
+  "lon": 30.6727880,
+  "tags": {
+    "addr:city": "Katete Central",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katete",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Stanne's Vocational Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010609"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746705,
+  "lat": -0.6459231,
+  "lon": 30.5949091,
+  "tags": {
+    "addr:city": "Bwenkoma B",
+    "addr:county": "Rwampara",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rukindo",
+    "addr:subcounty": "Nyakayojo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Bonefansi Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010595"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746706,
+  "lat": -0.6372148,
+  "lon": 30.6087783,
+  "tags": {
+    "addr:city": "Nyakakoni B",
+    "addr:county": "Rwampara",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rukindo",
+    "addr:subcounty": "Nyakayojo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint George's Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010594"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746707,
+  "lat": -0.6223261,
+  "lon": 30.6430932,
+  "tags": {
+    "addr:city": "Nyamitanga",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruti",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Hellen's Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010593"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746708,
+  "lat": -0.6278409,
+  "lon": 30.6445365,
+  "tags": {
+    "addr:city": "Nsikye",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruti",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "name": "Saint Joseph Vocational School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010592"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746710,
+  "lat": -0.6230868,
+  "lon": 30.6365844,
+  "tags": {
+    "addr:city": "Nyamitanga",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruti",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Lawrence Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010590"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746711,
+  "lat": -0.6363825,
+  "lon": 30.6076952,
+  "tags": {
+    "addr:city": "Nyakakoni B",
+    "addr:county": "Rwampara",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rukindo",
+    "addr:subcounty": "Nyakayojo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Leo's Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010589"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746712,
+  "lat": -0.6259249,
+  "lon": 30.6712577,
+  "tags": {
+    "addr:city": "Katete Central",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katete",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "name": "Saint Mary's Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746714,
+  "lat": -0.6274085,
+  "lon": 30.6629539,
+  "tags": {
+    "addr:city": "Kitebero",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katete",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Shammah Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010598"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746715,
+  "lat": -0.6156606,
+  "lon": 30.6190993,
+  "tags": {
+    "addr:city": "Rwizi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruharo",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Sheroner Beer Drinker School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010597"
+  }
+},
+{
+  "type": "node",
+  "id": 4042746716,
+  "lat": -0.6232844,
+  "lon": 30.6529018,
+  "tags": {
+    "addr:city": "Nyamitanga",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katete",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Shuhadae Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010596"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787526,
+  "lat": -0.5998332,
+  "lon": 30.6708276,
+  "tags": {
+    "addr:city": "Kisenyi B",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bataringaya Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090394"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787527,
+  "lat": -0.6139818,
+  "lon": 30.6311943,
+  "tags": {
+    "addr:city": "Mbarara High School",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruharo",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "name": "Bishop Stuart University",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090395"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787529,
+  "lat": -0.6079554,
+  "lon": 30.6515490,
+  "tags": {
+    "addr:city": "Kakyeka",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Booma International Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090386"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787530,
+  "lat": -0.5959899,
+  "lon": 30.6563947,
+  "tags": {
+    "addr:city": "Kakiika",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "isced:level": "0",
+    "name": "Bright Nursery & Day Care Centre",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090387"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787532,
+  "lat": -0.5983712,
+  "lon": 30.6675953,
+  "tags": {
+    "addr:city": "Central",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyamityobora",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Calvary Junior Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090389"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787533,
+  "lat": -0.6064630,
+  "lon": 30.6655160,
+  "tags": {
+    "addr:city": "Kisenyi A",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Centenary Standard Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090390"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787536,
+  "lat": -0.5883594,
+  "lon": 30.6670722,
+  "tags": {
+    "addr:city": "Kacence East",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakiika",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Cleverland High School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090393"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787538,
+  "lat": -0.5891872,
+  "lon": 30.6465224,
+  "tags": {
+    "addr:city": "Nkokonjeru",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruharo",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "name": "Divine Junior School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090379"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787539,
+  "lat": -0.5878079,
+  "lon": 30.6518164,
+  "tags": {
+    "addr:city": "Kakiika",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "name": "Eden International School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090380"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787540,
+  "lat": -0.5806340,
+  "lon": 30.6587375,
+  "tags": {
+    "addr:city": "Kacence West",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakiika",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Elizabeth Academy Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090381"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787541,
+  "lat": -0.6097715,
+  "lon": 30.6671801,
+  "tags": {
+    "addr:city": "Kihindi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Four Stars Junior Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090382"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787542,
+  "lat": -0.5940592,
+  "lon": 30.6466485,
+  "tags": {
+    "addr:city": "Nkokonjeru",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruharo",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "name": "Gesa Integrated School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090383"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787545,
+  "lat": -0.6002414,
+  "lon": 30.6512304,
+  "tags": {
+    "addr:city": "Ntare",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Goodwill Baptist Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090370"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787546,
+  "lat": -0.5971401,
+  "lon": 30.6636880,
+  "tags": {
+    "addr:city": "Lower",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyamityobora",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Hall Mark Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090371"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787548,
+  "lat": -0.5854159,
+  "lon": 30.6653683,
+  "tags": {
+    "addr:city": "Kacence East",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakiika",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Hilton Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090373"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787549,
+  "lat": -0.5913947,
+  "lon": 30.6485582,
+  "tags": {
+    "addr:city": "Kakiika",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "name": "Holy Land Girls School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090374"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787550,
+  "lat": -0.6060592,
+  "lon": 30.6418218,
+  "tags": {
+    "addr:city": "Nkokonjeru",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruharo",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "JB Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090375"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787551,
+  "lat": -0.6006213,
+  "lon": 30.6681478,
+  "tags": {
+    "addr:city": "Kisenyi B",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Jehovah Nissi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090376"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787552,
+  "lat": -0.5882458,
+  "lon": 30.6642363,
+  "tags": {
+    "addr:city": "Kacence East",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakiika",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Joy Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090377"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787553,
+  "lat": -0.6009775,
+  "lon": 30.6464169,
+  "tags": {
+    "addr:city": "Nkokonjeru",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruharo",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Juna Amagara Primary and Junior",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090500"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787555,
+  "lat": -0.6088108,
+  "lon": 30.6645905,
+  "tags": {
+    "addr:city": "Kihindi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kabateraine Memorial Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090502"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787556,
+  "lat": -0.5857373,
+  "lon": 30.6097964,
+  "tags": {
+    "addr:city": "Kafunjo",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyarubanga",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kafunjo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22950009"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787559,
+  "lat": -0.6030869,
+  "lon": 30.6736580,
+  "tags": {
+    "addr:city": "Kakoba Central",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "name": "Kakoba Youth Support School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090504"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787560,
+  "lat": -0.5831537,
+  "lon": 30.6601476,
+  "tags": {
+    "addr:city": "Kacence West",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakiika",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "name": "Kent Foundation Vocational School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090505"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787561,
+  "lat": -0.5826417,
+  "lon": 30.6644448,
+  "tags": {
+    "addr:city": "Kacence West",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakiika",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kent Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090492"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787563,
+  "lat": -0.5855823,
+  "lon": 30.6558494,
+  "tags": {
+    "addr:city": "Kacence West",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakiika",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyamugorani Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090494"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787565,
+  "lat": -0.6102291,
+  "lon": 30.6698910,
+  "tags": {
+    "addr:city": "Rugazi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "name": "Maanji Memorial Academy",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090496"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787566,
+  "lat": -0.6053209,
+  "lon": 30.6692218,
+  "tags": {
+    "addr:city": "Kisenyi B",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Madalast Hamuza Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090497"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787567,
+  "lat": -0.5930198,
+  "lon": 30.6703452,
+  "tags": {
+    "addr:city": "Kilembe",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyamityobora",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Madrasat Nusratal Islamic Primary School",
+    "operator:type": "private",
+    "religion": "muslim",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090498"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787569,
+  "lat": -0.6042669,
+  "lon": 30.6716163,
+  "tags": {
+    "addr:city": "Kisenyi B",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mandela Junior Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090479"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787570,
+  "lat": -0.5910178,
+  "lon": 30.6713072,
+  "tags": {
+    "addr:city": "Kilembe",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyamityobora",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "name": "Mayanja Memorial Medical Training Institute",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090480"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787572,
+  "lat": -0.5870502,
+  "lon": 30.6508183,
+  "tags": {
+    "addr:city": "Kakiika",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "name": "Mbarara Business and Technical School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090482"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787573,
+  "lat": -0.6042655,
+  "lon": 30.6490419,
+  "tags": {
+    "addr:city": "Kakyeka",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Mbarara Central High School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090483"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787574,
+  "lat": -0.6033559,
+  "lon": 30.6653414,
+  "tags": {
+    "addr:city": "Kisenyi A",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mbarara Central Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090485"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787575,
+  "lat": -0.5975068,
+  "lon": 30.6556740,
+  "tags": {
+    "addr:city": "Kakiika",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Mbarara College School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090487"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787576,
+  "lat": -0.5949748,
+  "lon": 30.6667950,
+  "tags": {
+    "addr:city": "Upper",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyamityobora",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "name": "Mbarara Comfort School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090490"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787577,
+  "lat": -0.6079564,
+  "lon": 30.6654571,
+  "tags": {
+    "addr:city": "Kihindi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Global High School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787578,
+  "lat": -0.6027370,
+  "lon": 30.6359778,
+  "tags": {
+    "addr:city": "Nkokonjeru",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruharo",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "name": "Mbarara International School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090465"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787580,
+  "lat": -0.6105062,
+  "lon": 30.6314249,
+  "tags": {
+    "addr:city": "Mbarara High School",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruharo",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "isced:level": "1",
+    "name": "Mbarara Mixed Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090469"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787581,
+  "lat": -0.5964395,
+  "lon": 30.6629004,
+  "tags": {
+    "addr:city": "Lower",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyamityobora",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mbarara Modern Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090471"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787582,
+  "lat": -0.6134192,
+  "lon": 30.6613360,
+  "tags": {
+    "addr:city": "Kishwahili",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mbarara Municipal Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090473"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787583,
+  "lat": -0.6116933,
+  "lon": 30.6485480,
+  "tags": {
+    "addr:city": "Rwebikoona",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mbarara Parents Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090475"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787584,
+  "lat": -0.6079039,
+  "lon": 30.6697660,
+  "tags": {
+    "addr:city": "Rugazi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mbarara Preparatory Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090477"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787585,
+  "lat": -0.6054921,
+  "lon": 30.6656141,
+  "tags": {
+    "addr:city": "Kisenyi A",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mbarara Public Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090452"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787586,
+  "lat": -0.5971802,
+  "lon": 30.6608255,
+  "tags": {
+    "addr:city": "Kakiika",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "denomination": "adventist",
+    "isced:level": "1",
+    "name": "Mbarara Seventh-day Adventist Primary School",
+    "operator": "Seventh-day Adventist Church",
+    "operator:type": "private",
+    "operator:wikidata": "Q104319",
+    "religion": "christian",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090454"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787587,
+  "lat": -0.5935385,
+  "lon": 30.6679086,
+  "tags": {
+    "addr:city": "Kilembe",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyamityobora",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Mbarara Senior Secondary Nyamityobora",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090455"
+  }
+},
+{
+  "type": "node",
+  "id": 4042787588,
+  "lat": -0.6020069,
+  "lon": 30.6684048,
+  "tags": {
+    "addr:city": "Kisenyi B",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mbarara Town Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090457"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790389,
+  "lat": -0.6049798,
+  "lon": 30.6574718,
+  "tags": {
+    "addr:city": "Baifra",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mbarara Town Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090484"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790390,
+  "lat": -0.5961408,
+  "lon": 30.6556317,
+  "tags": {
+    "addr:city": "Kakiika",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mbarara United Pentecostal Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090486"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790391,
+  "lat": -0.6122516,
+  "lon": 30.6395476,
+  "tags": {
+    "addr:city": "Kamukuzi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mirembe Junior School Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090488"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790392,
+  "lat": -0.5924012,
+  "lon": 30.6550771,
+  "tags": {
+    "addr:city": "Kakiika",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Modern Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090489"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790394,
+  "lat": -0.6073583,
+  "lon": 30.6392786,
+  "tags": {
+    "addr:city": "Kiyanja",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruharo",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "New Jay Bee Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090466"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790396,
+  "lat": -0.6151818,
+  "lon": 30.6105992,
+  "tags": {
+    "addr:city": "Rwizi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruharo",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "name": "Ngabo Academy",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090470"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790397,
+  "lat": -0.5963623,
+  "lon": 30.6345775,
+  "tags": {
+    "addr:city": "Nkokonjeru",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruharo",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nkokonjeru Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090472"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790398,
+  "lat": -0.6026147,
+  "lon": 30.6535299,
+  "tags": {
+    "addr:city": "Ntare",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Ntare Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090474"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790399,
+  "lat": -0.6096892,
+  "lon": 30.6510266,
+  "tags": {
+    "addr:city": "Booma",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "name": "Nyamitanga Institute",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090476"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790400,
+  "lat": -0.5936850,
+  "lon": 30.6691038,
+  "tags": {
+    "addr:city": "Kilembe",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyamityobora",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyamityobora Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090478"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790401,
+  "lat": -0.5869869,
+  "lon": 30.6706974,
+  "tags": {
+    "addr:district": "Mbarara",
+    "amenity": "school",
+    "name": "Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790402,
+  "lat": -0.5985013,
+  "lon": 30.6680461,
+  "tags": {
+    "addr:city": "Central",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyamityobora",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "name": "Quality Junior School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090453"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790403,
+  "lat": -0.6083587,
+  "lon": 30.6691307,
+  "tags": {
+    "addr:city": "Rugazi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rugazi Progressive Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090456"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790404,
+  "lat": -0.6026860,
+  "lon": 30.6284249,
+  "tags": {
+    "addr:city": "Mbaguta",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruharo",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "name": "Ruharo Infant School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090458"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790405,
+  "lat": -0.6063855,
+  "lon": 30.6254907,
+  "tags": {
+    "addr:city": "Mbaguta",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruharo",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ruharo Muslim Primary School",
+    "operator:type": "public",
+    "religion": "muslim",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090459"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790406,
+  "lat": -0.6133628,
+  "lon": 30.6330499,
+  "tags": {
+    "addr:city": "Mbarara High School",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruharo",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "name": "Ruharo Vocational Training School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090460"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790407,
+  "lat": -0.5694677,
+  "lon": 30.6684882,
+  "tags": {
+    "addr:city": "Nyakabungo",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakiika",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "name": "Rwebishuri Church School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090461"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790410,
+  "lat": -0.5995936,
+  "lon": 30.6671038,
+  "tags": {
+    "addr:city": "Kisenyi A",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Senta College",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090444"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790411,
+  "lat": -0.6080143,
+  "lon": 30.6718817,
+  "tags": {
+    "addr:city": "Rugazi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Shalom Keber Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090445"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790412,
+  "lat": -0.6098798,
+  "lon": 30.6667720,
+  "tags": {
+    "addr:city": "Rugazi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "name": "Sulaiman Academy",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090446"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790413,
+  "lat": -0.5944095,
+  "lon": 30.6702804,
+  "tags": {
+    "addr:city": "Kilembe",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyamityobora",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "name": "Uganda Bible Institute",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090447"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790414,
+  "lat": -0.6076848,
+  "lon": 30.6588759,
+  "tags": {
+    "addr:city": "Booma",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Uganda Martyrs' Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090448"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790415,
+  "lat": -0.6014534,
+  "lon": 30.6569165,
+  "tags": {
+    "addr:city": "Kakiika",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "name": "Uganda Pentecostal Institute",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090449"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790416,
+  "lat": -0.5943049,
+  "lon": 30.6636702,
+  "tags": {
+    "addr:city": "Lower",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyamityobora",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Viana High School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090451"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790418,
+  "lat": -0.6067230,
+  "lon": 30.6381512,
+  "tags": {
+    "addr:city": "Kiyanja",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruharo",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "name": "Vottesa Technical",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090439"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790419,
+  "lat": -0.6083006,
+  "lon": 30.6634882,
+  "tags": {
+    "addr:city": "Kihindi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "name": "Window International School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090440"
+  }
+},
+{
+  "type": "node",
+  "id": 4042790420,
+  "lat": -0.6127219,
+  "lon": 30.6426950,
+  "tags": {
+    "addr:city": "Kamukuzi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "name": "YMCA Comercial Training Institute",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090441"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802327,
+  "lat": -0.6049512,
+  "lon": 30.6743538,
+  "tags": {
+    "addr:city": "Kakoba Quarters",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Abeneza Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090434"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802328,
+  "lat": -0.5757498,
+  "lon": 30.6833219,
+  "tags": {
+    "addr:city": "Makenke",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakiika",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Abullam Model Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090435"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802330,
+  "lat": -0.6047797,
+  "lon": 30.6825463,
+  "tags": {
+    "addr:city": "Nyakiizi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "name": "Agency For Integrated Development and Training Service",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090429"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802331,
+  "lat": -0.6019799,
+  "lon": 30.6746523,
+  "tags": {
+    "addr:city": "Kakoba Central",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "name": "Alliance Mbarara School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090430"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802332,
+  "lat": -0.6040500,
+  "lon": 30.6837271,
+  "tags": {
+    "addr:city": "Kakoba Central",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "name": "Antorokia Driving School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090431"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802334,
+  "lat": -0.6047890,
+  "lon": 30.6951807,
+  "tags": {
+    "addr:city": "National Teachers College",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bishop Stuart Demo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010537"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802336,
+  "lat": -0.6060355,
+  "lon": 30.6824983,
+  "tags": {
+    "addr:city": "Nyakiizi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Brebar High School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090433"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802337,
+  "lat": -0.6052166,
+  "lon": 30.6813069,
+  "tags": {
+    "addr:city": "Nyakiizi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "name": "Early Learning Centre",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090420"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802338,
+  "lat": -0.6011369,
+  "lon": 30.6825246,
+  "tags": {
+    "addr:city": "Kakoba Central",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Four Stars Junior Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090421"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802339,
+  "lat": -0.6115041,
+  "lon": 30.6904913,
+  "tags": {
+    "addr:city": "Karugangama",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katete",
+    "addr:subcounty": "Nyamitanga",
+    "amenity": "school",
+    "name": "G.D.K Academy",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090422"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802342,
+  "lat": -0.5666505,
+  "lon": 30.7076921,
+  "tags": {
+    "addr:city": "Rwebihuro",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rwemigina",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "isced:level": "1",
+    "name": "Greenhill Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090425"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802343,
+  "lat": -0.6134527,
+  "lon": 30.7101244,
+  "tags": {
+    "addr:city": "Buremba I",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rwemigina",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "isced:level": "1",
+    "name": "Happy Angel's Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090426"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802344,
+  "lat": -0.5765707,
+  "lon": 30.6840502,
+  "tags": {
+    "addr:city": "Makenke",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakiika",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "name": "Kakiika Technical School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090427"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802345,
+  "lat": -0.5888368,
+  "lon": 30.6826796,
+  "tags": {
+    "addr:city": "Lubiri",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyamityobora",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "name": "Kakoba Business Managemnt Institute",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090411"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802346,
+  "lat": -0.5754075,
+  "lon": 30.6767757,
+  "tags": {
+    "addr:city": "Nyakabungo",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakiika",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "isced:level": "5",
+    "name": "Kakoba Institute of Commercial & Technology",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090413"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802348,
+  "lat": -0.5979192,
+  "lon": 30.6768947,
+  "tags": {
+    "addr:city": "Kakoba Central",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kakoba Muslim Primary School",
+    "operator:type": "public",
+    "religion": "muslim",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090415"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802351,
+  "lat": -0.6032782,
+  "lon": 30.6756095,
+  "tags": {
+    "addr:city": "Kakoba Central",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kelben Unique Junior Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090418"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802355,
+  "lat": -0.6074156,
+  "lon": 30.6752112,
+  "tags": {
+    "addr:city": "Rugazi",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Model Junior Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090405"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802356,
+  "lat": -0.5537796,
+  "lon": 30.7098227,
+  "tags": {
+    "addr:city": "Migamba",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyakinengo",
+    "addr:subcounty": "Biharwe",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Mugamba Junior School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090406"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802357,
+  "lat": -0.6090091,
+  "lon": 30.7019438,
+  "tags": {
+    "addr:city": "Buremba I",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rwemigina",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "isced:level": "1",
+    "name": "Parental Care Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090407"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802359,
+  "lat": -0.5655527,
+  "lon": 30.7105014,
+  "tags": {
+    "addr:city": "Rwemikunyu",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyakinengo",
+    "addr:subcounty": "Biharwe",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "isced:level": "1",
+    "name": "Rwebihoro Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090409"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802360,
+  "lat": -0.5654160,
+  "lon": 30.6752012,
+  "tags": {
+    "addr:city": "Nyakiziba",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakiika",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwebishuri Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090410"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802363,
+  "lat": -0.6044539,
+  "lon": 30.6890838,
+  "tags": {
+    "addr:city": "Kyapotani",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "name": "Saint Francisican School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090399"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802365,
+  "lat": -0.5652819,
+  "lon": 30.7032948,
+  "tags": {
+    "addr:city": "Rwebihuro",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rwemigina",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "isced:level": "2;3;4",
+    "name": "Western College Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090402"
+  }
+},
+{
+  "type": "node",
+  "id": 4616696089,
+  "lat": -0.6171009,
+  "lon": 30.6707592,
+  "tags": {
+    "addr:street": "Rwizi Road",
+    "amenity": "school",
+    "name": "Do it virtual university/Benson's Home",
+    "name:en": "Do it virtual university/Benson's Home",
+    "opening_hours": "Mo-Su 09:00-18:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6012837971,
+  "lat": -0.6041609,
+  "lon": 30.6655420,
+  "tags": {
+    "addr:city": "Kisenyi B",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakoba",
+    "addr:subcounty": "Kakoba",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Booma High School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090396"
+  }
+},
+{
+  "type": "node",
+  "id": 6021943065,
+  "lat": -0.5855823,
+  "lon": 30.6558499,
+  "tags": {
+    "addr:city": "Kacence West",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakiika",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyamugorani Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090494"
+  }
+},
+{
+  "type": "node",
+  "id": 6021944048,
+  "lat": -0.5878079,
+  "lon": 30.6518169,
+  "tags": {
+    "addr:city": "Kakiika",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "name": "Eden International School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090380"
+  }
+},
+{
+  "type": "node",
+  "id": 6021944050,
+  "lat": -0.5883594,
+  "lon": 30.6670727,
+  "tags": {
+    "addr:city": "Kacence East",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakiika",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Cleverland High School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090393"
+  }
+},
+{
+  "type": "node",
+  "id": 6021944051,
+  "lat": -0.5854159,
+  "lon": 30.6653688,
+  "tags": {
+    "addr:city": "Kacence East",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakiika",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Hilton Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090373"
+  }
+},
+{
+  "type": "node",
+  "id": 6021944074,
+  "lat": -0.5882458,
+  "lon": 30.6642368,
+  "tags": {
+    "addr:city": "Kacence East",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakiika",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Joy Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090377"
+  }
+},
+{
+  "type": "node",
+  "id": 6021944274,
+  "lat": -0.5806340,
+  "lon": 30.6587380,
+  "tags": {
+    "addr:city": "Kacence West",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakiika",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Elizabeth Academy Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090381"
+  }
+},
+{
+  "type": "node",
+  "id": 6021944281,
+  "lat": -0.5826417,
+  "lon": 30.6644453,
+  "tags": {
+    "addr:city": "Kacence West",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakiika",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kent Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090492"
+  }
+},
+{
+  "type": "node",
+  "id": 6021944548,
+  "lat": -0.5831537,
+  "lon": 30.6601481,
+  "tags": {
+    "addr:city": "Kacence West",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kakiika",
+    "addr:subcounty": "Kakiika",
+    "amenity": "school",
+    "name": "Kent Foundation Vocational School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090505"
+  }
+},
+{
+  "type": "node",
+  "id": 6021944973,
+  "lat": -0.5870502,
+  "lon": 30.6508188,
+  "tags": {
+    "addr:city": "Kakiika",
+    "addr:county": "Mbarara Municipality",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamukuzi",
+    "addr:subcounty": "Kamukuzi",
+    "amenity": "school",
+    "name": "Mbarara Business and Technical School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23090482"
+  }
+},
+{
+  "type": "node",
+  "id": 7186393626,
+  "lat": -0.5829484,
+  "lon": 30.6562886,
+  "tags": {
+    "amenity": "school",
+    "name": "Kyamugorani"
+  }
+},
+{
+  "type": "node",
+  "id": 8442093825,
+  "lat": -0.6397693,
+  "lon": 30.5936174,
+  "tags": {
+    "amenity": "school",
+    "name": "St. Paul's Centre for the Age"
+  }
+},
+{
+  "type": "node",
+  "id": 12149408703,
+  "lat": -0.6165876,
+  "lon": 30.6499490,
+  "tags": {
+    "addr:street": "Mbarara - Bushenyi - Kasese Road",
+    "amenity": "school",
+    "name": "Mbarara Progressive",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12149408801,
+  "lat": -0.6172704,
+  "lon": 30.6472833,
+  "tags": {
+    "addr:street": "Mbarara - Bushenyi - Kasese Road",
+    "amenity": "school",
+    "name": "Tourism Institute of East Africa",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 769891920,
+  "center": {
+    "lat": -0.5939935,
+    "lon": 30.6682605
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "Nyamityobora"
+  }
+},
+{
+  "type": "way",
+  "id": 872754421,
+  "center": {
+    "lat": -0.6142572,
+    "lon": 30.6329912
+  },
+  "tags": {
+    "addr:city": "Mbarara , Ruharo",
+    "amenity": "school",
+    "building": "yes",
+    "denomination": "anglican",
+    "grades": "3",
+    "name": "A level block",
+    "religion": "christian",
+    "website": "https://mbararahigh.sc.ug"
+  }
+},
+{
+  "type": "way",
+  "id": 872754423,
+  "center": {
+    "lat": -0.6144568,
+    "lon": 30.6325181
+  },
+  "tags": {
+    "amenity": "school",
+    "building": "yes",
+    "name": "Administration block"
+  }
+},
+{
+  "type": "way",
+  "id": 874042673,
+  "center": {
+    "lat": -0.6438049,
+    "lon": 30.6062108
+  },
+  "tags": {
+    "amenity": "school",
+    "building": "yes",
+    "name": "Nyakayojo Senior Secondary School"
+  }
+},
+{
+  "type": "way",
+  "id": 874042806,
+  "center": {
+    "lat": -0.6435786,
+    "lon": 30.6061704
+  },
+  "tags": {
+    "amenity": "school",
+    "building": "yes",
+    "name": "Nyakayojo Senior Secondary School"
+  }
+},
+{
+  "type": "way",
+  "id": 874042807,
+  "center": {
+    "lat": -0.6437426,
+    "lon": 30.6058278
+  },
+  "tags": {
+    "amenity": "school",
+    "building": "yes",
+    "name": "Nyakayojo Senior Secondary School"
+  }
+},
+{
+  "type": "way",
+  "id": 874042808,
+  "center": {
+    "lat": -0.6439362,
+    "lon": 30.6060894
+  },
+  "tags": {
+    "amenity": "school",
+    "building": "yes",
+    "name": "Nyakayojo Senior Secondary School"
+  }
+},
+{
+  "type": "way",
+  "id": 874042827,
+  "center": {
+    "lat": -0.6444880,
+    "lon": 30.6059191
+  },
+  "tags": {
+    "amenity": "school",
+    "building": "yes",
+    "name": "Nyakayojo Primary School"
+  }
+},
+{
+  "type": "way",
+  "id": 874042828,
+  "center": {
+    "lat": -0.6445988,
+    "lon": 30.6060659
+  },
+  "tags": {
+    "amenity": "school",
+    "building": "yes",
+    "name": "Nyakayojo Primary School"
+  }
+},
+{
+  "type": "way",
+  "id": 874042829,
+  "center": {
+    "lat": -0.6449467,
+    "lon": 30.6056432
+  },
+  "tags": {
+    "amenity": "school",
+    "building": "yes",
+    "name": "Nyakayojo Primary School"
+  }
+},
+{
+  "type": "way",
+  "id": 874042830,
+  "center": {
+    "lat": -0.6446808,
+    "lon": 30.6054220
+  },
+  "tags": {
+    "amenity": "school",
+    "building": "yes",
+    "name": "Nyakayojo Primary School"
+  }
+},
+{
+  "type": "way",
+  "id": 874042837,
+  "center": {
+    "lat": -0.6459330,
+    "lon": 30.6056475
+  },
+  "tags": {
+    "amenity": "school",
+    "building": "yes",
+    "name": "Nyakayojo Child Development Center Primary School"
+  }
+},
+{
+  "type": "way",
+  "id": 874042839,
+  "center": {
+    "lat": -0.6457313,
+    "lon": 30.6057678
+  },
+  "tags": {
+    "amenity": "school",
+    "building": "yes",
+    "name": "Nyakayojo Child Development Center Primary School"
+  }
+}
+
+  ]
+}

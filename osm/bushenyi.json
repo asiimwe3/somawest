@@ -1,0 +1,5303 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-13T18:10:06Z",
+    "timestamp_areas_base": "2026-10-13T09:43:05Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2135672206,
+  "lat": -0.5295354,
+  "lon": 30.2321219,
+  "tags": {
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyakatooma II Primary School",
+    "wikidata": "Q23018679"
+  }
+},
+{
+  "type": "node",
+  "id": 3328320070,
+  "lat": -0.5740650,
+  "lon": 30.1954087,
+  "tags": {
+    "addr:city": "Nyabubaare A",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kibaare",
+    "addr:subcounty": "Bumbaire",
+    "amenity": "school",
+    "name": "Bumbaire Technical School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018661"
+  }
+},
+{
+  "type": "node",
+  "id": 3331510406,
+  "lat": -0.5717195,
+  "lon": 30.1851252,
+  "tags": {
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Bumbaire Secondary School",
+    "wikidata": "Q23018690"
+  }
+},
+{
+  "type": "node",
+  "id": 3331510407,
+  "lat": -0.5692952,
+  "lon": 30.1803959,
+  "tags": {
+    "addr:city": "Kaagati",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bumbaire",
+    "addr:subcounty": "Bumbaire",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kitakuuka Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018689"
+  }
+},
+{
+  "type": "node",
+  "id": 3342090502,
+  "lat": -0.5674079,
+  "lon": 30.1930352,
+  "tags": {
+    "addr:city": "Nyabubaare B",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kibaare",
+    "addr:subcounty": "Bumbaire",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyandozo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018668"
+  }
+},
+{
+  "type": "node",
+  "id": 3845848112,
+  "lat": -0.5411975,
+  "lon": 30.1368996,
+  "tags": {
+    "addr:city": "Cell D",
+    "addr:county": "Bushenyi-Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward IV",
+    "addr:subcounty": "Ishaka Division",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Ishaka Adventist College",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010528"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368391,
+  "lat": -0.4892219,
+  "lon": 30.2838679,
+  "tags": {
+    "addr:city": "Buhimba A",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kitwe",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "isced:level": "1",
+    "name": "Buhimba Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910855"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368396,
+  "lat": -0.4968278,
+  "lon": 30.2636580,
+  "tags": {
+    "addr:city": "Kyabugimbi Trc",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Katikamwe",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "name": "Bushenyi Institute Of Commerce And Accountacy",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368403,
+  "lat": -0.4275952,
+  "lon": 30.2626110,
+  "tags": {
+    "addr:city": "Ekikurijo",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyeibingo",
+    "addr:subcounty": "Ruhumuro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ekikurijo Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910844"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368416,
+  "lat": -0.4625360,
+  "lon": 30.2584088,
+  "tags": {
+    "addr:city": "Kempene",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bugaara",
+    "addr:subcounty": "Ruhumuro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kacwamba Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910848"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368418,
+  "lat": -0.4657302,
+  "lon": 30.2895984,
+  "tags": {
+    "addr:city": "Kajunju Central",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kajunju",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kajunju Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910934"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368419,
+  "lat": -0.4786838,
+  "lon": 30.2973432,
+  "tags": {
+    "addr:city": "Kaceka",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kajunju",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kajunju Senior Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910935"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368423,
+  "lat": -0.4268454,
+  "lon": 30.2496284,
+  "tags": {
+    "addr:city": "Karaama",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Burungira",
+    "addr:subcounty": "Ruhumuro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Karaama Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910931"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368424,
+  "lat": -0.4479171,
+  "lon": 30.3001825,
+  "tags": {
+    "addr:city": "Karyango",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kajunju",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Karyango Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910932"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368428,
+  "lat": -0.5193382,
+  "lon": 30.2450738,
+  "tags": {
+    "addr:city": "Katikamwe B",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Katikamwe",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Katikamwe Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910944"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368431,
+  "lat": -0.4299098,
+  "lon": 30.2932134,
+  "tags": {
+    "addr:city": "Kayanga B",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyeibingo",
+    "addr:subcounty": "Ruhumuro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kayanga Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910939"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368434,
+  "lat": -0.5101133,
+  "lon": 30.2988340,
+  "tags": {
+    "addr:city": "Kibona B",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kyeigombe",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kibona Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910921"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368435,
+  "lat": -0.5113751,
+  "lon": 30.2983903,
+  "tags": {
+    "addr:city": "Kibona A",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kyeigombe",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "name": "Kibona Senior School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910922"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368437,
+  "lat": -0.5138508,
+  "lon": 30.2812254,
+  "tags": {
+    "addr:city": "Kihire",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bijengye",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kihire Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910916"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368438,
+  "lat": -0.5152802,
+  "lon": 30.2580608,
+  "tags": {
+    "addr:city": "Nyamabare B",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Katikamwe",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kihumuro Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910917"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368440,
+  "lat": -0.4783463,
+  "lon": 30.2733547,
+  "tags": {
+    "addr:city": "Kitwe Rutooma",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kitwe",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kitwe Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910919"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368441,
+  "lat": -0.4977431,
+  "lon": 30.2648246,
+  "tags": {
+    "addr:city": "Kacence",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Katikamwe",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyabugimbi Central Development Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910928"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368442,
+  "lat": -0.5000474,
+  "lon": 30.2667827,
+  "tags": {
+    "addr:city": "Kacence",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Katikamwe",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "name": "Kyabugimbi Central School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910929"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368444,
+  "lat": -0.4398861,
+  "lon": 30.2711985,
+  "tags": {
+    "addr:city": "Nyeibingo Central",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyeibingo",
+    "addr:subcounty": "Ruhumuro",
+    "amenity": "school",
+    "name": "Kyabugimbi Technical Institute",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368446,
+  "lat": -0.4697021,
+  "lon": 30.2975306,
+  "tags": {
+    "addr:city": "Kagorogoro",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kajunju",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyamiko Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910925"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368450,
+  "lat": -0.4777121,
+  "lon": 30.2967806,
+  "tags": {
+    "addr:city": "Kaceka",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kajunju",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Little Angel Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910905"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368457,
+  "lat": -0.4847214,
+  "lon": 30.2958771,
+  "tags": {
+    "addr:city": "Enkombe",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kajunju",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "isced:level": "1",
+    "name": "Mukora Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910912"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368466,
+  "lat": -0.5152389,
+  "lon": 30.2787285,
+  "tags": {
+    "addr:city": "Nyakabanga B",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bijengye",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyakabanga Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910890"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368467,
+  "lat": -0.5153265,
+  "lon": 30.2890194,
+  "tags": {
+    "addr:city": "Nyakabanga B",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bijengye",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "name": "Nyakabanga Senior School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910891"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368468,
+  "lat": -0.4440984,
+  "lon": 30.2714523,
+  "tags": {
+    "addr:city": "Nyeibingo Central",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyeibingo",
+    "addr:subcounty": "Ruhumuro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyakabare Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910892"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368479,
+  "lat": -0.4809874,
+  "lon": 30.2469242,
+  "tags": {
+    "addr:city": "Nyamyerande IV",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bugaara",
+    "addr:subcounty": "Ruhumuro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyamyerande Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910895"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368480,
+  "lat": -0.4465873,
+  "lon": 30.2804421,
+  "tags": {
+    "addr:city": "Nyamabare",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyeibingo",
+    "addr:subcounty": "Ruhumuro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyeibingo Parents Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910896"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368481,
+  "lat": -0.4446259,
+  "lon": 30.2759769,
+  "tags": {
+    "addr:city": "Nyeibingo Central",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyeibingo",
+    "addr:subcounty": "Ruhumuro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyeibingo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910875"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368487,
+  "lat": -0.4340520,
+  "lon": 30.2852864,
+  "tags": {
+    "addr:city": "Kayanga A",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyeibingo",
+    "addr:subcounty": "Ruhumuro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwandaeo Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910873"
+  }
+},
+{
+  "type": "node",
+  "id": 4017368494,
+  "lat": -0.5261857,
+  "lon": 30.2712432,
+  "tags": {
+    "addr:city": "Nyamabare A I",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Katikamwe",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwikiriro Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910879"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766937,
+  "lat": -0.5384393,
+  "lon": 30.0967591,
+  "tags": {
+    "addr:city": "Nyabubare",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyabubare",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "name": "Amah Orphanage Vocational Centre",
+    "social_facility:for": "orphan",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766942,
+  "lat": -0.5281865,
+  "lon": 30.1246922,
+  "tags": {
+    "addr:city": "Rushoroza",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kigoma",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Bishop Ogez High School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010481"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766947,
+  "lat": -0.5347970,
+  "lon": 30.1228719,
+  "tags": {
+    "addr:city": "Rushoroza",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kigoma",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "name": "Bright Career Vocational Institute",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010511"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766950,
+  "lat": -0.5611544,
+  "lon": 30.1150029,
+  "tags": {
+    "addr:city": "Bukumbya",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kizinda",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bukumbya Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010515"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766951,
+  "lat": -0.5871028,
+  "lon": 30.1964967,
+  "tags": {
+    "addr:city": "Bumbaire I",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bumbaire",
+    "addr:subcounty": "Bumbaire",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bumbaire Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23017517"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766953,
+  "lat": -0.5733750,
+  "lon": 30.1540952,
+  "tags": {
+    "addr:city": "Kashekye",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bunyarigi Ward",
+    "addr:subcounty": "Central Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bunyarigi Model Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23017509"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766954,
+  "lat": -0.5726206,
+  "lon": 30.0935330,
+  "tags": {
+    "addr:city": "Birimbi",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nkanga",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Burimbi Model Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010502"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766955,
+  "lat": -0.5440584,
+  "lon": 30.1683551,
+  "tags": {
+    "addr:city": "Rushinya",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward II",
+    "addr:subcounty": "Central Division",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Bushenyi High School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018672"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766957,
+  "lat": -0.5437233,
+  "lon": 30.1901908,
+  "tags": {
+    "addr:city": "Bwatoogo",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Central Ward",
+    "addr:subcounty": "Central Division",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Bushenyi Pioneer High School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23017512"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766959,
+  "lat": -0.5379872,
+  "lon": 30.1881133,
+  "tags": {
+    "addr:city": "Central",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Central Ward",
+    "addr:subcounty": "Central Division",
+    "amenity": "school",
+    "name": "Bushenyi Town School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018674"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766960,
+  "lat": -0.5417819,
+  "lon": 30.1929883,
+  "tags": {
+    "addr:city": "Bwatoogo",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Central Ward",
+    "addr:subcounty": "Central Division",
+    "amenity": "school",
+    "name": "Bushenyi Vocational Institute",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766962,
+  "lat": -0.5899333,
+  "lon": 30.1340265,
+  "tags": {
+    "addr:city": "Kiruhura",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ryeishe",
+    "addr:subcounty": "Ibaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bwoma Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010497"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766963,
+  "lat": -0.5927170,
+  "lon": 30.1348907,
+  "tags": {
+    "addr:city": "Bwoma",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ryeishe",
+    "addr:subcounty": "Ibaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bwoma Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010498"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766965,
+  "lat": -0.5746404,
+  "lon": 30.1528955,
+  "tags": {
+    "addr:city": "Kashekye",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bunyarigi Ward",
+    "addr:subcounty": "Central Division",
+    "amenity": "school",
+    "isced:level": "0;1",
+    "name": "Child Care Nursery and Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23017507"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766969,
+  "lat": -0.5880340,
+  "lon": 30.1331618,
+  "tags": {
+    "addr:city": "Kiruhura",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ryeishe",
+    "addr:subcounty": "Ibaare",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Crane High School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010489"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766970,
+  "lat": -0.5460922,
+  "lon": 30.1986167,
+  "tags": {
+    "addr:city": "Bwatoogo",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Central Ward",
+    "addr:subcounty": "Central Division",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Crane Management Institute",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018655"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766971,
+  "lat": -0.5924170,
+  "lon": 30.1832092,
+  "tags": {
+    "addr:city": "Kabushaho",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bumbaire",
+    "addr:subcounty": "Bumbaire",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Day Star Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018658"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766973,
+  "lat": -0.5509076,
+  "lon": 30.1402390,
+  "tags": {
+    "addr:city": "Katungu",
+    "addr:county": "Bushenyi-Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward III",
+    "addr:subcounty": "Ishaka Division",
+    "amenity": "school",
+    "name": "Dezmuk Q. Junior School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010491"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766974,
+  "lat": -0.5335356,
+  "lon": 30.1231390,
+  "tags": {
+    "addr:city": "Rushoroza",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kigoma",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Excel College of Commerce",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010494"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766976,
+  "lat": -0.6264227,
+  "lon": 30.1409959,
+  "tags": {
+    "addr:city": "Kabingo A",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kyamugabo",
+    "addr:subcounty": "Ibaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "God is Good Junior Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23016060"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766979,
+  "lat": -0.6181439,
+  "lon": 30.1493801,
+  "tags": {
+    "addr:city": "Nyakatuntu",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ibaare",
+    "addr:subcounty": "Ibaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ibaare Girls Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23017527"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766980,
+  "lat": -0.6185111,
+  "lon": 30.1503553,
+  "tags": {
+    "addr:city": "Ahibare",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ibaare",
+    "addr:subcounty": "Ibaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ibaare Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23017528"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766983,
+  "lat": -0.5404847,
+  "lon": 30.1610644,
+  "tags": {
+    "addr:city": "Nyarwanya",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward II",
+    "addr:subcounty": "Central Division",
+    "amenity": "school",
+    "name": "Institute of Professional",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766985,
+  "lat": -0.5444342,
+  "lon": 30.1380861,
+  "tags": {
+    "addr:city": "Cell D",
+    "addr:county": "Bushenyi-Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward IV",
+    "addr:subcounty": "Ishaka Division",
+    "amenity": "school",
+    "name": "Ishaka Adventist School Of Nursing",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001337"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766986,
+  "lat": -0.5557853,
+  "lon": 30.1214344,
+  "tags": {
+    "addr:city": "Katookye",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kizinda",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Ishaka Comprehensive Senior Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010525"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766987,
+  "lat": -0.5416598,
+  "lon": 30.1332079,
+  "tags": {
+    "addr:city": "Cell D",
+    "addr:county": "Bushenyi-Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward IV",
+    "addr:subcounty": "Ishaka Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ishaka Preparatory Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010526"
+  }
+},
+{
+  "type": "node",
+  "id": 4019766988,
+  "lat": -0.5474895,
+  "lon": 30.1303406,
+  "tags": {
+    "addr:city": "Cell C",
+    "addr:county": "Bushenyi-Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward IV",
+    "addr:subcounty": "Ishaka Division",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Ishaka Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010527"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768789,
+  "lat": -0.5512832,
+  "lon": 30.1417432,
+  "tags": {
+    "addr:city": "Katungu",
+    "addr:county": "Bushenyi-Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward III",
+    "addr:subcounty": "Ishaka Division",
+    "amenity": "school",
+    "name": "Ishaka Town School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010522"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768790,
+  "lat": -0.5497881,
+  "lon": 30.1257719,
+  "tags": {
+    "addr:city": "Cell C",
+    "addr:county": "Bushenyi-Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward IV",
+    "addr:subcounty": "Ishaka Division",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Ishaka Vocational Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010523"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768791,
+  "lat": -0.5907070,
+  "lon": 30.1901947,
+  "tags": {
+    "addr:city": "Nyamirima",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bumbaire",
+    "addr:subcounty": "Bumbaire",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Isimbi Academy Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018686"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768792,
+  "lat": -0.5418415,
+  "lon": 30.1190871,
+  "tags": {
+    "addr:city": "Kagati",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kizinda",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "0;1",
+    "name": "Jesus Cares Nursery and Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010524"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768793,
+  "lat": -0.6385203,
+  "lon": 30.1682938,
+  "tags": {
+    "addr:city": "Karubuga B",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kainamo",
+    "addr:subcounty": "Ibaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kabakama Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23017519"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768794,
+  "lat": -0.5760989,
+  "lon": 30.0801882,
+  "tags": {
+    "addr:city": "Kabande B",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nkanga",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kabande Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010519"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768795,
+  "lat": -0.5411815,
+  "lon": 30.1315664,
+  "tags": {
+    "addr:city": "Cell D",
+    "addr:county": "Bushenyi-Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward IV",
+    "addr:subcounty": "Ishaka Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kaburengye Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010520"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768796,
+  "lat": -0.5916529,
+  "lon": 30.1831316,
+  "tags": {
+    "addr:city": "Kabushaho",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bumbaire",
+    "addr:subcounty": "Bumbaire",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kabushaho Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23017520"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768800,
+  "lat": -0.5545448,
+  "lon": 30.0608889,
+  "tags": {
+    "addr:city": "Kahungye II",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kahungye",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kahungye Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010521"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768801,
+  "lat": -0.6369277,
+  "lon": 30.1614343,
+  "tags": {
+    "addr:city": "Nyakahita",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kainamo",
+    "addr:subcounty": "Ibaare",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Kainamo Cop School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768802,
+  "lat": -0.6371818,
+  "lon": 30.1638050,
+  "tags": {
+    "addr:city": "Kainamo",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kainamo",
+    "addr:subcounty": "Ibaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kainamo Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23017516"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768803,
+  "lat": -0.5380814,
+  "lon": 30.1146480,
+  "tags": {
+    "addr:city": "Kakoma",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kigoma",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kakoma Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010474"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768805,
+  "lat": -0.5940453,
+  "lon": 30.1736857,
+  "tags": {
+    "addr:city": "Kantunda",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kiyaga",
+    "addr:subcounty": "Bumbaire",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kantunda Modern Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018676"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768806,
+  "lat": -0.5871774,
+  "lon": 30.1026902,
+  "tags": {
+    "addr:city": "Kibingo",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nkanga",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kanyegyero Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010475"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768807,
+  "lat": -0.5390078,
+  "lon": 30.0702961,
+  "tags": {
+    "addr:city": "Nkuna II",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyabubare",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Karama Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010476"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768815,
+  "lat": -0.5790226,
+  "lon": 30.1358464,
+  "tags": {
+    "addr:city": "Kashenyi II",
+    "addr:county": "Bushenyi-Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kashenyi",
+    "addr:subcounty": "Ishaka Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kashenyi Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010472"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768816,
+  "lat": -0.5844143,
+  "lon": 30.1318427,
+  "tags": {
+    "addr:city": "Kashenyi II",
+    "addr:county": "Bushenyi-Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kashenyi",
+    "addr:subcounty": "Ishaka Division",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kashenyi Vocational Senior Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010473"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768818,
+  "lat": -0.6163611,
+  "lon": 30.2032598,
+  "tags": {
+    "addr:city": "Katonya",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Numba",
+    "addr:subcounty": "Bumbaire",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Katonya Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018559"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768819,
+  "lat": -0.5517897,
+  "lon": 30.1371942,
+  "tags": {
+    "addr:city": "Bugomora",
+    "addr:county": "Bushenyi-Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward III",
+    "addr:subcounty": "Ishaka Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Katungo Model Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010468"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768820,
+  "lat": -0.5330358,
+  "lon": 30.0805656,
+  "tags": {
+    "addr:city": "Nkuna I",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyabubare",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kayojo Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010469"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768821,
+  "lat": -0.5318157,
+  "lon": 30.0624616,
+  "tags": {
+    "addr:city": "Kiyagara I",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kahungye",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kebitoma Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010470"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768822,
+  "lat": -0.6201130,
+  "lon": 30.1437526,
+  "tags": {
+    "addr:city": "Kabingo B",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kyamugabo",
+    "addr:subcounty": "Ibaare",
+    "amenity": "school",
+    "fixme": "under construction",
+    "isced:level": "1",
+    "name": "Kibingo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23016064"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768824,
+  "lat": -0.5284508,
+  "lon": 30.0760718,
+  "tags": {
+    "addr:city": "Nyakashebeya",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyabubare",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kihunje Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010471"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768831,
+  "lat": -0.6069877,
+  "lon": 30.1478236,
+  "tags": {
+    "addr:city": "Nyaruka",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ibaare",
+    "addr:subcounty": "Ibaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kitabi Demonstration Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018660"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768832,
+  "lat": -0.6002762,
+  "lon": 30.1470657,
+  "tags": {
+    "addr:city": "Kitabi",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ibaare",
+    "addr:subcounty": "Ibaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kitabi Girls Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018663"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768833,
+  "lat": -0.6041255,
+  "lon": 30.1578241,
+  "tags": {
+    "addr:city": "Rurengye",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ibaare",
+    "addr:subcounty": "Ibaare",
+    "amenity": "school",
+    "name": "Kitabi Seminary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768841,
+  "lat": -0.6165112,
+  "lon": 30.1687271,
+  "tags": {
+    "addr:city": "Kyamabaare",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kiyaga",
+    "addr:subcounty": "Bumbaire",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kiyaga Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018574"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768843,
+  "lat": -0.5570688,
+  "lon": 30.1354822,
+  "tags": {
+    "addr:city": "Bugomora",
+    "addr:county": "Bushenyi-Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward III",
+    "addr:subcounty": "Ishaka Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyamabona Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010484"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768846,
+  "lat": -0.5402965,
+  "lon": 30.1011339,
+  "tags": {
+    "addr:city": "Bugomora",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyabubare",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyanyakatura Central Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010488"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768851,
+  "lat": -0.5462389,
+  "lon": 30.1778736,
+  "tags": {
+    "addr:city": "Kyeitembe West",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kyeitembe",
+    "addr:subcounty": "Central Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyeitembe Boarding Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018682"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768852,
+  "lat": -0.5457317,
+  "lon": 30.1762315,
+  "tags": {
+    "addr:city": "Kyeitembe West",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kyeitembe",
+    "addr:subcounty": "Central Division",
+    "amenity": "school",
+    "name": "Kyeitembe Technical School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018683"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768853,
+  "lat": -0.5349638,
+  "lon": 30.1474798,
+  "tags": {
+    "addr:city": "Bwegiranye",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward IV",
+    "addr:subcounty": "Ishaka Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyempisi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018685"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768856,
+  "lat": -0.5410452,
+  "lon": 30.0970125,
+  "tags": {
+    "addr:city": "Nyabubare",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyabubare",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Light Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010483"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768857,
+  "lat": -0.5360098,
+  "lon": 30.1271954,
+  "tags": {
+    "addr:city": "Matsya",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kizinda",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Little Stars Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010477"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768863,
+  "lat": -0.5864116,
+  "lon": 30.2137419,
+  "tags": {
+    "addr:city": "Kamutyaza",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bumbaire",
+    "addr:subcounty": "Bumbaire",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "isced:level": "1",
+    "name": "Muginda Leads Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018678"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768866,
+  "lat": -0.5829553,
+  "lon": 30.1012242,
+  "tags": {
+    "addr:city": "Nyakabirizi",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nkanga",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nkanga Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010510"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768867,
+  "lat": -0.5480551,
+  "lon": 30.2312323,
+  "tags": {
+    "addr:city": "Ntungamo",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ntungamo",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ntungamo Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22675477"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768868,
+  "lat": -0.6166997,
+  "lon": 30.1989102,
+  "tags": {
+    "addr:city": "Numba Central",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Numba",
+    "addr:subcounty": "Bumbaire",
+    "amenity": "school",
+    "name": "Numba Cope School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018570"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768870,
+  "lat": -0.6222701,
+  "lon": 30.2032494,
+  "tags": {
+    "addr:city": "Keijenge",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Numba",
+    "addr:subcounty": "Bumbaire",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Numba Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018572"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768871,
+  "lat": -0.5556459,
+  "lon": 30.0923783,
+  "tags": {
+    "addr:city": "Nyabitote II",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyabubare",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyabitote Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010516"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768872,
+  "lat": -0.5388904,
+  "lon": 30.0903134,
+  "tags": {
+    "addr:city": "Ruharo",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyabubare",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyabubare Primary Boarding School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010518"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768874,
+  "lat": -0.5362576,
+  "lon": 30.0792170,
+  "tags": {
+    "addr:city": "Nkuna I",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyabubare",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Nyabubare Secondary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010503"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768881,
+  "lat": -0.5590342,
+  "lon": 30.0677429,
+  "tags": {
+    "addr:city": "Nyakatooma",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kahungye",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyakatooma Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22910898"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768882,
+  "lat": -0.6092210,
+  "lon": 30.2240499,
+  "tags": {
+    "addr:city": "Nyamitooma",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Buyanja",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyamitooma Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23017503"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768884,
+  "lat": -0.6113117,
+  "lon": 30.1731077,
+  "tags": {
+    "addr:city": "Nyamizi",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kiyaga",
+    "addr:subcounty": "Bumbaire",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyanzi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018664"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768887,
+  "lat": -0.5434195,
+  "lon": 30.1095474,
+  "tags": {
+    "addr:city": "Nyakinengo",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kizinda",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyarutuntu Madarasat Moslem Primary School",
+    "operator:type": "public",
+    "religion": "muslim",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010500"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768990,
+  "lat": -0.6246651,
+  "lon": 30.1866468,
+  "tags": {
+    "addr:city": "Nyaruzinga",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Numba",
+    "addr:subcounty": "Bumbaire",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyaruzinga Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010480"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768993,
+  "lat": -0.5851814,
+  "lon": 30.1320803,
+  "tags": {
+    "addr:city": "Kiruhura",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ryeishe",
+    "addr:subcounty": "Ibaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Patience Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010508"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768994,
+  "lat": -0.5412555,
+  "lon": 30.1591975,
+  "tags": {
+    "addr:city": "Nyarwanya",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward II",
+    "addr:subcounty": "Central Division",
+    "amenity": "school",
+    "name": "Pearl Academy",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768997,
+  "lat": -0.5500533,
+  "lon": 30.1363788,
+  "tags": {
+    "addr:city": "Bugomora",
+    "addr:county": "Bushenyi-Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward III",
+    "addr:subcounty": "Ishaka Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Prime Junior School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010513"
+  }
+},
+{
+  "type": "node",
+  "id": 4019768999,
+  "lat": -0.5365860,
+  "lon": 30.0879051,
+  "tags": {
+    "addr:city": "Rugaga",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyabubare",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rugaga Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010517"
+  }
+},
+{
+  "type": "node",
+  "id": 4019769000,
+  "lat": -0.5618173,
+  "lon": 30.1571796,
+  "tags": {
+    "addr:city": "Ruharo Central",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ruharo",
+    "addr:subcounty": "Central Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ruharo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018677"
+  }
+},
+{
+  "type": "node",
+  "id": 4019769002,
+  "lat": -0.5426824,
+  "lon": 30.1556243,
+  "tags": {
+    "addr:city": "Nyarwanya",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward II",
+    "addr:subcounty": "Central Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rukindo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018669"
+  }
+},
+{
+  "type": "node",
+  "id": 4019769003,
+  "lat": -0.5647869,
+  "lon": 30.0728651,
+  "tags": {
+    "addr:city": "Bubare",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kahungye",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rurama Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010504"
+  }
+},
+{
+  "type": "node",
+  "id": 4019769006,
+  "lat": -0.6076294,
+  "lon": 30.2302560,
+  "tags": {
+    "addr:city": "Muraru",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Buyanja",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ruyanja Integrated Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23017514"
+  }
+},
+{
+  "type": "node",
+  "id": 4019769007,
+  "lat": -0.5406857,
+  "lon": 30.2259340,
+  "tags": {
+    "addr:city": "Nyakabirizi",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyakabirizi Division",
+    "addr:subcounty": "Bushenyi-Ishaka Municipality",
+    "amenity": "school",
+    "name": "Ruyonza School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23017515"
+  }
+},
+{
+  "type": "node",
+  "id": 4019769009,
+  "lat": -0.5297472,
+  "lon": 30.1236206,
+  "tags": {
+    "addr:city": "Rushoroza",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kigoma",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwakashoma Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010496"
+  }
+},
+{
+  "type": "node",
+  "id": 4019769012,
+  "lat": -0.5851610,
+  "lon": 30.2235190,
+  "tags": {
+    "addr:city": "Maino",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kibaare",
+    "addr:subcounty": "Bumbaire",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwemiyonga Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23017504"
+  }
+},
+{
+  "type": "node",
+  "id": 4019769014,
+  "lat": -0.5411525,
+  "lon": 30.1636047,
+  "tags": {
+    "addr:city": "Rushinya",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward II",
+    "addr:subcounty": "Central Division",
+    "amenity": "school",
+    "name": "Stagnes Girls School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018667"
+  }
+},
+{
+  "type": "node",
+  "id": 4019769015,
+  "lat": -0.6001449,
+  "lon": 30.1459297,
+  "tags": {
+    "addr:city": "Kitabi",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ibaare",
+    "addr:subcounty": "Ibaare",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Saint Cecilia Senior Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010501"
+  }
+},
+{
+  "type": "node",
+  "id": 4019769017,
+  "lat": -0.6076504,
+  "lon": 30.1506693,
+  "tags": {
+    "addr:city": "Nyaruka",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ibaare",
+    "addr:subcounty": "Ibaare",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Saint Charles Lwanga Senior Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018653"
+  }
+},
+{
+  "type": "node",
+  "id": 4019769018,
+  "lat": -0.6014173,
+  "lon": 30.1473675,
+  "tags": {
+    "addr:city": "Kitabi",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ibaare",
+    "addr:subcounty": "Ibaare",
+    "amenity": "school",
+    "name": "Saint Jude Technical School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018656"
+  }
+},
+{
+  "type": "node",
+  "id": 4019769019,
+  "lat": -0.5428120,
+  "lon": 30.1674873,
+  "tags": {
+    "addr:city": "Rushinya",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward II",
+    "addr:subcounty": "Central Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Kagwa Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018659"
+  }
+},
+{
+  "type": "node",
+  "id": 4019769025,
+  "lat": -0.5408483,
+  "lon": 30.1752244,
+  "tags": {
+    "addr:city": "Ruhandagazi",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward II",
+    "addr:subcounty": "Central Division",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Trinity Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23018691"
+  }
+},
+{
+  "type": "node",
+  "id": 4033898970,
+  "lat": -0.5189199,
+  "lon": 30.0413715,
+  "tags": {
+    "addr:city": "Kabatuura",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyarugoote",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "name": "Kyabatura Modern Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4033898975,
+  "lat": -0.4965834,
+  "lon": 30.0442969,
+  "tags": {
+    "addr:city": "Nyakahandagazi",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyarugoote",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "name": "Nyakahandagazi Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4033954432,
+  "lat": -0.5405996,
+  "lon": 30.0552179,
+  "tags": {
+    "addr:city": "Kitoojo II",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kahungye",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "name": "Nyakatuntu Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4033954476,
+  "lat": -0.5450626,
+  "lon": 30.0322087,
+  "tags": {
+    "addr:city": "Bukuba I",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kahungye",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "fixme": "please fix the position of this node",
+    "name": "Standard Bukuba High School Bushenyi",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4035939656,
+  "lat": -0.5566851,
+  "lon": 30.2772730,
+  "tags": {
+    "addr:city": "Rwentuha",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kitwe",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "fixme": "please fix the position of this node",
+    "isced:level": "1",
+    "name": "Aunt Jane Model Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999740"
+  }
+},
+{
+  "type": "node",
+  "id": 4035939666,
+  "lat": -0.5277889,
+  "lon": 30.2963013,
+  "tags": {
+    "addr:city": "Bujaga A",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bijengye",
+    "addr:subcounty": "Kyabugimbi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bujaga Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999760"
+  }
+},
+{
+  "type": "node",
+  "id": 4035939667,
+  "lat": -0.5829876,
+  "lon": 30.2937069,
+  "tags": {
+    "addr:city": "Kicwamba",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kararo",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bunura II Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999759"
+  }
+},
+{
+  "type": "node",
+  "id": 4035939671,
+  "lat": -0.5812537,
+  "lon": 30.2407502,
+  "tags": {
+    "addr:city": "Bweera I",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bweera",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "fixme": "please fix the position of this node",
+    "isced:level": "1",
+    "name": "Bwera Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999755"
+  }
+},
+{
+  "type": "node",
+  "id": 4035939687,
+  "lat": -0.6184980,
+  "lon": 30.2562033,
+  "tags": {
+    "addr:city": "Kabuba",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kikagata",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "fixme": "please fix the position of this node",
+    "isced:level": "1",
+    "name": "Kabuba Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999606"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940196,
+  "lat": -0.5904783,
+  "lon": 30.2572727,
+  "tags": {
+    "addr:city": "Kitagata",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kikagata",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "fixme": "please fix the position of this node",
+    "isced:level": "1",
+    "name": "Kakambo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999613"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940199,
+  "lat": -0.5579481,
+  "lon": 30.2968282,
+  "tags": {
+    "addr:city": "Rwenkuba",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Rutooma",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kantojo Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999607"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940201,
+  "lat": -0.5913228,
+  "lon": 30.2828907,
+  "tags": {
+    "addr:city": "Karaaro",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kararo",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Karaaro Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999603"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940211,
+  "lat": -0.5500614,
+  "lon": 30.2701182,
+  "tags": {
+    "addr:city": "Kitwe",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kitwe",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "name": "Kizooba Technical School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999633"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940215,
+  "lat": -0.6000958,
+  "lon": 30.2802916,
+  "tags": {
+    "addr:city": "Ryakisire",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kararo",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyamacumu Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999629"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940218,
+  "lat": -0.5423593,
+  "lon": 30.2748162,
+  "tags": {
+    "addr:city": "Rutooma",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kitwe",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyamuzoora Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999626"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940222,
+  "lat": -0.5715011,
+  "lon": 30.2708615,
+  "tags": {
+    "addr:city": "Kyeizooba",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyamiyaga",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyeizooba Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999622"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940223,
+  "lat": -0.5668636,
+  "lon": 30.2650551,
+  "tags": {
+    "addr:city": "Kyeizooba",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyamiyaga",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kyeizooba Senior Secondary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999621"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940229,
+  "lat": -0.5621015,
+  "lon": 30.2876993,
+  "tags": {
+    "addr:city": "Katooma",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Rutooma",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mbatamo Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999650"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940234,
+  "lat": -0.5796120,
+  "lon": 30.2709176,
+  "tags": {
+    "addr:city": "Nyaruyanga",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kararo",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mugonya Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999644"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940239,
+  "lat": -0.6047250,
+  "lon": 30.2670992,
+  "tags": {
+    "addr:city": "Mwengura",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kikagata",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "fixme": "please fix the position of this node",
+    "isced:level": "1",
+    "name": "Mwengura Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999638"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940240,
+  "lat": -0.6060382,
+  "lon": 30.2681013,
+  "tags": {
+    "addr:city": "Mwengura",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kikagata",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "fixme": "please fix the position of this node",
+    "isced:level": "2;3;4",
+    "name": "Mwengura Senior Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999637"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940241,
+  "lat": -0.5420737,
+  "lon": 30.2611927,
+  "tags": {
+    "addr:city": "Ncucumo",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kitwe",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "fixme": "please fix the position of this node",
+    "isced:level": "1",
+    "name": "Ncucumo Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999668"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940245,
+  "lat": -0.5577118,
+  "lon": 30.3021271,
+  "tags": {
+    "addr:city": "Nyabutoba",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Rutooma",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyabutobo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999663"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940250,
+  "lat": -0.5340815,
+  "lon": 30.2877586,
+  "tags": {
+    "addr:city": "Kyamagambo",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Rutooma",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyamirima Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999657"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940265,
+  "lat": -0.5325842,
+  "lon": 30.2590966,
+  "tags": {
+    "addr:city": "Rubingo",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kitwe",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "fixme": "please fix the position of this node",
+    "isced:level": "1",
+    "name": "Rubingo Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22675784"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940276,
+  "lat": -0.5639962,
+  "lon": 30.2760857,
+  "tags": {
+    "addr:city": "Omunjeru",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kitwe",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwagasha Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999693"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940292,
+  "lat": -0.5577710,
+  "lon": 30.2748446,
+  "tags": {
+    "addr:city": "Rwentuha",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kitwe",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "fixme": "please fix the position of this node",
+    "isced:level": "1",
+    "name": "Rwentuha Parents Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999709"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940293,
+  "lat": -0.5560229,
+  "lon": 30.2793178,
+  "tags": {
+    "addr:city": "Rwentuha",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kitwe",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwentuha Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22952328"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940294,
+  "lat": -0.6119923,
+  "lon": 30.2753489,
+  "tags": {
+    "addr:city": "Rwenyena I",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kikagata",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwenyena Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999708"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940298,
+  "lat": -0.5595787,
+  "lon": 30.2758836,
+  "tags": {
+    "addr:city": "Omunjeru",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kitwe",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "fixme": "please fix the position of this node",
+    "isced:level": "2;3;4",
+    "name": "Standard High School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999704"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940307,
+  "lat": -0.5970437,
+  "lon": 30.2577148,
+  "tags": {
+    "addr:city": "Kakamba",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kikagata",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "fixme": "please fix the position of this node",
+    "isced:level": "1",
+    "name": "Saint Peter's Private Kakamba Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999724"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940320,
+  "lat": -0.5466420,
+  "lon": 30.2457952,
+  "tags": {
+    "addr:city": "Utc",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyamiyaga",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Uganda Technical College Bushenyi",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999714"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940322,
+  "lat": -0.5668303,
+  "lon": 30.2672980,
+  "tags": {
+    "addr:city": "Kyeizooba",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyamiyaga",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Unique Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999729"
+  }
+},
+{
+  "type": "node",
+  "id": 4035940323,
+  "lat": -0.5563133,
+  "lon": 30.2735464,
+  "tags": {
+    "addr:city": "Omunjeru",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kitwe",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "fixme": "please fix the position of this node",
+    "isced:level": "2;3;4",
+    "name": "Vine High School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999728"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344501,
+  "lat": -0.4251019,
+  "lon": 30.1827060,
+  "tags": {
+    "addr:city": "Bitooma C",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bitooma",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "name": "Bitooma Corp School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001370"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344503,
+  "lat": -0.4256272,
+  "lon": 30.1683099,
+  "tags": {
+    "addr:city": "Kyanyamugiira",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kashambya",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bubare Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001372"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344504,
+  "lat": -0.5236329,
+  "lon": 30.1498746,
+  "tags": {
+    "addr:city": "Buhuma I",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Buramba",
+    "addr:subcounty": "Ishaka Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Buramba Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001373"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344505,
+  "lat": -0.4198116,
+  "lon": 30.2223994,
+  "tags": {
+    "addr:city": "Kaasa II",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Burungira",
+    "addr:subcounty": "Ruhumuro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Burungira Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001378"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344506,
+  "lat": -0.3952633,
+  "lon": 30.1159450,
+  "tags": {
+    "addr:city": "Kayembe",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Mashonga",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "name": "Bushenyi Preparatory School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001379"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344507,
+  "lat": -0.4766403,
+  "lon": 30.1050029,
+  "tags": {
+    "addr:city": "Rubaare",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Butare Town Board",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Bushenyi Progressive High School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001380"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344508,
+  "lat": -0.4774073,
+  "lon": 30.0935921,
+  "tags": {
+    "addr:city": "Rubuzagye",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kibingo",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Butinde Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001381"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344509,
+  "lat": -0.4247608,
+  "lon": 30.1753000,
+  "tags": {
+    "addr:city": "Bitooma Central",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bitooma",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "name": "Church School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001374"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344510,
+  "lat": -0.4421696,
+  "lon": 30.1743303,
+  "tags": {
+    "addr:city": "Ryeseera B",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ngorora",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "name": "Church School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344511,
+  "lat": -0.4950434,
+  "lon": 30.1651170,
+  "tags": {
+    "addr:city": "Katimba",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Rushinya",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "name": "Cop School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001376"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344514,
+  "lat": -0.4760377,
+  "lon": 30.1094802,
+  "tags": {
+    "addr:city": "Nyakatooma",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Butare Town Board",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "name": "Igara Junior School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001343"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344515,
+  "lat": -0.5041476,
+  "lon": 30.1356864,
+  "tags": {
+    "addr:city": "Nyakabaare",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nshumi",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "name": "Jj Nshumi Community School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001344"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344516,
+  "lat": -0.4171860,
+  "lon": 30.2329978,
+  "tags": {
+    "addr:city": "Kaasa I",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Burungira",
+    "addr:subcounty": "Ruhumuro",
+    "amenity": "school",
+    "fixme": "Please,check the position of the node",
+    "isced:level": "1",
+    "name": "Kaasa Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001345"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344517,
+  "lat": -0.5054634,
+  "lon": 30.1515383,
+  "tags": {
+    "addr:city": "Muzira I",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kabaare",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kabaare Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001338"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344519,
+  "lat": -0.4911529,
+  "lon": 30.1718595,
+  "tags": {
+    "addr:city": "Rubundabuzi",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Rushinya",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "isced:level": "0;1",
+    "name": "Kabari Nursery and Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001340"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344520,
+  "lat": -0.4950222,
+  "lon": 30.0941421,
+  "tags": {
+    "addr:city": "Kanyabiko",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nshumi",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "name": "Kabutsye Muslim Parent's School",
+    "religion": "muslim",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001341"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344522,
+  "lat": -0.4945715,
+  "lon": 30.1910749,
+  "tags": {
+    "addr:city": "Kakanju B",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kakanju",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kakanju Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001351"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344523,
+  "lat": -0.4967207,
+  "lon": 30.1923632,
+  "tags": {
+    "addr:city": "Kakanju A",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kakanju",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "name": "Kakanju Vocational School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001353"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344524,
+  "lat": -0.4324077,
+  "lon": 30.1568188,
+  "tags": {
+    "addr:city": "Kakira",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kakira",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kakira Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22667493"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344525,
+  "lat": -0.4393556,
+  "lon": 30.1407453,
+  "tags": {
+    "addr:city": "Kyeibumba",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kakoni",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kakoni Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001346"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344526,
+  "lat": -0.4154375,
+  "lon": 30.1624515,
+  "tags": {
+    "addr:city": "Kashambya",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kashambya",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "name": "Kashambya Nursing School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001347"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344528,
+  "lat": -0.4261810,
+  "lon": 30.1868230,
+  "tags": {
+    "addr:city": "Kashororo",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bitooma",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kashororo Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001349"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344529,
+  "lat": -0.5109959,
+  "lon": 30.0831870,
+  "tags": {
+    "addr:city": "Kashozi",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyabubare",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kashozi Boarding Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001358"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344530,
+  "lat": -0.4819674,
+  "lon": 30.1931010,
+  "tags": {
+    "addr:city": "Kibingo Central",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kakanju",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Katunga Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001359"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344531,
+  "lat": -0.4664677,
+  "lon": 30.1812166,
+  "tags": {
+    "addr:city": "Nombe A",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Katunga",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "name": "Katunga Vocational School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001360"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344532,
+  "lat": -0.4324264,
+  "lon": 30.1848127,
+  "tags": {
+    "addr:city": "Kayengo",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ngorora",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kayengo Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001361"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344533,
+  "lat": -0.4282646,
+  "lon": 30.2058895,
+  "tags": {
+    "addr:city": "Kemitaaha",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kitojo",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kemitaaha Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001354"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344534,
+  "lat": -0.3882459,
+  "lon": 30.1333342,
+  "tags": {
+    "addr:city": "Kibazi",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kibazi",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kibazi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001355"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344535,
+  "lat": -0.5162093,
+  "lon": 30.1201097,
+  "tags": {
+    "addr:city": "Kibatsi",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kigoma",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kigoma Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001356"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344536,
+  "lat": -0.5125842,
+  "lon": 30.1257107,
+  "tags": {
+    "addr:city": "Kibatsi",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nshumi",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kigoma Progressive Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001357"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344537,
+  "lat": -0.4743394,
+  "lon": 30.1701600,
+  "tags": {
+    "addr:city": "Kigondo B",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Katunga",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kigondo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001366"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344538,
+  "lat": -0.5163830,
+  "lon": 30.1530696,
+  "tags": {
+    "addr:city": "Kijumo II",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kabaare",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kijumo Model Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001367"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344541,
+  "lat": -0.4619204,
+  "lon": 30.1979276,
+  "tags": {
+    "addr:city": "Bunenwa",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kitojo",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kiyagara Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001362"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344542,
+  "lat": -0.4219614,
+  "lon": 30.2201915,
+  "tags": {
+    "addr:city": "Kaasa II",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Burungira",
+    "addr:subcounty": "Ruhumuro",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Komboni Senior Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001363"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344543,
+  "lat": -0.4013253,
+  "lon": 30.1359895,
+  "tags": {
+    "addr:city": "Katuura",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Mashonga",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyabagaju Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001364"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344544,
+  "lat": -0.4644719,
+  "lon": 30.1451247,
+  "tags": {
+    "addr:city": "Kyamamari",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyanga",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyamamari Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001365"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344545,
+  "lat": -0.4507703,
+  "lon": 30.1158473,
+  "tags": {
+    "addr:city": "Kyabugimbi",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Butare Town Board",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyamuhunga Central Day and Boarding Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001407"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344546,
+  "lat": -0.4522607,
+  "lon": 30.1151139,
+  "tags": {
+    "addr:city": "Ryakatakan",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Butare Town Board",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyamuhunga Central Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001408"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344547,
+  "lat": -0.4514151,
+  "lon": 30.1150481,
+  "tags": {
+    "addr:city": "Ryakatakan",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Butare Town Board",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kyamuhunga Secondary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001409"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344548,
+  "lat": -0.3927866,
+  "lon": 30.1209461,
+  "tags": {
+    "addr:city": "Kibingo",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Mashonga",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "name": "Kyamuhunga Technical Institute",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001410"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344549,
+  "lat": -0.5056725,
+  "lon": 30.1112838,
+  "tags": {
+    "addr:city": "Kanyambaare",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nshumi",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyamureba Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001403"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344550,
+  "lat": -0.4732109,
+  "lon": 30.1038248,
+  "tags": {
+    "addr:city": "Rubaare",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Butare Town Board",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyeigamba Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001404"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344551,
+  "lat": -0.4869937,
+  "lon": 30.2169976,
+  "tags": {
+    "addr:city": "Kyentobo",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kakanju",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyentobo Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001405"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344552,
+  "lat": -0.4729928,
+  "lon": 30.1963829,
+  "tags": {
+    "addr:city": "Nyarutuntu",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Katunga",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Little Angel Junior Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001406"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344553,
+  "lat": -0.4008817,
+  "lon": 30.1155264,
+  "tags": {
+    "addr:city": "Ryantende",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Mashonga",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mashonga Madarasat Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001415"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344554,
+  "lat": -0.3914776,
+  "lon": 30.1207224,
+  "tags": {
+    "addr:city": "Kibingo",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Mashonga",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mashonga Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001416"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344555,
+  "lat": -0.4167791,
+  "lon": 30.1836192,
+  "tags": {
+    "addr:city": "Kanyamiteera",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bitooma",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Muhame Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001418"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344556,
+  "lat": -0.3919275,
+  "lon": 30.1991428,
+  "tags": {
+    "addr:city": "Murambi",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kimuri",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "name": "Murambi Church School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001420"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344557,
+  "lat": -0.4430361,
+  "lon": 30.1939734,
+  "tags": {
+    "addr:city": "Mushakira",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ngorora",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "name": "Mushakira Main School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001411"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344559,
+  "lat": -0.4953432,
+  "lon": 30.2018566,
+  "tags": {
+    "addr:city": "Ndaragi",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kakanju",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ndaragi Preparatory Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001413"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344560,
+  "lat": -0.4500588,
+  "lon": 30.1802726,
+  "tags": {
+    "addr:city": "Rugarama",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ngorora",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "name": "Ngorora Church School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001414"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344561,
+  "lat": -0.4661230,
+  "lon": 30.1790007,
+  "tags": {
+    "addr:city": "Nombe A",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Katunga",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nombe Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001430"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344563,
+  "lat": -0.4358863,
+  "lon": 30.1335439,
+  "tags": {
+    "addr:city": "Nsungansungi",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Mashonga",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nshugashugi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001432"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344564,
+  "lat": -0.5100316,
+  "lon": 30.1298997,
+  "tags": {
+    "addr:city": "Nyakishojwa",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nshumi",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nshumi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001433"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344565,
+  "lat": -0.4717533,
+  "lon": 30.1276379,
+  "tags": {
+    "addr:city": "Nyakahanga B",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kibingo",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ntungamo Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001423"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344567,
+  "lat": -0.4784404,
+  "lon": 30.1553022,
+  "tags": {
+    "addr:city": "Nyakabingo I",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Rushinya",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyakabungo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001427"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344569,
+  "lat": -0.4304567,
+  "lon": 30.2275574,
+  "tags": {
+    "addr:city": "Nyakateete B",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ruhumuro",
+    "addr:subcounty": "Ruhumuro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyakatete Saint Ambrose Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001442"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344570,
+  "lat": -0.5087372,
+  "lon": 30.0687720,
+  "tags": {
+    "addr:city": "Kahiija II",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyarugoote",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyakatooma III Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001445"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344571,
+  "lat": -0.3945070,
+  "lon": 30.1590330,
+  "tags": {
+    "addr:city": "Nyakazinga",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kibazi",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyakazinga Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001446"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344572,
+  "lat": -0.4597704,
+  "lon": 30.1626324,
+  "tags": {
+    "addr:city": "Rwengwe",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyanga",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyamishundo Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001449"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344573,
+  "lat": -0.4974412,
+  "lon": 30.1096067,
+  "tags": {
+    "addr:city": "Nyampungye",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nshumi",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyampungye Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001435"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344574,
+  "lat": -0.4771501,
+  "lon": 30.2329331,
+  "tags": {
+    "addr:city": "Nyamyerande I",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Bugaara",
+    "addr:subcounty": "Ruhumuro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyamyerande Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001436"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344575,
+  "lat": -0.4524096,
+  "lon": 30.1549702,
+  "tags": {
+    "addr:city": "Nyakashojwa",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kakira",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyanga Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001439"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344576,
+  "lat": -0.4468056,
+  "lon": 30.1889224,
+  "tags": {
+    "addr:city": "Ngorora",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ngorora",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyapikhi Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001441"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344577,
+  "lat": -0.5063744,
+  "lon": 30.0623671,
+  "tags": {
+    "addr:city": "Rwekitooma",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyarugoote",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyarugopote Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001389"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344578,
+  "lat": -0.5124903,
+  "lon": 30.1625827,
+  "tags": {
+    "addr:city": "Bugarama",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kabaare",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyarurambi Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001392"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344579,
+  "lat": -0.5212039,
+  "lon": 30.1211862,
+  "tags": {
+    "addr:city": "Bucuma",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kigoma",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Paramount Senior Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001393"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344580,
+  "lat": -0.4414451,
+  "lon": 30.1740260,
+  "tags": {
+    "addr:city": "Ryeseera B",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ngorora",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "fixme": "Please,check the position of the node",
+    "name": "Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344581,
+  "lat": -0.5228272,
+  "lon": 30.2172692,
+  "tags": {
+    "addr:city": "Nyamiko",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:subcounty": "Nyakabirizi Division",
+    "amenity": "school",
+    "name": "Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344582,
+  "lat": -0.4626325,
+  "lon": 30.1328365,
+  "tags": {
+    "addr:city": "Ryamarembo II",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kyamahunga",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rubuzagye Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001383"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344583,
+  "lat": -0.4518247,
+  "lon": 30.2178616,
+  "tags": {
+    "addr:city": "Rwekitooma",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ruhumuro",
+    "addr:subcounty": "Ruhumuro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ruhumuro Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001385"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344584,
+  "lat": -0.4114489,
+  "lon": 30.2075244,
+  "tags": {
+    "addr:city": "Nyabwirima",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kimuri",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rushobe Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001388"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344585,
+  "lat": -0.4162904,
+  "lon": 30.1336399,
+  "tags": {
+    "addr:city": "Kyamabare",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Mashonga",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ruswa Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001396"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344586,
+  "lat": -0.4901004,
+  "lon": 30.1609594,
+  "tags": {
+    "addr:city": "Rwamugasha",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Rushinya",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwamugasha Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001398"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344587,
+  "lat": -0.4871605,
+  "lon": 30.1459040,
+  "tags": {
+    "addr:city": "Nyakashojwa",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kibingo",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwanshetsya Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001400"
+  }
+},
+{
+  "type": "node",
+  "id": 4037344588,
+  "lat": -0.4043267,
+  "lon": 30.1786261,
+  "tags": {
+    "addr:city": "Rwanziro",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kashambya",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "name": "Rwanziro Church School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001401"
+  }
+},
+{
+  "type": "node",
+  "id": 4037345590,
+  "lat": -0.5241205,
+  "lon": 30.1751621,
+  "tags": {
+    "addr:city": "Mutojo",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ryamabengwa Ward",
+    "addr:subcounty": "Central Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwatukwire Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001422"
+  }
+},
+{
+  "type": "node",
+  "id": 4037345592,
+  "lat": -0.4488737,
+  "lon": 30.1386101,
+  "tags": {
+    "addr:city": "Rwenjojo",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kakoni",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwenjojo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001426"
+  }
+},
+{
+  "type": "node",
+  "id": 4037345593,
+  "lat": -0.4508947,
+  "lon": 30.2063069,
+  "tags": {
+    "addr:city": "Ryakajujo B",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kitojo",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "isced:level": "0;1",
+    "name": "Ryakajuju Nursery and Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001444"
+  }
+},
+{
+  "type": "node",
+  "id": 4037345594,
+  "lat": -0.5172766,
+  "lon": 30.1789701,
+  "tags": {
+    "addr:city": "Ryamabengwa",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ryamabengwa Ward",
+    "addr:subcounty": "Central Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ryamabengwa Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001443"
+  }
+},
+{
+  "type": "node",
+  "id": 4037345595,
+  "lat": -0.4668689,
+  "lon": 30.1348977,
+  "tags": {
+    "addr:city": "Ryamarembo I",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kyamahunga",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ryamarembo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001448"
+  }
+},
+{
+  "type": "node",
+  "id": 4037345597,
+  "lat": -0.4932746,
+  "lon": 30.1284477,
+  "tags": {
+    "addr:city": "Ryamuhunga",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nshumi",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ryamuhunga Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001437"
+  }
+},
+{
+  "type": "node",
+  "id": 4037345598,
+  "lat": -0.5161214,
+  "lon": 30.1143595,
+  "tags": {
+    "addr:city": "Kibatsi",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kigoma",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Standrew's Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001434"
+  }
+},
+{
+  "type": "node",
+  "id": 4037345599,
+  "lat": -0.4276637,
+  "lon": 30.1687642,
+  "tags": {
+    "addr:city": "Kyanyamugiira",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kashambya",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "name": "Saint Francis Vocational School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001440"
+  }
+},
+{
+  "type": "node",
+  "id": 4037345600,
+  "lat": -0.5139051,
+  "lon": 30.1137497,
+  "tags": {
+    "addr:city": "Kirera",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kigoma",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Joseph Junior Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001438"
+  }
+},
+{
+  "type": "node",
+  "id": 4037345602,
+  "lat": -0.4446850,
+  "lon": 30.1171355,
+  "tags": {
+    "addr:city": "Gomboni",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Butare Town Board",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "name": "Saint Mary's Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4037345603,
+  "lat": -0.4449156,
+  "lon": 30.1185112,
+  "tags": {
+    "addr:city": "Gomboni",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Butare Town Board",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "name": "Saint Mary's Vocational School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001394"
+  }
+},
+{
+  "type": "node",
+  "id": 4037345604,
+  "lat": -0.5142250,
+  "lon": 30.1180263,
+  "tags": {
+    "addr:city": "Kibatsi",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kigoma",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "name": "Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4037345607,
+  "lat": -0.4260832,
+  "lon": 30.1105079,
+  "tags": {
+    "addr:city": "Tea Estate",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Mashonga",
+    "addr:subcounty": "Kyamuhunga",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Tea Estate Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001387"
+  }
+},
+{
+  "type": "node",
+  "id": 4037345608,
+  "lat": -0.5164427,
+  "lon": 30.1483537,
+  "tags": {
+    "addr:city": "Kijumo II",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kabaare",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Tweebwe Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001386"
+  }
+},
+{
+  "type": "node",
+  "id": 4037345609,
+  "lat": -0.5188737,
+  "lon": 30.1178747,
+  "tags": {
+    "addr:city": "Bucuma",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kigoma",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Uphill College",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001397"
+  }
+},
+{
+  "type": "node",
+  "id": 4037345610,
+  "lat": -0.5202521,
+  "lon": 30.1260801,
+  "tags": {
+    "addr:city": "Rwancunda",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kigoma",
+    "addr:subcounty": "Nyabubare",
+    "amenity": "school",
+    "fixme": "Please,check the position of the node",
+    "isced:level": "0;1",
+    "name": "Victoria Nursery and Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001395"
+  }
+},
+{
+  "type": "node",
+  "id": 4037345611,
+  "lat": -0.4911318,
+  "lon": 30.1492293,
+  "tags": {
+    "addr:city": "Muzira I",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Kabaare",
+    "addr:subcounty": "Kakanju",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Wabugo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001402"
+  }
+},
+{
+  "type": "node",
+  "id": 4037345612,
+  "lat": -0.4624931,
+  "lon": 30.1630700,
+  "tags": {
+    "addr:city": "Rwengwe",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyanga",
+    "addr:subcounty": "Bitooma",
+    "amenity": "school",
+    "name": "Yehunde Preparatory School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23001399"
+  }
+},
+{
+  "type": "node",
+  "id": 4994426082,
+  "lat": -0.5580147,
+  "lon": 30.2490930,
+  "tags": {
+    "addr:city": "Nyakinengo",
+    "addr:county": "Igara",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Nyamiyaga",
+    "addr:subcounty": "Kyeizooba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Runyinya II Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22999673"
+  }
+},
+{
+  "type": "node",
+  "id": 5796151957,
+  "lat": -0.5483592,
+  "lon": 30.2223004,
+  "tags": {
+    "amenity": "school",
+    "name": "Plus Two High School"
+  }
+},
+{
+  "type": "node",
+  "id": 5806776806,
+  "lat": -0.5416533,
+  "lon": 30.1451272,
+  "tags": {
+    "amenity": "school",
+    "name": "basajjabalaba primary school"
+  }
+},
+{
+  "type": "node",
+  "id": 7707453773,
+  "lat": -0.5658189,
+  "lon": 30.1944409,
+  "tags": {
+    "amenity": "school",
+    "name": "Bright Future Academy"
+  }
+},
+{
+  "type": "node",
+  "id": 8281777856,
+  "lat": -0.5474305,
+  "lon": 30.2061193,
+  "tags": {
+    "amenity": "school",
+    "name": "Ngyeya Academy"
+  }
+},
+{
+  "type": "node",
+  "id": 8281798624,
+  "lat": -0.5417874,
+  "lon": 30.2039024,
+  "tags": {
+    "amenity": "school",
+    "name": "Bushenyi Parents Primary School"
+  }
+},
+{
+  "type": "node",
+  "id": 8796485185,
+  "lat": -0.5411266,
+  "lon": 30.1456643,
+  "tags": {
+    "amenity": "school",
+    "name": "Basajjabalaba Secondary School"
+  }
+},
+{
+  "type": "node",
+  "id": 8806700587,
+  "lat": -0.5204467,
+  "lon": 30.1073221,
+  "tags": {
+    "amenity": "school",
+    "name": "Kahungye church of uganda"
+  }
+},
+{
+  "type": "node",
+  "id": 8806703280,
+  "lat": -0.5713145,
+  "lon": 30.1008537,
+  "tags": {
+    "amenity": "school",
+    "name": "Kahungye",
+    "name:en": "Kahungye"
+  }
+},
+{
+  "type": "node",
+  "id": 8808925017,
+  "lat": -0.5409679,
+  "lon": 30.1143985,
+  "tags": {
+    "amenity": "school",
+    "name": "Nyabubale sec"
+  }
+},
+{
+  "type": "node",
+  "id": 8921618617,
+  "lat": -0.5394104,
+  "lon": 30.0919623,
+  "tags": {
+    "amenity": "school",
+    "name": "Rugaga Primary school"
+  }
+},
+{
+  "type": "node",
+  "id": 8985624917,
+  "lat": -0.5376353,
+  "lon": 30.1444840,
+  "tags": {
+    "amenity": "school",
+    "name": "Kampala International University Western Campus"
+  }
+},
+{
+  "type": "node",
+  "id": 8985629018,
+  "lat": -0.5400786,
+  "lon": 30.1381912,
+  "tags": {
+    "amenity": "school",
+    "name": "Ishaka Adventist hospital primary school"
+  }
+},
+{
+  "type": "node",
+  "id": 8986654617,
+  "lat": -0.5342580,
+  "lon": 30.1422335,
+  "tags": {
+    "amenity": "school",
+    "name": "Chemiquip school of nursing",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 8986654817,
+  "lat": -0.5362242,
+  "lon": 30.1409615,
+  "tags": {
+    "amenity": "school",
+    "name": "Pearl junior primary school"
+  }
+},
+{
+  "type": "node",
+  "id": 8989287417,
+  "lat": -0.5381649,
+  "lon": 30.1430290,
+  "tags": {
+    "amenity": "school",
+    "name": "Science block"
+  }
+},
+{
+  "type": "node",
+  "id": 8991659717,
+  "lat": -0.5506584,
+  "lon": 30.1258564,
+  "tags": {
+    "amenity": "school",
+    "name": "Bassajja primary school"
+  }
+},
+{
+  "type": "node",
+  "id": 8998930617,
+  "lat": -0.5374145,
+  "lon": 30.1449709,
+  "tags": {
+    "amenity": "school",
+    "name": "Kiu main hall"
+  }
+},
+{
+  "type": "node",
+  "id": 9001958217,
+  "lat": -0.5383173,
+  "lon": 30.1362668,
+  "tags": {
+    "amenity": "school",
+    "name": "Busy Bee junior school"
+  }
+},
+{
+  "type": "node",
+  "id": 9004084117,
+  "lat": -0.5372092,
+  "lon": 30.1427725,
+  "tags": {
+    "addr:street": "Road to KIU School of engineering via Girls hostel",
+    "amenity": "school",
+    "name": "Graduation Block"
+  }
+},
+{
+  "type": "node",
+  "id": 9004668417,
+  "lat": -0.5371378,
+  "lon": 30.1364146,
+  "tags": {
+    "addr:housenumber": "123",
+    "addr:street": "Bassajja street",
+    "amenity": "school",
+    "name": "Campus view"
+  }
+},
+{
+  "type": "node",
+  "id": 9394617917,
+  "lat": -0.5768618,
+  "lon": 30.2101265,
+  "tags": {
+    "amenity": "school",
+    "name": "Rwakatende Secondary School",
+    "operator:type": "private",
+    "school:FR": "secondaire",
+    "survey:date": "2022-01-05"
+  }
+},
+{
+  "type": "node",
+  "id": 9394621660,
+  "lat": -0.5733157,
+  "lon": 30.2078195,
+  "tags": {
+    "amenity": "school",
+    "name": "Kacuncu Primary School"
+  }
+},
+{
+  "type": "node",
+  "id": 9521452617,
+  "lat": -0.5420863,
+  "lon": 30.1498674,
+  "tags": {
+    "addr:street": "Ishaka-Kagamba Road",
+    "amenity": "school",
+    "name": "Bassajja secondary school"
+  }
+},
+{
+  "type": "node",
+  "id": 9522555718,
+  "lat": -0.5457958,
+  "lon": 30.2210074,
+  "tags": {
+    "amenity": "school",
+    "name": "Bushenyi Demo School"
+  }
+},
+{
+  "type": "way",
+  "id": 353218145,
+  "center": {
+    "lat": -0.5376913,
+    "lon": 30.1445725
+  },
+  "tags": {
+    "addr:city": "Cell D",
+    "addr:county": "Bushenyi-Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Ward IV",
+    "addr:subcounty": "Ishaka Division",
+    "amenity": "school",
+    "name": "Kampala International University Western Campus",
+    "operator": "Kampala International University",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q6359115",
+    "wikipedia": "en:Kampala International University School of Health Sciences"
+  }
+},
+{
+  "type": "way",
+  "id": 364391432,
+  "center": {
+    "lat": -0.5469123,
+    "lon": 30.2001978
+  },
+  "tags": {
+    "addr:city": "Bwatoogo",
+    "addr:county": "Bushenyi- Ishaka Municipality",
+    "addr:district": "Bushenyi",
+    "addr:parish": "Central Ward",
+    "addr:subcounty": "Central Division",
+    "amenity": "school",
+    "name": "Valley College",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "way",
+  "id": 782919560,
+  "center": {
+    "lat": -0.5360228,
+    "lon": 30.1437087
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "KIU western cumpus School of engineering",
+    "operator": "KIU western Cumpus",
+    "operator:type": "private",
+    "religion": "muslim",
+    "website": "https://seas.kiu.ac.ug/"
+  }
+},
+{
+  "type": "way",
+  "id": 803131884,
+  "center": {
+    "lat": -0.5580844,
+    "lon": 30.2086342
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "Bweranyangi Junior School",
+    "operator": "Government"
+  }
+},
+{
+  "type": "way",
+  "id": 803131885,
+  "center": {
+    "lat": -0.5610310,
+    "lon": 30.2078268
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "Bweranyangi Girls Secondary School",
+    "opening_hours": "24/7",
+    "operator": "Government",
+    "wikidata": "Q15845131"
+  }
+},
+{
+  "type": "way",
+  "id": 826097764,
+  "center": {
+    "lat": -0.5520250,
+    "lon": 30.1372224
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 967019794,
+  "center": {
+    "lat": -0.3878092,
+    "lon": 30.1337298
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 987408552,
+  "center": {
+    "lat": -0.5899777,
+    "lon": 30.1340536
+  },
+  "tags": {
+    "amenity": "school"
+  }
+}
+
+  ]
+}

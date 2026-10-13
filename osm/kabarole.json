@@ -1,0 +1,1977 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-13T18:04:02Z",
+    "timestamp_areas_base": "2026-10-13T09:43:05Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1811928607,
+  "lat": 0.5677392,
+  "lon": 30.3395643,
+  "tags": {
+    "addr:city": "Makobyo",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kiko",
+    "addr:subcounty": "Ruteete",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kawanyara Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977099"
+  }
+},
+{
+  "type": "node",
+  "id": 1811928789,
+  "lat": 0.5921289,
+  "lon": 30.3318056,
+  "tags": {
+    "addr:city": "Kasojo",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kiko",
+    "addr:subcounty": "Ruteete",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kiko Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977102"
+  }
+},
+{
+  "type": "node",
+  "id": 1811929290,
+  "lat": 0.5833332,
+  "lon": 30.3071470,
+  "tags": {
+    "addr:city": "Kigarama",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kiko",
+    "addr:subcounty": "Ruteete",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kigarama Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22665840"
+  }
+},
+{
+  "type": "node",
+  "id": 2949027035,
+  "lat": 0.4854756,
+  "lon": 30.2875440,
+  "tags": {
+    "amenity": "school",
+    "name": "Mbuga Primary School"
+  }
+},
+{
+  "type": "node",
+  "id": 4023653300,
+  "lat": 0.8869966,
+  "lon": 30.4948991,
+  "tags": {
+    "addr:city": "Masongora",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kabende",
+    "addr:subcounty": "Hakibale",
+    "amenity": "school",
+    "fixme": "Please,check the position of the node",
+    "isced:level": "1",
+    "name": "Masongora Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22939507"
+  }
+},
+{
+  "type": "node",
+  "id": 4025752543,
+  "lat": 0.7316595,
+  "lon": 30.2202851,
+  "tags": {
+    "addr:city": "Kinyamangi",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bwanika",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "isced:level": "1",
+    "name": "Bishop Magambo Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073357"
+  }
+},
+{
+  "type": "node",
+  "id": 4025752575,
+  "lat": 0.7273263,
+  "lon": 30.2258924,
+  "tags": {
+    "addr:city": "Nyankwanzi B",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bwanika",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Hill Top Modern Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025752581,
+  "lat": 0.7089569,
+  "lon": 30.1800877,
+  "tags": {
+    "addr:city": "Kaisule",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kibwa",
+    "addr:subcounty": "Karangura",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Kaisule SDA Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025752588,
+  "lat": 0.7119854,
+  "lon": 30.1826672,
+  "tags": {
+    "addr:city": "Kibwa A",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kibwa",
+    "addr:subcounty": "Karangura",
+    "amenity": "school",
+    "name": "Kibyo Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025755290,
+  "lat": 0.7141871,
+  "lon": 30.1943844,
+  "tags": {
+    "addr:city": "Kicwamba II",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kihondo",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "name": "Kicwamba Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025755291,
+  "lat": 0.7124015,
+  "lon": 30.1921860,
+  "tags": {
+    "addr:city": "Kihondo",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kihondo",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Kihondo Nursery School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025755293,
+  "lat": 0.7253028,
+  "lon": 30.2168372,
+  "tags": {
+    "addr:city": "Kitumbi",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kihondo",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Kinyabuhara Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025755298,
+  "lat": 0.7130087,
+  "lon": 30.1950940,
+  "tags": {
+    "addr:city": "Kantarara",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kihondo",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Kisanga Valley Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025755302,
+  "lat": 0.7222567,
+  "lon": 30.2011117,
+  "tags": {
+    "addr:city": "Mabale I",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kihondo",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Mabale I Early Childhood Education Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025755306,
+  "lat": 0.7119771,
+  "lon": 30.1927518,
+  "tags": {
+    "addr:city": "Kihondo",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kihondo",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Moons Vocational Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025755326,
+  "lat": 0.7263749,
+  "lon": 30.2274590,
+  "tags": {
+    "addr:city": "Nyankwanzi B",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bwanika",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "isced:level": "1",
+    "name": "Saint Mark Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073425"
+  }
+},
+{
+  "type": "node",
+  "id": 4025755331,
+  "lat": 0.7141532,
+  "lon": 30.1904320,
+  "tags": {
+    "addr:city": "Kicwamba II",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kihondo",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Uganda Technical College Kicwamba",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073410"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796855,
+  "lat": 0.7104414,
+  "lon": 30.3780857,
+  "tags": {
+    "addr:city": "Katumba",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kiburara",
+    "addr:subcounty": "Hakibale",
+    "amenity": "school",
+    "name": "Bishop Bagambo Technical School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073392"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796856,
+  "lat": 0.7058706,
+  "lon": 30.2480681,
+  "tags": {
+    "addr:city": "Bwanika",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bwanika",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bishop Magambo Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073394"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796857,
+  "lat": 0.7529680,
+  "lon": 30.4049148,
+  "tags": {
+    "addr:city": "Kibasi",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kibasi",
+    "addr:subcounty": "Hakibale",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bunyonyi Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073400"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796858,
+  "lat": 0.7437968,
+  "lon": 30.2622589,
+  "tags": {
+    "addr:city": "Busaiga",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bwanika",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Busaiga Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073401"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796859,
+  "lat": 0.7207862,
+  "lon": 30.2766153,
+  "tags": {
+    "addr:city": "Harugongo",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Nyantabooma",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "name": "Early Childhood Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073402"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796860,
+  "lat": 0.7387331,
+  "lon": 30.2347036,
+  "tags": {
+    "addr:city": "Nyamisingiri",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bwanika",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Early Childhood Learning Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073404"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796861,
+  "lat": 0.7393646,
+  "lon": 30.3199053,
+  "tags": {
+    "addr:city": "Nyantabooma Mpinga",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Nyantabooma",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Early Childhood Learning Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073395"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796862,
+  "lat": 0.7404737,
+  "lon": 30.2586226,
+  "tags": {
+    "addr:city": "Busaiga",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bwanika",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Early Childhood Learning Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073396"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796863,
+  "lat": 0.7548802,
+  "lon": 30.3328818,
+  "tags": {
+    "addr:city": "Bulyambuzi A",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Nyantabooma",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "name": "Early Childhood Learning Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073397"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796864,
+  "lat": 0.7325226,
+  "lon": 30.2806565,
+  "tags": {
+    "addr:city": "Harugongo",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Nyantabooma",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Harugongo Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073399"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796865,
+  "lat": 0.8020984,
+  "lon": 30.3831426,
+  "tags": {
+    "addr:city": "Mubare",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kyererezi Ward",
+    "addr:subcounty": "Kyaitamba Town Council",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kahuna Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073378"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796866,
+  "lat": 0.7269376,
+  "lon": 30.3099963,
+  "tags": {
+    "addr:city": "Kakundwa",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Nyantabooma",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "name": "Kakundwa Early Childhood Learning Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073379"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796867,
+  "lat": 0.7096137,
+  "lon": 30.3091432,
+  "tags": {
+    "addr:city": "Kansenene",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Rwengaju",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kansenene Progressive Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073380"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796869,
+  "lat": 0.7228262,
+  "lon": 30.3776213,
+  "tags": {
+    "addr:city": "Kiburara",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kiburara",
+    "addr:subcounty": "Hakibale",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kiburara Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073373"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796870,
+  "lat": 0.7125015,
+  "lon": 30.2673682,
+  "tags": {
+    "addr:city": "Kikonge",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bwanika",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Kikonge Early Childhood Learning Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073374"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796871,
+  "lat": 0.7061046,
+  "lon": 30.3869910,
+  "tags": {
+    "addr:city": "Kahangi Central",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kahangi",
+    "addr:subcounty": "Hakibale",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Komyamyamperre Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073375"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796874,
+  "lat": 0.7624736,
+  "lon": 30.4057489,
+  "tags": {
+    "addr:city": "Bulera",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kibasi",
+    "addr:subcounty": "Hakibale",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyairumba Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073388"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796875,
+  "lat": 0.7540367,
+  "lon": 30.2687445,
+  "tags": {
+    "addr:city": "Kyankaara",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bwanika",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "name": "Kyankarra Early Childhood Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073390"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796877,
+  "lat": 0.7432492,
+  "lon": 30.3272661,
+  "tags": {
+    "addr:city": "Nyantabooma Mpinga",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Nyantabooma",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mpinga Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073383"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796878,
+  "lat": 0.7711076,
+  "lon": 30.3829936,
+  "tags": {
+    "addr:city": "Rwabihamba",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kituule",
+    "addr:subcounty": "Hakibale",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Muhangi Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073384"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796880,
+  "lat": 0.7383170,
+  "lon": 30.2347083,
+  "tags": {
+    "addr:city": "Nyamisingiri",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bwanika",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "isced:level": "1",
+    "name": "Nyamisingiri Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073386"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796881,
+  "lat": 0.7211921,
+  "lon": 30.2476261,
+  "tags": {
+    "addr:city": "Geme B",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bwanika",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "isced:level": "1",
+    "name": "Paul Devlin Academy Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073371"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796882,
+  "lat": 0.7502551,
+  "lon": 30.3479677,
+  "tags": {
+    "addr:city": "Mwokya",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kiburara",
+    "addr:subcounty": "Hakibale",
+    "amenity": "school",
+    "name": "Wamukira Early Child Development",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073372"
+  }
+},
+{
+  "type": "node",
+  "id": 4025863814,
+  "lat": 0.8671472,
+  "lon": 30.4629307,
+  "tags": {
+    "addr:city": "Kabende Centre",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kabende",
+    "addr:subcounty": "Hakibale",
+    "amenity": "school",
+    "name": "Kabende Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025863819,
+  "lat": 0.8220477,
+  "lon": 30.4197374,
+  "tags": {
+    "addr:city": "Kyaitamba B",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kijura Ward",
+    "addr:subcounty": "Kyaitamba Town Council",
+    "amenity": "school",
+    "name": "Kyaitamba Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4027475679,
+  "lat": 0.7006351,
+  "lon": 30.2306350,
+  "tags": {
+    "addr:city": "Buhara A",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bwanika",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "fixme": "Please, check position of node",
+    "isced:level": "1",
+    "name": "Buhara Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089516"
+  }
+},
+{
+  "type": "node",
+  "id": 4027475687,
+  "lat": 0.6221564,
+  "lon": 30.2060740,
+  "tags": {
+    "addr:city": "Kiseru",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Burungu",
+    "addr:subcounty": "Mugusu",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kaboyo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089273"
+  }
+},
+{
+  "type": "node",
+  "id": 4027475688,
+  "lat": 0.6226730,
+  "lon": 30.2058137,
+  "tags": {
+    "addr:city": "Kiseru",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Burungu",
+    "addr:subcounty": "Mugusu",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kaboyo Secondary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089275"
+  }
+},
+{
+  "type": "node",
+  "id": 4027475889,
+  "lat": 0.6963979,
+  "lon": 30.2148952,
+  "tags": {
+    "addr:city": "Kagogo",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kihondo",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "name": "Kagogo Early Childhood Education Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089455"
+  }
+},
+{
+  "type": "node",
+  "id": 4027475891,
+  "lat": 0.6328916,
+  "lon": 30.1576128,
+  "tags": {
+    "addr:city": "Kamabale A",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kamabale",
+    "addr:subcounty": "Karangura",
+    "amenity": "school",
+    "fixme": "Please, check position of node",
+    "isced:level": "1",
+    "name": "Kamabale Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089449"
+  }
+},
+{
+  "type": "node",
+  "id": 4027475892,
+  "lat": 0.6207853,
+  "lon": 30.1500553,
+  "tags": {
+    "addr:city": "Karangura",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kamabale",
+    "addr:subcounty": "Karangura",
+    "amenity": "school",
+    "fixme": "Please, check position of node",
+    "name": "Karangura Child Development Centre",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089453"
+  }
+},
+{
+  "type": "node",
+  "id": 4027475893,
+  "lat": 0.6544988,
+  "lon": 30.1695663,
+  "tags": {
+    "addr:city": "Kazingo",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kazingo",
+    "addr:subcounty": "Bukuuku",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kazingo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089443"
+  }
+},
+{
+  "type": "node",
+  "id": 4027475897,
+  "lat": 0.6165653,
+  "lon": 30.1592195,
+  "tags": {
+    "addr:city": "Kinyankende",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Nyabuswa",
+    "addr:subcounty": "Mugusu",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kinyankende Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089432"
+  }
+},
+{
+  "type": "node",
+  "id": 4027475900,
+  "lat": 0.6198601,
+  "lon": 30.2258019,
+  "tags": {
+    "addr:city": "Kyanduuru",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Burungu",
+    "addr:subcounty": "Mugusu",
+    "amenity": "school",
+    "fixme": "Please, check position of node",
+    "name": "Kyanduuru Early Childhood Development Centre",
+    "operator": "Early Childhood Development",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089430"
+  }
+},
+{
+  "type": "node",
+  "id": 4027475903,
+  "lat": 0.6605369,
+  "lon": 30.1494344,
+  "tags": {
+    "addr:city": "Kighumu",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Nyakitokoli",
+    "addr:subcounty": "Karangura",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mt Gessi Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089415"
+  }
+},
+{
+  "type": "node",
+  "id": 4027475906,
+  "lat": 0.6541725,
+  "lon": 30.1618350,
+  "tags": {
+    "addr:city": "Nyarukamba A",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Nyakitokoli",
+    "addr:subcounty": "Karangura",
+    "amenity": "school",
+    "fixme": "Please, check position of node",
+    "isced:level": "1",
+    "name": "Nyarukamba Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089513"
+  }
+},
+{
+  "type": "node",
+  "id": 4027475909,
+  "lat": 0.6393706,
+  "lon": 30.1601923,
+  "tags": {
+    "addr:city": "Buhikira",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kamabale",
+    "addr:subcounty": "Karangura",
+    "amenity": "school",
+    "fixme": "Please, check position of node",
+    "isced:level": "1",
+    "name": "Stemmanuel Primary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089490"
+  }
+},
+{
+  "type": "node",
+  "id": 4027475910,
+  "lat": 0.6397899,
+  "lon": 30.1595954,
+  "tags": {
+    "addr:city": "Buhikira",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kamabale",
+    "addr:subcounty": "Karangura",
+    "amenity": "school",
+    "fixme": "Please, check position of node",
+    "isced:level": "2;3;4",
+    "name": "Saint Joseph Secondary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089496"
+  }
+},
+{
+  "type": "node",
+  "id": 4027596771,
+  "lat": 0.5023943,
+  "lon": 30.2965902,
+  "tags": {
+    "addr:city": "Rwaihamba",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kyamukoka",
+    "addr:subcounty": "Ruteete",
+    "amenity": "school",
+    "name": "Crane Star Secondary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4027596776,
+  "lat": 0.4608427,
+  "lon": 30.3065620,
+  "tags": {
+    "addr:city": "Iruhuura A",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Isunga",
+    "addr:subcounty": "Kasenda",
+    "amenity": "school",
+    "name": "Iruhuura Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4027596777,
+  "lat": 0.4625709,
+  "lon": 30.3086632,
+  "tags": {
+    "addr:city": "Iruhuura A",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Isunga",
+    "addr:subcounty": "Kasenda",
+    "amenity": "school",
+    "name": "Iruhuura Technical School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4027596780,
+  "lat": 0.4419550,
+  "lon": 30.2772784,
+  "tags": {
+    "addr:city": "Kasenda Central",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kasenda",
+    "addr:subcounty": "Kasenda",
+    "amenity": "school",
+    "name": "Kasenda Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4027596785,
+  "lat": 0.4992423,
+  "lon": 30.3059381,
+  "tags": {
+    "addr:city": "Kyantambara B",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Isunga",
+    "addr:subcounty": "Kasenda",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyantambara Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23086242"
+  }
+},
+{
+  "type": "node",
+  "id": 4027596788,
+  "lat": 0.4422916,
+  "lon": 30.2806081,
+  "tags": {
+    "addr:city": "Kasenda Central",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kasenda",
+    "addr:subcounty": "Kasenda",
+    "amenity": "school",
+    "isced:level": "0;1",
+    "name": "Maria Prean Nursery and Primary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23086249"
+  }
+},
+{
+  "type": "node",
+  "id": 4027629889,
+  "lat": 0.4858527,
+  "lon": 30.2869603,
+  "tags": {
+    "addr:city": "Rukwanzi",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kabata",
+    "addr:subcounty": "Kasenda",
+    "amenity": "school",
+    "fixme": "Please,check the position of the node",
+    "name": "Mbuga Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4027629895,
+  "lat": 0.4306108,
+  "lon": 30.2959073,
+  "tags": {
+    "addr:city": "Nyabweya C",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Nyabweya",
+    "addr:subcounty": "Kasenda",
+    "amenity": "school",
+    "name": "Nyabweya Primary School",
+    "operator": "religious",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4027629896,
+  "lat": 0.4299665,
+  "lon": 30.2951778,
+  "tags": {
+    "addr:city": "Nyabweya C",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Nyabweya",
+    "addr:subcounty": "Kasenda",
+    "amenity": "school",
+    "fixme": "Please,check the position of the node",
+    "name": "Nyabweya Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4027629898,
+  "lat": 0.4171450,
+  "lon": 30.2981567,
+  "tags": {
+    "addr:city": "Nyaruhanga",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Nyabweya",
+    "addr:subcounty": "Kasenda",
+    "amenity": "school",
+    "name": "Nyaruhanga Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4027629899,
+  "lat": 0.4710464,
+  "lon": 30.3184495,
+  "tags": {
+    "addr:city": "Iruhuura B",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Isunga",
+    "addr:subcounty": "Kasenda",
+    "amenity": "school",
+    "name": "Pere Archte Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4027629900,
+  "lat": 0.4714544,
+  "lon": 30.3174867,
+  "tags": {
+    "addr:city": "Iruhuura B",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Isunga",
+    "addr:subcounty": "Kasenda",
+    "amenity": "school",
+    "name": "Pere Archte Secondary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4027629902,
+  "lat": 0.4644078,
+  "lon": 30.2950921,
+  "tags": {
+    "addr:city": "Hakabaale",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kasenda",
+    "addr:subcounty": "Kasenda",
+    "amenity": "school",
+    "name": "Rugembe Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4027629903,
+  "lat": 0.4681315,
+  "lon": 30.2695874,
+  "tags": {
+    "addr:city": "Rusoona",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kabata",
+    "addr:subcounty": "Kasenda",
+    "amenity": "school",
+    "name": "Rusoona Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4027629904,
+  "lat": 0.5270306,
+  "lon": 30.3033720,
+  "tags": {
+    "addr:city": "Rutooma",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kyamukoka",
+    "addr:subcounty": "Ruteete",
+    "amenity": "school",
+    "name": "Rutooma B Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4027629906,
+  "lat": 0.4396278,
+  "lon": 30.3032347,
+  "tags": {
+    "addr:city": "Rwenkuba",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Nyabweya",
+    "addr:subcounty": "Kasenda",
+    "amenity": "school",
+    "name": "Rwenkuba Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4027629907,
+  "lat": 0.5164633,
+  "lon": 30.3292054,
+  "tags": {
+    "addr:city": "Rweteera",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Rurama",
+    "addr:subcounty": "Ruteete",
+    "amenity": "school",
+    "name": "Rweteera Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4030848268,
+  "lat": 0.5905155,
+  "lon": 30.3130197,
+  "tags": {
+    "addr:city": "Kigarama",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kiko",
+    "addr:subcounty": "Ruteete",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Divine Mercy Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22968743"
+  }
+},
+{
+  "type": "node",
+  "id": 4030848273,
+  "lat": 0.5705849,
+  "lon": 30.3121820,
+  "tags": {
+    "addr:city": "Kasiisi",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kiko",
+    "addr:subcounty": "Ruteete",
+    "amenity": "school",
+    "isced:level": "0;1",
+    "name": "Kasiisi Nursery and Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22968749"
+  }
+},
+{
+  "type": "node",
+  "id": 4030848274,
+  "lat": 0.6121706,
+  "lon": 30.2386494,
+  "tags": {
+    "addr:city": "Nyabataahi",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kiboha",
+    "addr:subcounty": "Mugusu",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kiboha Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22968748"
+  }
+},
+{
+  "type": "node",
+  "id": 4030848275,
+  "lat": 0.5826110,
+  "lon": 30.3070701,
+  "tags": {
+    "addr:city": "Kigarama",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kiko",
+    "addr:subcounty": "Ruteete",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kigarama Talents High School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22968750"
+  }
+},
+{
+  "type": "node",
+  "id": 4030848276,
+  "lat": 0.5832626,
+  "lon": 30.3082069,
+  "tags": {
+    "addr:city": "Kigarama",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kiko",
+    "addr:subcounty": "Ruteete",
+    "amenity": "school",
+    "name": "Kigarama Teacher's Coordinating Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4030848279,
+  "lat": 0.5494601,
+  "lon": 30.2916296,
+  "tags": {
+    "addr:city": "Imaranjara",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kyamukoka",
+    "addr:subcounty": "Ruteete",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mituuli Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22968757"
+  }
+},
+{
+  "type": "node",
+  "id": 4030848281,
+  "lat": 0.5520856,
+  "lon": 30.3011905,
+  "tags": {
+    "addr:city": "Ruteete",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kyamukoka",
+    "addr:subcounty": "Ruteete",
+    "amenity": "school",
+    "name": "Ruteete Good Times Junior School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22968759"
+  }
+},
+{
+  "type": "node",
+  "id": 4030848282,
+  "lat": 0.5463787,
+  "lon": 30.2903294,
+  "tags": {
+    "addr:city": "Imaranjara",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kyamukoka",
+    "addr:subcounty": "Ruteete",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Ruteete Senior Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22968758"
+  }
+},
+{
+  "type": "node",
+  "id": 4030848284,
+  "lat": 0.5353236,
+  "lon": 30.2704577,
+  "tags": {
+    "addr:city": "Mituuli",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kyamukoka",
+    "addr:subcounty": "Ruteete",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Saint Kizito Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4032460402,
+  "lat": 0.5519423,
+  "lon": 30.3243637,
+  "tags": {
+    "addr:city": "Rusenyi B",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Rurama",
+    "addr:subcounty": "Ruteete",
+    "amenity": "school",
+    "name": "Kyaibombo Education Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977101"
+  }
+},
+{
+  "type": "node",
+  "id": 4032471008,
+  "lat": 0.6431129,
+  "lon": 30.3315244,
+  "tags": {
+    "addr:city": "Busoro",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Busoro",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Hope Christian Primary School, Busoro",
+    "operator:type": "public",
+    "religion": "christian",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977111"
+  }
+},
+{
+  "type": "node",
+  "id": 4032471010,
+  "lat": 0.6392452,
+  "lon": 30.3560315,
+  "tags": {
+    "addr:city": "Kiamara C",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kaswa",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kiamara Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977122"
+  }
+},
+{
+  "type": "node",
+  "id": 4032471011,
+  "lat": 0.6444159,
+  "lon": 30.3774035,
+  "tags": {
+    "addr:city": "Sebitoli A",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kaswa",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "name": "Kihingami Wetland and Vocational School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977119"
+  }
+},
+{
+  "type": "node",
+  "id": 4032471014,
+  "lat": 0.6955237,
+  "lon": 30.3465896,
+  "tags": {
+    "addr:city": "Nyabusenyi II",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Busoro",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mpumbu Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977124"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525173,
+  "lat": 0.6266860,
+  "lon": 30.2946623,
+  "tags": {
+    "addr:city": "Katentebere",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Ibaale",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "name": "Ahmed Islamic Education Centre",
+    "religion": "muslim",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977301"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525177,
+  "lat": 0.6278770,
+  "lon": 30.2977001,
+  "tags": {
+    "addr:city": "Ibaale",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Ibaale",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "isced:level": "0;1",
+    "name": "Good Shepherd Special Nursery and Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977288"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525179,
+  "lat": 0.6241435,
+  "lon": 30.3000438,
+  "tags": {
+    "addr:city": "Ibaale",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Ibaale",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Haibaale Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977285"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525180,
+  "lat": 0.6235298,
+  "lon": 30.3155489,
+  "tags": {
+    "addr:city": "Rwentuha",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Ibaale",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Ibaale Senior Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977284"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525186,
+  "lat": 0.6551469,
+  "lon": 30.3208147,
+  "tags": {
+    "addr:city": "Ngombe A",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Busoro",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Komuntale Memorial Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977307"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525188,
+  "lat": 0.6538044,
+  "lon": 30.3168826,
+  "tags": {
+    "addr:city": "Kyogya",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Busoro",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ngombe Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977305"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525393,
+  "lat": 0.6261531,
+  "lon": 30.2957783,
+  "tags": {
+    "addr:city": "Katentebere",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Ibaale",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Skalom Junior Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977297"
+  }
+},
+{
+  "type": "node",
+  "id": 4032561086,
+  "lat": 0.5988593,
+  "lon": 30.1872670,
+  "tags": {
+    "addr:city": "Magunga",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kiraaro",
+    "addr:subcounty": "Mugusu",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Magunga Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23053444"
+  }
+},
+{
+  "type": "node",
+  "id": 4032561996,
+  "lat": 0.6012553,
+  "lon": 30.2218458,
+  "tags": {
+    "addr:city": "Nyansozi",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kiboha",
+    "addr:subcounty": "Mugusu",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Charles Nyansozi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089318"
+  }
+},
+{
+  "type": "node",
+  "id": 4032562001,
+  "lat": 0.6138307,
+  "lon": 30.2147799,
+  "tags": {
+    "addr:city": "Mugusu Trc",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Burungu",
+    "addr:subcounty": "Mugusu",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Thereza Mugusu Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089294"
+  }
+},
+{
+  "type": "node",
+  "id": 4034199312,
+  "lat": 0.7025786,
+  "lon": 30.3190391,
+  "tags": {
+    "addr:city": "Bukoni",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Rwengaju",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bwabya Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22981019"
+  }
+},
+{
+  "type": "node",
+  "id": 4034199313,
+  "lat": 0.6834248,
+  "lon": 30.3203428,
+  "tags": {
+    "addr:city": "Kicuna A - Fort Potal",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Rwengaju",
+    "addr:street": "Rwengaju",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Christ Aid Academy Primary School",
+    "note": "Suppoted by Cunina, Belgium. www.cunina.org",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "website": "https://christaidintl.org/christaid_primary.html",
+    "wikidata": "Q22981008"
+  }
+},
+{
+  "type": "node",
+  "id": 10749364905,
+  "lat": 0.4786809,
+  "lon": 30.2925846,
+  "tags": {
+    "amenity": "school",
+    "name": "Sadhguru School"
+  }
+},
+{
+  "type": "node",
+  "id": 10749364906,
+  "lat": 0.4787938,
+  "lon": 30.2926434,
+  "tags": {
+    "amenity": "school",
+    "name": "Sadhguru School"
+  }
+},
+{
+  "type": "way",
+  "id": 376378098,
+  "center": {
+    "lat": 0.5703524,
+    "lon": 30.3116008
+  },
+  "tags": {
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kasiisi Primary School",
+    "source": "Bing",
+    "wikidata": "Q22968754"
+  }
+},
+{
+  "type": "way",
+  "id": 376385467,
+  "center": {
+    "lat": 0.5677692,
+    "lon": 30.3393964
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 378059845,
+  "center": {
+    "lat": 0.4407455,
+    "lon": 30.2835349
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "Ruigo Academy"
+  }
+},
+{
+  "type": "way",
+  "id": 381873986,
+  "center": {
+    "lat": 0.4171160,
+    "lon": 30.2626300
+  },
+  "tags": {
+    "addr:city": "Rwankenzi Central",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Rwankenzi",
+    "addr:subcounty": "Kasenda",
+    "amenity": "school",
+    "name": "Rwankenzi Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "way",
+  "id": 444760571,
+  "center": {
+    "lat": 0.6831731,
+    "lon": 30.3200836
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 450132467,
+  "center": {
+    "lat": 0.5163117,
+    "lon": 30.3294387
+  },
+  "tags": {
+    "amenity": "school"
+  }
+}
+
+  ]
+}

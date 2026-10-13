@@ -1,0 +1,4820 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-13T18:10:06Z",
+    "timestamp_areas_base": "2026-10-13T09:43:05Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3550629645,
+  "lat": -0.1310814,
+  "lon": 30.4962971,
+  "tags": {
+    "amenity": "school",
+    "name": "Mwamba primary school"
+  }
+},
+{
+  "type": "node",
+  "id": 4026344170,
+  "lat": 0.0753752,
+  "lon": 30.5998522,
+  "tags": {
+    "addr:city": "Kanyarugiri",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kanyarugiri",
+    "addr:subcounty": "Nyamarebe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kanyarugiri Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22952439"
+  }
+},
+{
+  "type": "node",
+  "id": 4026344171,
+  "lat": 0.1224643,
+  "lon": 30.5917701,
+  "tags": {
+    "addr:city": "Karambi A",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rushango",
+    "addr:subcounty": "Rushango Town Council",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Karambi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22952442"
+  }
+},
+{
+  "type": "node",
+  "id": 4026344173,
+  "lat": 0.1406345,
+  "lon": 30.5906225,
+  "tags": {
+    "addr:city": "Mitwebiri.b",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rushango",
+    "addr:subcounty": "Nyamarebe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kasebeya Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22952436"
+  }
+},
+{
+  "type": "node",
+  "id": 4026344890,
+  "lat": 0.1373508,
+  "lon": 30.6072698,
+  "tags": {
+    "addr:city": "Katikamwe .b",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rushango",
+    "addr:subcounty": "Nyamarebe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rushango Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22952420"
+  }
+},
+{
+  "type": "node",
+  "id": 4026344891,
+  "lat": 0.1078469,
+  "lon": 30.5950984,
+  "tags": {
+    "addr:city": "Rwemirama",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Itabyama",
+    "addr:subcounty": "Rushango Town Council",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwemirama Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22952426"
+  }
+},
+{
+  "type": "node",
+  "id": 4029610380,
+  "lat": -0.1974956,
+  "lon": 30.3748111,
+  "tags": {
+    "addr:city": "Kagorogoro",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kicuzi",
+    "addr:subcounty": "Kicuzi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kagyera Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045662"
+  }
+},
+{
+  "type": "node",
+  "id": 4029610385,
+  "lat": -0.1881160,
+  "lon": 30.3857469,
+  "tags": {
+    "addr:city": "Kicuzi",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kicuzi",
+    "addr:subcounty": "Kicuzi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kicuzi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045687"
+  }
+},
+{
+  "type": "node",
+  "id": 4029610392,
+  "lat": -0.2262181,
+  "lon": 30.4059154,
+  "tags": {
+    "addr:city": "Kara-buku",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Mabona",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mabona Parents Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045681"
+  }
+},
+{
+  "type": "node",
+  "id": 4029610393,
+  "lat": -0.2098749,
+  "lon": 30.4064506,
+  "tags": {
+    "addr:city": "Vatican",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Mabona",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mabonwa Catholic Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045678"
+  }
+},
+{
+  "type": "node",
+  "id": 4029610394,
+  "lat": -0.2054333,
+  "lon": 30.4064200,
+  "tags": {
+    "addr:city": "Vatican",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Mabona",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "denomination": "anglican",
+    "isced:level": "1",
+    "name": "Mabonwa Church of Uganda Primary School",
+    "operator": "Church of Uganda",
+    "operator:wikidata": "Q1723759",
+    "religion": "christian",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045679"
+  }
+},
+{
+  "type": "node",
+  "id": 4029610395,
+  "lat": -0.2129565,
+  "lon": 30.4083067,
+  "tags": {
+    "addr:city": "Kitengure",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Mabona",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Mabonwa High School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045676"
+  }
+},
+{
+  "type": "node",
+  "id": 4029610396,
+  "lat": -0.2110439,
+  "lon": 30.4056797,
+  "tags": {
+    "addr:city": "Vatican",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Mabona",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "name": "Mabonwa Technical School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045677"
+  }
+},
+{
+  "type": "node",
+  "id": 4029610407,
+  "lat": -0.2390590,
+  "lon": 30.4068806,
+  "tags": {
+    "addr:city": "Rwijogoro",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Katembe",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwizogoro Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045702"
+  }
+},
+{
+  "type": "node",
+  "id": 4029610412,
+  "lat": -0.2429198,
+  "lon": 30.4094471,
+  "tags": {
+    "addr:city": "Katembe",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Katembe",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "0;1",
+    "name": "Saint Timothy Nursery & Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045698"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729717,
+  "lat": -0.1879504,
+  "lon": 30.5859543,
+  "tags": {
+    "addr:city": "Rugaaga III",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rugaga",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bisyoro Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045618"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729725,
+  "lat": -0.1770382,
+  "lon": 30.6084255,
+  "tags": {
+    "addr:city": "Kaaburo I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rugaga",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kaburo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045626"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729728,
+  "lat": -0.2100748,
+  "lon": 30.5918100,
+  "tags": {
+    "addr:city": "Kajwamushana II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rugaga",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kajwamushana Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045629"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729743,
+  "lat": -0.1857938,
+  "lon": 30.6169861,
+  "tags": {
+    "addr:city": "Kaaburo I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rugaga",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyenyena Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045644"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729775,
+  "lat": -0.1779598,
+  "lon": 30.6047350,
+  "tags": {
+    "addr:city": "Kaaburo I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rugaga",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "fixme": "please, check the position of this node",
+    "isced:level": "1",
+    "name": "Twot Private Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045615"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753403,
+  "lat": 0.0943097,
+  "lon": 30.5220856,
+  "tags": {
+    "addr:city": "Kyengando",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyengando",
+    "addr:subcounty": "Nyamarebe",
+    "amenity": "school",
+    "fixme": "please, check the position of this node",
+    "isced:level": "2;3;4",
+    "name": "Alpha High School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046113"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753404,
+  "lat": 0.0298520,
+  "lon": 30.4301304,
+  "tags": {
+    "addr:city": "Ntutsi II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Birongo",
+    "addr:subcounty": "Ishongororo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Birongo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046114"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753405,
+  "lat": 0.0363794,
+  "lon": 30.5078221,
+  "tags": {
+    "addr:city": "Ishongororo Trc I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyantsimbo Ward",
+    "addr:subcounty": "Ishongororo Town Council",
+    "amenity": "school",
+    "fixme": "please, check the position of this node",
+    "isced:level": "1",
+    "name": "Blessed Villa Day and Boarding Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046115"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753407,
+  "lat": 0.0728982,
+  "lon": 30.5844025,
+  "tags": {
+    "addr:city": "Rwenkuba I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bihanga",
+    "addr:subcounty": "Nyamarebe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bulumuriro Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046118"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753408,
+  "lat": 0.0917056,
+  "lon": 30.5087980,
+  "tags": {
+    "addr:city": "Busingiro II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyengando",
+    "addr:subcounty": "Nyamarebe",
+    "amenity": "school",
+    "fixme": "please, check the position of this node",
+    "isced:level": "1",
+    "name": "Busingiro Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046120"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753409,
+  "lat": 0.1060519,
+  "lon": 30.5315030,
+  "tags": {
+    "addr:city": "Bwera I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyengando",
+    "addr:subcounty": "Nyamarebe",
+    "amenity": "school",
+    "fixme": "please, check the position of this node",
+    "isced:level": "1",
+    "name": "Bwera Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046121"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753413,
+  "lat": 0.0220088,
+  "lon": 30.5629499,
+  "tags": {
+    "addr:city": "Katojo I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kashozi",
+    "addr:subcounty": "Ishongororo",
+    "amenity": "school",
+    "isced:level": "0;1",
+    "name": "Good Hope Nursery and Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046125"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753415,
+  "lat": 0.0777567,
+  "lon": 30.4745384,
+  "tags": {
+    "addr:city": "Kiburara Trading Centre",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyantsimbo Ward",
+    "addr:subcounty": "Ishongororo Town Council",
+    "amenity": "school",
+    "fixme": "please, check the position of this node",
+    "isced:level": "0;1",
+    "name": "Integrated Exodus Nursery & Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046127"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753416,
+  "lat": 0.0505138,
+  "lon": 30.5714215,
+  "tags": {
+    "addr:city": "Kaceeri",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bihanga",
+    "addr:subcounty": "Nyamarebe",
+    "amenity": "school",
+    "name": "Kaceeri Cope School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046128"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753417,
+  "lat": 0.0512726,
+  "lon": 30.4438264,
+  "tags": {
+    "addr:city": "Kafunjo I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Birongo",
+    "addr:subcounty": "Ishongororo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kafunjo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046129"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753418,
+  "lat": 0.0541382,
+  "lon": 30.4557308,
+  "tags": {
+    "addr:city": "Kafunjo II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Birongo",
+    "addr:subcounty": "Ishongororo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kafunjo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046130"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753420,
+  "lat": 0.0290086,
+  "lon": 30.4519827,
+  "tags": {
+    "addr:city": "Birongo III",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Birongo",
+    "addr:subcounty": "Ishongororo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kakindo I Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046132"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753421,
+  "lat": 0.0400761,
+  "lon": 30.5028660,
+  "tags": {
+    "addr:city": "Ishongororo Trc I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyantsimbo Ward",
+    "addr:subcounty": "Ishongororo Town Council",
+    "amenity": "school",
+    "fixme": "please, check the position of this node",
+    "isced:level": "1",
+    "name": "Kakinyu Modern Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046133"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753423,
+  "lat": 0.1453316,
+  "lon": 30.5805788,
+  "tags": {
+    "addr:city": "Kangoma .a",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rushango",
+    "addr:subcounty": "Nyamarebe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kangoma Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046135"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753425,
+  "lat": 0.0188531,
+  "lon": 30.4936101,
+  "tags": {
+    "addr:city": "Ncwano C",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyantsimbo Ward",
+    "addr:subcounty": "Ishongororo Town Council",
+    "amenity": "school",
+    "fixme": "please, check the position of this node",
+    "isced:level": "1",
+    "name": "Karambi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046137"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753427,
+  "lat": 0.0166935,
+  "lon": 30.5427214,
+  "tags": {
+    "addr:city": "Kashozi",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kashozi",
+    "addr:subcounty": "Ishongororo",
+    "amenity": "school",
+    "denomination": "anglican",
+    "isced:level": "1",
+    "name": "Kashozi Church of Uganda Primary School",
+    "operator": "Church of Uganda",
+    "operator:wikidata": "Q1723759",
+    "religion": "christian",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046139"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753428,
+  "lat": 0.0117439,
+  "lon": 30.5398442,
+  "tags": {
+    "addr:city": "Kashozi",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kashozi",
+    "addr:subcounty": "Ishongororo",
+    "amenity": "school",
+    "name": "Kashozi Preparatory Day and Boarding School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046140"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753429,
+  "lat": 0.0045180,
+  "lon": 30.5365802,
+  "tags": {
+    "addr:city": "Katwe I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kashozi",
+    "addr:subcounty": "Ishongororo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kashozi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046141"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753430,
+  "lat": 0.0033461,
+  "lon": 30.5368078,
+  "tags": {
+    "addr:city": "Katwe I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kashozi",
+    "addr:subcounty": "Ishongororo",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kashozi Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046142"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753431,
+  "lat": 0.0180526,
+  "lon": 30.5652043,
+  "tags": {
+    "addr:city": "Katojo I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kashozi",
+    "addr:subcounty": "Ishongororo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Katengyeto Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046143"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753432,
+  "lat": 0.0404453,
+  "lon": 30.4621416,
+  "tags": {
+    "addr:city": "Katojo A",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyantsimbo Ward",
+    "addr:subcounty": "Ishongororo Town Council",
+    "amenity": "school",
+    "name": "Katojo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753434,
+  "lat": 0.0737571,
+  "lon": 30.5521288,
+  "tags": {
+    "addr:city": "Nyakabungo",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyakabungo",
+    "addr:subcounty": "Nyamarebe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kibango Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046146"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753435,
+  "lat": 0.0779280,
+  "lon": 30.4681909,
+  "tags": {
+    "addr:city": "Kiburara Trading Centre",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyantsimbo Ward",
+    "addr:subcounty": "Ishongororo Town Council",
+    "amenity": "school",
+    "fixme": "please, check the position of this node",
+    "isced:level": "1",
+    "name": "Kiburara Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046147"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753436,
+  "lat": 0.0058008,
+  "lon": 30.4272187,
+  "tags": {
+    "addr:city": "Birongo I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwambu",
+    "addr:subcounty": "Kijongo",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kijongo High School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046148"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753437,
+  "lat": 0.0070113,
+  "lon": 30.4276653,
+  "tags": {
+    "addr:city": "Birongo I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwambu",
+    "addr:subcounty": "Kijongo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kijongo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046149"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753439,
+  "lat": 0.0380160,
+  "lon": 30.5580802,
+  "tags": {
+    "addr:city": "Katesani",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bihanga",
+    "addr:subcounty": "Nyamarebe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kitooro Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046151"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753440,
+  "lat": 0.0931321,
+  "lon": 30.5316358,
+  "tags": {
+    "addr:city": "Kobuhura I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyengando",
+    "addr:subcounty": "Nyamarebe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kobuhura Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046152"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753441,
+  "lat": 0.0037118,
+  "lon": 30.4636588,
+  "tags": {
+    "addr:city": "Kagango V",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kabaare",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyembogo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046081"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753442,
+  "lat": 0.0944723,
+  "lon": 30.5208556,
+  "tags": {
+    "addr:city": "Kyengando",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyengando",
+    "addr:subcounty": "Nyamarebe",
+    "amenity": "school",
+    "fixme": "please, check the position of this node",
+    "isced:level": "1",
+    "name": "Kyengando I Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046082"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753443,
+  "lat": 0.0267627,
+  "lon": 30.5311839,
+  "tags": {
+    "addr:city": "Mushunga I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Mushunga",
+    "addr:subcounty": "Ishongororo",
+    "amenity": "school",
+    "fixme": "please, check the position of this node",
+    "isced:level": "1",
+    "name": "Mushunga Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046083"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753444,
+  "lat": 0.0388572,
+  "lon": 30.5442113,
+  "tags": {
+    "addr:city": "Kitooro II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Mushunga",
+    "addr:subcounty": "Ishongororo",
+    "amenity": "school",
+    "isced:level": "0",
+    "name": "Mutuma- Mugaba Nursery School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046084"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753447,
+  "lat": 0.0228915,
+  "lon": 30.4377423,
+  "tags": {
+    "addr:city": "Ntutsi I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Birongo",
+    "addr:subcounty": "Ishongororo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ntusi Church School Primary",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046087"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753448,
+  "lat": 0.0237253,
+  "lon": 30.5131286,
+  "tags": {
+    "addr:city": "Kemihoko",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyantsimbo Ward",
+    "addr:subcounty": "Ishongororo Town Council",
+    "amenity": "school",
+    "fixme": "please, check the position of this node",
+    "name": "Nursery School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753449,
+  "lat": 0.0808571,
+  "lon": 30.4777792,
+  "tags": {
+    "addr:city": "Kiburara Trading Centre",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyantsimbo Ward",
+    "addr:subcounty": "Ishongororo Town Council",
+    "amenity": "school",
+    "fixme": "please, check the position of this node",
+    "name": "Nursery School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753450,
+  "lat": 0.0798661,
+  "lon": 30.5293681,
+  "tags": {
+    "addr:city": "Kaako",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyengando",
+    "addr:subcounty": "Nyamarebe",
+    "amenity": "school",
+    "fixme": "please, check the position of this node",
+    "isced:level": "1",
+    "name": "Nyamarebe Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046088"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753451,
+  "lat": 0.1161454,
+  "lon": 30.5512162,
+  "tags": {
+    "addr:city": "Nyamarebe I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyengando",
+    "addr:subcounty": "Nyamarebe",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Nyamarebe Seed Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046089"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753452,
+  "lat": 0.1229573,
+  "lon": 30.5639802,
+  "tags": {
+    "addr:city": "Ryabiju A",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Itabyama",
+    "addr:subcounty": "Rushango Town Council",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Nyamarebe High School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046090"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753454,
+  "lat": 0.0494392,
+  "lon": 30.4783914,
+  "tags": {
+    "addr:city": "Rugando",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyantsimbo Ward",
+    "addr:subcounty": "Ishongororo Town Council",
+    "amenity": "school",
+    "fixme": "please, check the position of this node",
+    "isced:level": "1",
+    "name": "Nyasimbo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046093"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753455,
+  "lat": 0.0611803,
+  "lon": 30.4804019,
+  "tags": {
+    "addr:city": "Omwitagi",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyantsimbo Ward",
+    "addr:subcounty": "Ishongororo Town Council",
+    "amenity": "school",
+    "fixme": "please, check the position of this node",
+    "isced:level": "1",
+    "name": "Omwitagi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046094"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753456,
+  "lat": 0.0400038,
+  "lon": 30.5033419,
+  "tags": {
+    "addr:city": "Ishongororo Trc I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyantsimbo Ward",
+    "addr:subcounty": "Ishongororo Town Council",
+    "amenity": "school",
+    "fixme": "please, check the position of this node",
+    "name": "Ray's School of Art",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046095"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753457,
+  "lat": 0.0966578,
+  "lon": 30.5508389,
+  "tags": {
+    "addr:city": "Rwenkureijo I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyakabungo",
+    "addr:subcounty": "Nyamarebe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rubirizi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046096"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753458,
+  "lat": 0.0623050,
+  "lon": 30.5589980,
+  "tags": {
+    "addr:city": "Kyabwayera",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bihanga",
+    "addr:subcounty": "Nyamarebe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rugalama Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046097"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753462,
+  "lat": 0.0251791,
+  "lon": 30.4458472,
+  "tags": {
+    "addr:city": "Ntutsi I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Birongo",
+    "addr:subcounty": "Ishongororo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwakibale Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046101"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753463,
+  "lat": 0.0125125,
+  "lon": 30.4139343,
+  "tags": {
+    "addr:city": "Rwambu II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwambu",
+    "addr:subcounty": "Kijongo",
+    "amenity": "school",
+    "name": "Rwambu Church School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046102"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753465,
+  "lat": 0.0730383,
+  "lon": 30.5776182,
+  "tags": {
+    "addr:city": "Rwenkuba I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bihanga",
+    "addr:subcounty": "Nyamarebe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwenkuba Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046104"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753466,
+  "lat": 0.0350496,
+  "lon": 30.4706079,
+  "tags": {
+    "addr:city": "Rwenshonga",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyantsimbo Ward",
+    "addr:subcounty": "Ishongororo Town Council",
+    "amenity": "school",
+    "fixme": "please, check the position of this node",
+    "isced:level": "1",
+    "name": "Rwenshonga Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046105"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753470,
+  "lat": 0.1226473,
+  "lon": 30.5627090,
+  "tags": {
+    "addr:city": "Ryabiju A",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Itabyama",
+    "addr:subcounty": "Rushango Town Council",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ryabiju Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046109"
+  }
+},
+{
+  "type": "node",
+  "id": 4030753471,
+  "lat": 0.0223123,
+  "lon": 30.4475258,
+  "tags": {
+    "addr:city": "Birongo III",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Birongo",
+    "addr:subcounty": "Ishongororo",
+    "amenity": "school",
+    "isced:level": "0;1",
+    "name": "Starlight Kindergarten Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23046074"
+  }
+},
+{
+  "type": "node",
+  "id": 4031108249,
+  "lat": -0.1721417,
+  "lon": 30.6205266,
+  "tags": {
+    "addr:city": "Bihembe II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rugaga",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bihembe Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22970990"
+  }
+},
+{
+  "type": "node",
+  "id": 4031108254,
+  "lat": -0.1508504,
+  "lon": 30.5926347,
+  "tags": {
+    "addr:city": "Rukinga",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rugaga",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Creamland Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22970984"
+  }
+},
+{
+  "type": "node",
+  "id": 4031108258,
+  "lat": -0.1611970,
+  "lon": 30.6052989,
+  "tags": {
+    "addr:city": "Rwenshambya II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rugaga",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "God's Grace Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22970933"
+  }
+},
+{
+  "type": "node",
+  "id": 4031108263,
+  "lat": -0.1473985,
+  "lon": 30.5862167,
+  "tags": {
+    "addr:city": "Kamigamba",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwengwe",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kamigamba Catholic Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22970932"
+  }
+},
+{
+  "type": "node",
+  "id": 4031108264,
+  "lat": -0.1565182,
+  "lon": 30.5888582,
+  "tags": {
+    "addr:city": "Rwemengo I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwengwe",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kamigamba Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22970931"
+  }
+},
+{
+  "type": "node",
+  "id": 4031109010,
+  "lat": -0.1615002,
+  "lon": 30.6030664,
+  "tags": {
+    "addr:city": "Rwenshambya I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rugaga",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwenshyambya Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22970979"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618950,
+  "lat": -0.2766629,
+  "lon": 30.4235780,
+  "tags": {
+    "addr:city": "Rutooma",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyarukiika",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "0;1",
+    "name": "Brain Trust Academy Nursery and Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977592"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618952,
+  "lat": -0.2459845,
+  "lon": 30.5113137,
+  "tags": {
+    "addr:city": "Kyentaama",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bwaahwa",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bwaahwa I Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977594"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618953,
+  "lat": -0.2445687,
+  "lon": 30.4924029,
+  "tags": {
+    "addr:city": "Nkombe",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bwaahwa",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bwaahwa II Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977587"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618954,
+  "lat": -0.2552084,
+  "lon": 30.4249434,
+  "tags": {
+    "addr:city": "Ihome",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Katembe",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Byara Memorial Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977588"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618956,
+  "lat": -0.1837490,
+  "lon": 30.5184392,
+  "tags": {
+    "addr:city": "Ndoragi I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyamirima",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "name": "Church School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977590"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618958,
+  "lat": -0.2013556,
+  "lon": 30.5703244,
+  "tags": {
+    "addr:city": "Kyarukumba I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Keihangara",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "name": "Ibanda Bright Model",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977584"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618959,
+  "lat": -0.2245884,
+  "lon": 30.5502368,
+  "tags": {
+    "addr:city": "Igorora",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Keihangara",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Igorora Day Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977585"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618960,
+  "lat": -0.2241465,
+  "lon": 30.5477268,
+  "tags": {
+    "addr:city": "Igorora",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Keihangara",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Igorora Parent's Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977586"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618965,
+  "lat": -0.2000439,
+  "lon": 30.5126369,
+  "tags": {
+    "addr:city": "Kabagoma II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyamirima",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kabagoma Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977574"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618969,
+  "lat": -0.2508515,
+  "lon": 30.4175858,
+  "tags": {
+    "addr:city": "Kaijororonga",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Katembe",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kaijororonga Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977570"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618971,
+  "lat": -0.1768736,
+  "lon": 30.4504885,
+  "tags": {
+    "addr:city": "Muhangi",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Mpasha",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kanoni II Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977572"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618974,
+  "lat": -0.2356401,
+  "lon": 30.5082057,
+  "tags": {
+    "addr:city": "Rugoba",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bwaahwa",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "name": "Kasasa Church School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977567"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618975,
+  "lat": -0.1766286,
+  "lon": 30.4540816,
+  "tags": {
+    "addr:city": "Kikandure",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kanyansheko",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kashambya Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977568"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618979,
+  "lat": -0.2224206,
+  "lon": 30.4724187,
+  "tags": {
+    "addr:city": "Kategure",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kayenje",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "denomination": "catholic",
+    "isced:level": "1",
+    "name": "Kategurwe Catholic Primary School",
+    "religion": "christian",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977543"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618981,
+  "lat": -0.2298696,
+  "lon": 30.5705374,
+  "tags": {
+    "addr:city": "Keihangara I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Keihangara",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Keihangara Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977537"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618982,
+  "lat": -0.2619570,
+  "lon": 30.4131545,
+  "tags": {
+    "addr:city": "Kibande II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Katembe",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kibande Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977538"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618986,
+  "lat": -0.2194973,
+  "lon": 30.5255859,
+  "tags": {
+    "addr:city": "Kagando",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyamirima",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kigando Church Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977534"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618987,
+  "lat": -0.2313018,
+  "lon": 30.5522076,
+  "tags": {
+    "addr:city": "Kigando I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Keihangara",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kigando Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977535"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619789,
+  "lat": -0.2393730,
+  "lon": 30.5356397,
+  "tags": {
+    "addr:city": "Kigyera",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyamirima",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "name": "Kigyera Church School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977562"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619790,
+  "lat": -0.1789990,
+  "lon": 30.5648558,
+  "tags": {
+    "addr:city": "Kinani III",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kihani",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kihani Church of God Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977563"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619791,
+  "lat": -0.1912290,
+  "lon": 30.5525721,
+  "tags": {
+    "addr:city": "Kitembeya",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kihani",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kihani Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977564"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619793,
+  "lat": -0.2242374,
+  "lon": 30.5473933,
+  "tags": {
+    "addr:city": "Igorora",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Keihangara",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "King's Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977558"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619795,
+  "lat": -0.2419421,
+  "lon": 30.4632785,
+  "tags": {
+    "addr:city": "Kisenshero",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kiyunga",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kiyunga Parents Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977560"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619797,
+  "lat": -0.2093949,
+  "lon": 30.5663287,
+  "tags": {
+    "addr:city": "Kyarukumba I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Keihangara",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyarukumba I Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977553"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619800,
+  "lat": -0.2448116,
+  "lon": 30.5124430,
+  "tags": {
+    "addr:city": "Kyentaama",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bwaahwa",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyentaama Church Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977557"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619801,
+  "lat": -0.1769263,
+  "lon": 30.4528759,
+  "tags": {
+    "addr:city": "Muhangi",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Mpasha",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Little Angel Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977549"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619803,
+  "lat": -0.1971877,
+  "lon": 30.5110787,
+  "tags": {
+    "addr:city": "Kabagoma I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyamirima",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mabanga Standard Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977551"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619804,
+  "lat": -0.2129224,
+  "lon": 30.4101855,
+  "tags": {
+    "addr:city": "Kitengure",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Mabona",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mabonwa Modern Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977552"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619807,
+  "lat": -0.1899109,
+  "lon": 30.4302808,
+  "tags": {
+    "addr:city": "Mpasha",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Mpasha",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mpasha Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977547"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619808,
+  "lat": -0.1918271,
+  "lon": 30.4161864,
+  "tags": {
+    "addr:city": "Rwengorogoro",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Mpasha",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Mpasha Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977548"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619809,
+  "lat": -0.1946648,
+  "lon": 30.4213039,
+  "tags": {
+    "addr:city": "Mpasha",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Mpasha",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "name": "Mpasha Standard Community School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977508"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619813,
+  "lat": -0.2371397,
+  "lon": 30.4318956,
+  "tags": {
+    "addr:city": "Ntanga",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bwenda",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mutukula Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977504"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619814,
+  "lat": -0.2304839,
+  "lon": 30.4254097,
+  "tags": {
+    "addr:city": "Ntanga",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bwenda",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "name": "Mwamba Junior School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977505"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619815,
+  "lat": -0.2270124,
+  "lon": 30.4230368,
+  "tags": {
+    "addr:city": "Ntanga",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bwenda",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Mwamba Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977506"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619818,
+  "lat": -0.2038464,
+  "lon": 30.4496243,
+  "tags": {
+    "addr:city": "Mpunda",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bwenda",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ntungamo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977501"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619820,
+  "lat": -0.2133263,
+  "lon": 30.5323733,
+  "tags": {
+    "addr:city": "Nyamirima Upper",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyamirima",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyahoora Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977503"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619821,
+  "lat": -0.2128463,
+  "lon": 30.5325371,
+  "tags": {
+    "addr:city": "Nyamirima Upper",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyamirima",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Nyahoora Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977495"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619823,
+  "lat": -0.2051816,
+  "lon": 30.5273654,
+  "tags": {
+    "addr:city": "Nyamirima Upper",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyamirima",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyamirama Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977498"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619826,
+  "lat": -0.2651722,
+  "lon": 30.4232806,
+  "tags": {
+    "addr:city": "Rwensinga I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyarukiika",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Nyarukiika High School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977492"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619827,
+  "lat": -0.2639711,
+  "lon": 30.4228639,
+  "tags": {
+    "addr:city": "Bwahika",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Katembe",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyarukiika Parents Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977493"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619828,
+  "lat": -0.2772750,
+  "lon": 30.4240211,
+  "tags": {
+    "addr:city": "Rutooma",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyarukiika",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyarukiika Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977494"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619831,
+  "lat": -0.1867657,
+  "lon": 30.5832865,
+  "tags": {
+    "addr:city": "Rugaaga II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rugaga",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "denomination": "anglican",
+    "name": "Rugaaga Church of Uganda School",
+    "operator": "Church of Uganda",
+    "operator:wikidata": "Q1723759",
+    "religion": "christian",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977488"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619832,
+  "lat": -0.2775527,
+  "lon": 30.4433000,
+  "tags": {
+    "addr:city": "Rugarama I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyarukiika",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rugarama Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977489"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619836,
+  "lat": -0.1963280,
+  "lon": 30.4798277,
+  "tags": {
+    "addr:city": "Ruyonza I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kayenje",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "denomination": "catholic",
+    "isced:level": "1",
+    "name": "Ruyonza Catholic Primary School",
+    "religion": "christian",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977485"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619837,
+  "lat": -0.1942210,
+  "lon": 30.4728837,
+  "tags": {
+    "addr:city": "Ruyonza I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kayenje",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "denomination": "anglican",
+    "isced:level": "1",
+    "name": "Ruyonza Church of Uganda Primary School",
+    "operator": "Church of Uganda",
+    "operator:wikidata": "Q1723759",
+    "religion": "christian",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977476"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619842,
+  "lat": -0.2124112,
+  "lon": 30.4135304,
+  "tags": {
+    "addr:city": "Ryamitamba",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Mabona",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ryamitamba Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977530"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619843,
+  "lat": -0.2206588,
+  "lon": 30.5442631,
+  "tags": {
+    "addr:city": "Igorora",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Keihangara",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Standard High School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977531"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619845,
+  "lat": -0.1948610,
+  "lon": 30.5558320,
+  "tags": {
+    "addr:city": "Kihani I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kihani",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Stanne's Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977525"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619847,
+  "lat": -0.1968814,
+  "lon": 30.5548554,
+  "tags": {
+    "addr:city": "Kihani I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kihani",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Joseph Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977527"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619850,
+  "lat": -0.2473866,
+  "lon": 30.4338383,
+  "tags": {
+    "addr:city": "Rukiri",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bwenda",
+    "addr:subcounty": "Rukiri",
+    "amenity": "school",
+    "name": "Saint Mary's Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619853,
+  "lat": -0.2211432,
+  "lon": 30.5440875,
+  "tags": {
+    "addr:city": "Igorora",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Keihangara",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "0;1",
+    "name": "Saint Paul's Nursery School and Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977516"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757253,
+  "lat": -0.0677630,
+  "lon": 30.5668568,
+  "tags": {
+    "addr:city": "Kikoni I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwobuziizi",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "name": "Akabaare Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757254,
+  "lat": -0.0385410,
+  "lon": 30.5401819,
+  "tags": {
+    "addr:city": "Kashagazi",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Karangara",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Akatojo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757255,
+  "lat": -0.1272553,
+  "lon": 30.4968260,
+  "tags": {
+    "addr:city": "Kitwe Upper",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyaruhanga",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Alliance College Of Commerce",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757256,
+  "lat": -0.1286753,
+  "lon": 30.4958183,
+  "tags": {
+    "addr:city": "Kyereta",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyaruhanga",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Alliance Senoir Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757258,
+  "lat": -0.0326619,
+  "lon": 30.4550181,
+  "tags": {
+    "addr:city": "Kakatsi I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kakatsi",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Bigyera Junior Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757259,
+  "lat": -0.0338383,
+  "lon": 30.4563587,
+  "tags": {
+    "addr:city": "Mishozi II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kakatsi",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Bigyera S Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757260,
+  "lat": -0.0539438,
+  "lon": 30.4844785,
+  "tags": {
+    "addr:city": "Bisheshe Central",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bugarama",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Bisheshe Parents Church School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757261,
+  "lat": -0.0528413,
+  "lon": 30.4903502,
+  "tags": {
+    "addr:city": "Bisheshe Central",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bugarama",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Bisheshe Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757262,
+  "lat": -0.1332583,
+  "lon": 30.5012458,
+  "tags": {
+    "addr:city": "Bubaare",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bufunda",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Bubaare Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757263,
+  "lat": -0.1389626,
+  "lon": 30.5033580,
+  "tags": {
+    "addr:city": "Bubaare",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bufunda",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Bufunda Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757264,
+  "lat": -0.0358806,
+  "lon": 30.5086012,
+  "tags": {
+    "addr:city": "Katooma",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bugarama",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Bugarama Junior School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757265,
+  "lat": -0.0371608,
+  "lon": 30.5116839,
+  "tags": {
+    "addr:city": "Bugarama II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Karangara",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Bugarama Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757266,
+  "lat": -0.0388759,
+  "lon": 30.5087174,
+  "tags": {
+    "addr:city": "Katooma",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bugarama",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Bugarama Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757267,
+  "lat": -0.0194478,
+  "lon": 30.5165952,
+  "tags": {
+    "addr:city": "Rushaka II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Karangara",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Bukarama Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757270,
+  "lat": -0.1366159,
+  "lon": 30.4847027,
+  "tags": {
+    "addr:city": "Ibanda Cell Upper",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyaruhanga",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Child Development Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757274,
+  "lat": -0.1346531,
+  "lon": 30.4377191,
+  "tags": {
+    "addr:city": "Rwamukigi",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kagongo",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Citizen Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757275,
+  "lat": -0.1315704,
+  "lon": 30.5707284,
+  "tags": {
+    "addr:city": "Rwomuhoro",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwengwe",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "name": "Crane Junior Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757276,
+  "lat": -0.1347783,
+  "lon": 30.4509794,
+  "tags": {
+    "addr:city": "Kagongo Institutions",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kagongo",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Demonstration Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757277,
+  "lat": -0.0308362,
+  "lon": 30.4236325,
+  "tags": {
+    "addr:city": "Endama",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kamwiri",
+    "addr:subcounty": "Kijongo",
+    "amenity": "school",
+    "name": "Endama Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757278,
+  "lat": -0.1016383,
+  "lon": 30.4188520,
+  "tags": {
+    "addr:city": "Kyarutanga I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyeikucu",
+    "addr:subcounty": "Kashangura",
+    "amenity": "school",
+    "name": "Equatorial College School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757279,
+  "lat": -0.1322153,
+  "lon": 30.4987042,
+  "tags": {
+    "addr:city": "Bufunda Street",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bufunda",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Four Stars Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757281,
+  "lat": -0.1331338,
+  "lon": 30.5624975,
+  "tags": {
+    "addr:city": "Rwomuhoro",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwengwe",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "name": "Honest Model Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757282,
+  "lat": -0.1381089,
+  "lon": 30.4915872,
+  "tags": {
+    "addr:city": "Kyabugaija Upper",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bufunda",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Ibanda College Of Commerce",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757283,
+  "lat": -0.1316975,
+  "lon": 30.4522353,
+  "tags": {
+    "addr:city": "Kagongo Institutions",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kagongo",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "St. George's Ibanda Core.Primary Training College",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757284,
+  "lat": -0.1336299,
+  "lon": 30.4393077,
+  "tags": {
+    "addr:city": "Rwamukigi",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kagongo",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Ibanda Girls Preparatory School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757285,
+  "lat": -0.1368666,
+  "lon": 30.4868710,
+  "tags": {
+    "addr:city": "Ibanda Cell Lower",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyaruhanga",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Ibanda Intergrated Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757286,
+  "lat": -0.1371240,
+  "lon": 30.4916670,
+  "tags": {
+    "addr:city": "Kyabugaija Upper",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bufunda",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Ibanda Junior Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757287,
+  "lat": -0.1358051,
+  "lon": 30.4746598,
+  "tags": {
+    "addr:city": "Kyarukobwa A",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyaruhanga",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Ibanda Mixed Primary",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757288,
+  "lat": -0.1262661,
+  "lon": 30.4967302,
+  "tags": {
+    "addr:city": "Kyaruhanga I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyaruhanga",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Ibanda Modern Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757389,
+  "lat": -0.1548076,
+  "lon": 30.4781319,
+  "tags": {
+    "addr:city": "Ruhoko Nyinendugu",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kagongo",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Ibanda Municipal Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757390,
+  "lat": -0.1278800,
+  "lon": 30.4998343,
+  "tags": {
+    "addr:city": "Kitwe Lower",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyaruhanga",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Ibanda Parent Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757391,
+  "lat": -0.1403323,
+  "lon": 30.4984551,
+  "tags": {
+    "addr:city": "Bufunda I B",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bufunda",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Ibanda Preparatory Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757392,
+  "lat": -0.1287397,
+  "lon": 30.4994862,
+  "tags": {
+    "addr:city": "Kitwe Lower",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyaruhanga",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Ibanda Progressive Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757393,
+  "lat": -0.1322148,
+  "lon": 30.4510282,
+  "tags": {
+    "addr:city": "Kagongo Institutions",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kagongo",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Ibanda Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757394,
+  "lat": -0.1317481,
+  "lon": 30.4465310,
+  "tags": {
+    "addr:city": "Kagongo Institutions",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kagongo",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Ibanda Technical School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757395,
+  "lat": -0.1311016,
+  "lon": 30.4932293,
+  "tags": {
+    "addr:city": "Muginda",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyaruhanga",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Ibanda Town Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757396,
+  "lat": -0.1217216,
+  "lon": 30.4999073,
+  "tags": {
+    "addr:city": "Rwamabaare Upper",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kigarama",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Ibanda Vocational Training College",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757397,
+  "lat": -0.0485644,
+  "lon": 30.5523973,
+  "tags": {
+    "addr:city": "Ireme II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Karangara",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Ireme Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757398,
+  "lat": -0.1012364,
+  "lon": 30.5011729,
+  "tags": {
+    "addr:city": "Nyakateete III",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kigarama",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "JB Model Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757399,
+  "lat": -0.0137758,
+  "lon": 30.5615392,
+  "tags": {
+    "addr:city": "Karambi",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Muziza",
+    "addr:subcounty": "Ishongororo",
+    "amenity": "school",
+    "name": "Jubena Preparatory School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757400,
+  "lat": -0.0015512,
+  "lon": 30.4827151,
+  "tags": {
+    "addr:city": "Kabaare I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kabaare",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Kabaare Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757401,
+  "lat": -0.1234529,
+  "lon": 30.5741056,
+  "tags": {
+    "addr:city": "Rwomuhoro",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwengwe",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "name": "Kabingo II Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757402,
+  "lat": -0.0513498,
+  "lon": 30.4424594,
+  "tags": {
+    "addr:city": "Kakijerere II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwenshuri",
+    "addr:subcounty": "Kashangura",
+    "amenity": "school",
+    "name": "Kabingo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757403,
+  "lat": -0.1031661,
+  "lon": 30.5197684,
+  "tags": {
+    "addr:city": "Kibirizi",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nsasi",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "name": "Kabirizi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757404,
+  "lat": -0.1306239,
+  "lon": 30.4433351,
+  "tags": {
+    "addr:city": "Rwengiri",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kagongo",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Kagondo Parents Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757405,
+  "lat": -0.1310368,
+  "lon": 30.4436629,
+  "tags": {
+    "addr:city": "Rwengiri",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kagongo",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Kagondo Parents Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757406,
+  "lat": -0.1372356,
+  "lon": 30.4488009,
+  "tags": {
+    "addr:city": "Rwencwamba",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kagongo",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Kagongo Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757407,
+  "lat": -0.0219380,
+  "lon": 30.4852273,
+  "tags": {
+    "addr:city": "Keihiro I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kabaare",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Kahiro Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757408,
+  "lat": -0.0237628,
+  "lon": 30.4507548,
+  "tags": {
+    "addr:city": "Kakatsi I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kakatsi",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Kakatsi Moslem Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757409,
+  "lat": -0.0514512,
+  "lon": 30.4271855,
+  "tags": {
+    "addr:city": "Kamututumi II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kashangura",
+    "addr:subcounty": "Kashangura",
+    "amenity": "school",
+    "name": "Kamututumi Parents Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757410,
+  "lat": -0.0771643,
+  "lon": 30.4856189,
+  "tags": {
+    "addr:city": "Rwebiyenje II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyakatookye",
+    "addr:subcounty": "Kashangura",
+    "amenity": "school",
+    "name": "Kanama Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757411,
+  "lat": -0.0654130,
+  "lon": 30.4923503,
+  "tags": {
+    "addr:city": "Kankyende I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bugarama",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Kankyende Muslim Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757412,
+  "lat": -0.0884611,
+  "lon": 30.4356686,
+  "tags": {
+    "addr:city": "Karindiriro",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kashangura",
+    "addr:subcounty": "Kashangura",
+    "amenity": "school",
+    "name": "Kashangura Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757413,
+  "lat": -0.1391236,
+  "lon": 30.5430195,
+  "tags": {
+    "addr:city": "Katongore",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwengwe",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "name": "Katongole Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757414,
+  "lat": -0.0246047,
+  "lon": 30.5596833,
+  "tags": {
+    "addr:city": "Kakuuto I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Muziza",
+    "addr:subcounty": "Ishongororo",
+    "amenity": "school",
+    "name": "Kentitiriyo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757415,
+  "lat": -0.0656552,
+  "lon": 30.5071904,
+  "tags": {
+    "addr:city": "Kibagarwa I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bugarama",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Kibagarwa Church School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757416,
+  "lat": -0.1353018,
+  "lon": 30.4880138,
+  "tags": {
+    "addr:city": "Ibanda Cell Upper",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyaruhanga",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Kibubura Girls Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757418,
+  "lat": -0.0971044,
+  "lon": 30.4606421,
+  "tags": {
+    "addr:city": "Kigaigo",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyakatookye",
+    "addr:subcounty": "Kashangura",
+    "amenity": "school",
+    "name": "Kigaigo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757419,
+  "lat": -0.0786486,
+  "lon": 30.5676209,
+  "tags": {
+    "addr:city": "Kikoni II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwobuziizi",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "name": "Kikoni Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757420,
+  "lat": -0.1377259,
+  "lon": 30.5003874,
+  "tags": {
+    "addr:city": "Bufunda I A",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bufunda",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Kimunyu Memorial Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757421,
+  "lat": -0.1111805,
+  "lon": 30.4454873,
+  "tags": {
+    "addr:city": "Kyeikucu II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyeikucu",
+    "addr:subcounty": "Kashangura",
+    "amenity": "school",
+    "name": "Kyeikucu Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757422,
+  "lat": -0.0047056,
+  "lon": 30.4712309,
+  "tags": {
+    "addr:city": "Kyembogo I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kabaare",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Kyembogo Preparatory School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757424,
+  "lat": -0.1460067,
+  "lon": 30.4839352,
+  "tags": {
+    "addr:city": "Kyabugaija Upper",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bufunda",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Light College Of Business College (Vocational)",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757427,
+  "lat": -0.0612003,
+  "lon": 30.4539890,
+  "tags": {
+    "addr:city": "Rweshuri II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwenshuri",
+    "addr:subcounty": "Kashangura",
+    "amenity": "school",
+    "name": "Migyera Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757428,
+  "lat": -0.1349740,
+  "lon": 30.4938735,
+  "tags": {
+    "addr:city": "Mpiira Street",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bufunda",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Minano High School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757429,
+  "lat": -0.0324749,
+  "lon": 30.4569977,
+  "tags": {
+    "addr:city": "Mishozi III",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kakatsi",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Mishozi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757430,
+  "lat": -0.1193252,
+  "lon": 30.4284842,
+  "tags": {
+    "addr:city": "Kyarutanga II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyeikucu",
+    "addr:subcounty": "Kashangura",
+    "amenity": "school",
+    "name": "Muganda Memorial Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757431,
+  "lat": -0.0764630,
+  "lon": 30.4329691,
+  "tags": {
+    "addr:city": "Kashangura I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kashangura",
+    "addr:subcounty": "Kashangura",
+    "amenity": "school",
+    "name": "Mukara Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757432,
+  "lat": -0.1236757,
+  "lon": 30.4994843,
+  "tags": {
+    "addr:city": "Kitwe Upper",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyaruhanga",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Mungu Mwema Church School (primary)",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757433,
+  "lat": -0.0265430,
+  "lon": 30.5402202,
+  "tags": {
+    "addr:city": "Muziza Central",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Karangara",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Muziza Central Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757434,
+  "lat": -0.0138752,
+  "lon": 30.5618294,
+  "tags": {
+    "addr:city": "Karambi",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Muziza",
+    "addr:subcounty": "Ishongororo",
+    "amenity": "school",
+    "name": "Muziza Pride Academy Nursery & Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757435,
+  "lat": -0.0164733,
+  "lon": 30.5551275,
+  "tags": {
+    "addr:city": "Mwana I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Muziza",
+    "addr:subcounty": "Ishongororo",
+    "amenity": "school",
+    "name": "Muziza Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757436,
+  "lat": -0.0137762,
+  "lon": 30.5305505,
+  "tags": {
+    "addr:city": "Rushaka II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Karangara",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Nimrod Comprehensive Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757437,
+  "lat": -0.1002682,
+  "lon": 30.5485349,
+  "tags": {
+    "addr:city": "Kankambwe",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwobuziizi",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "name": "Nsasi Senior Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757438,
+  "lat": -0.1289805,
+  "lon": 30.4481806,
+  "tags": {
+    "addr:city": "Kagongo Institutions",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kagongo",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Nursing School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757439,
+  "lat": -0.1738390,
+  "lon": 30.4972479,
+  "tags": {
+    "addr:city": "Kayenje I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kayenje",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "capacity:pupils": "75",
+    "denomination": "catholic",
+    "fee": "yes",
+    "isced:level": "1",
+    "max_age": "13",
+    "min_age": "6",
+    "name": "Nyabuhikye Catholic Primary School",
+    "operator": "Uganda Catholic Church",
+    "religion": "christian",
+    "source": "www.ubos.org",
+    "source:capacity:date": "2016",
+    "source:date": "2010..2014",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757440,
+  "lat": -0.1733867,
+  "lon": 30.4890982,
+  "tags": {
+    "addr:city": "Nyabuhikye Trading Centre",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kayenje",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "name": "Nyabuhikye Church Of Uganda Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757441,
+  "lat": -0.1730198,
+  "lon": 30.4968913,
+  "tags": {
+    "addr:city": "Kayenje I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kayenje",
+    "addr:postcode": "PO box 38",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "boarding": "yes",
+    "capacity:classrooms": "16",
+    "capacity:pupils": "485",
+    "capacity:teachers": "24",
+    "isced:level": "2-3",
+    "name": "Nyabuhikye Secondary School",
+    "operator": "Uganda Government",
+    "phone": "+256 772 379726",
+    "ref": "6744",
+    "ref:sn": "398",
+    "source": "www.ubos.org",
+    "source:capacity:date": "2015",
+    "source:date": "2010..2014",
+    "source:ref": "EMIS code - http://www.education.go.ug/files/downloads/government_secondary.pdf",
+    "source:ref:sn": "http://www.education.go.ug/files/downloads/UPPET%20and%20UPOLET%20National%20Headcount%202015%20Working%20Report%20%20May%202016%20(Fine).pdf",
+    "unisex": "yes",
+    "website": "https://web.facebook.com/Nyabuhikye-Secondary-School-Ibanda-253949308364162/"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757442,
+  "lat": -0.0701433,
+  "lon": 30.5310838,
+  "tags": {
+    "addr:city": "Rwemerire II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Karangara",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Nyakahaama Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757443,
+  "lat": -0.0999791,
+  "lon": 30.5465687,
+  "tags": {
+    "addr:city": "Kankambwe",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwobuziizi",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "name": "Nyakakiri Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757444,
+  "lat": -0.1061808,
+  "lon": 30.5022539,
+  "tags": {
+    "addr:city": "Nyakateete II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kigarama",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Nyakateete Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757445,
+  "lat": -0.1000909,
+  "lon": 30.4623541,
+  "tags": {
+    "addr:city": "Nyakatookye Central",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyakatookye",
+    "addr:subcounty": "Kashangura",
+    "amenity": "school",
+    "name": "Nyakatookya High School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757446,
+  "lat": -0.1248228,
+  "lon": 30.5057610,
+  "tags": {
+    "addr:city": "Kyamooshe",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bufunda",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Nyakatukura Memorial Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757447,
+  "lat": -0.1271069,
+  "lon": 30.5058953,
+  "tags": {
+    "addr:city": "Kyamooshe",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bufunda",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Nyakatukura Memorial Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757448,
+  "lat": -0.0669862,
+  "lon": 30.4630591,
+  "tags": {
+    "addr:city": "Nyamiyaga II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyakatookye",
+    "addr:subcounty": "Kashangura",
+    "amenity": "school",
+    "name": "Nyamiyaga II Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757449,
+  "lat": -0.0656100,
+  "lon": 30.4218824,
+  "tags": {
+    "addr:city": "Nyamushwiga",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kashangura",
+    "addr:subcounty": "Kashangura",
+    "amenity": "school",
+    "name": "Nyamushwiga Parents School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757450,
+  "lat": -0.1196743,
+  "lon": 30.4999483,
+  "tags": {
+    "addr:city": "Rwamabaare Upper",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kigarama",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Rugama Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757451,
+  "lat": -0.1013745,
+  "lon": 30.4698648,
+  "tags": {
+    "addr:city": "Nyakatokye I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rugazi",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Rugazi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757452,
+  "lat": -0.1248383,
+  "lon": 30.5337460,
+  "tags": {
+    "addr:city": "Ruyonza II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nsasi",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "name": "Ruyomba II Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757453,
+  "lat": -0.0850311,
+  "lon": 30.4565591,
+  "tags": {
+    "addr:city": "Bugorora",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kyeikucu",
+    "addr:subcounty": "Kashangura",
+    "amenity": "school",
+    "name": "Rwampanga Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757454,
+  "lat": -0.0300536,
+  "lon": 30.4211150,
+  "tags": {
+    "addr:city": "Endama",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kamwiri",
+    "addr:subcounty": "Kijongo",
+    "amenity": "school",
+    "name": "Rwanyakabogo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757458,
+  "lat": -0.1682446,
+  "lon": 30.5239772,
+  "tags": {
+    "addr:city": "Rwemirabyo",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyamirima",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "name": "Rwemirabyo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757459,
+  "lat": -0.1451327,
+  "lon": 30.5635178,
+  "tags": {
+    "addr:city": "Rwengwe I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwengwe",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "name": "Rwengwe I Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757460,
+  "lat": -0.0534749,
+  "lon": 30.4300514,
+  "tags": {
+    "addr:city": "Kashangura II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kashangura",
+    "addr:subcounty": "Kashangura",
+    "amenity": "school",
+    "name": "Rwengwe Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757461,
+  "lat": -0.0020634,
+  "lon": 30.4290889,
+  "tags": {
+    "addr:city": "Mirambi",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwenkobwa",
+    "addr:subcounty": "Kijongo",
+    "amenity": "school",
+    "name": "Rwenkobwa Moslem Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757462,
+  "lat": -0.0036852,
+  "lon": 30.4305111,
+  "tags": {
+    "addr:city": "Mirambi",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwenkobwa",
+    "addr:subcounty": "Kijongo",
+    "amenity": "school",
+    "name": "Rwenkobwa Parents Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757463,
+  "lat": -0.0060657,
+  "lon": 30.4272858,
+  "tags": {
+    "addr:city": "Mirambi",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwenkobwa",
+    "addr:subcounty": "Kijongo",
+    "amenity": "school",
+    "name": "Rwenkobwa Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757464,
+  "lat": -0.0061606,
+  "lon": 30.4293150,
+  "tags": {
+    "addr:city": "Mirambi",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwenkobwa",
+    "addr:subcounty": "Kijongo",
+    "amenity": "school",
+    "name": "Rwenkobwa Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757465,
+  "lat": -0.1702321,
+  "lon": 30.5718365,
+  "tags": {
+    "addr:city": "Rwenkuba II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kihani",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "name": "Rwenkuba Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757466,
+  "lat": -0.1039957,
+  "lon": 30.5602690,
+  "tags": {
+    "addr:city": "Rwobuziizi I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwobuziizi",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "name": "Rwobuzizi Community Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757467,
+  "lat": -0.0983207,
+  "lon": 30.5406041,
+  "tags": {
+    "addr:city": "Nsasi Trading Centre",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nsasi",
+    "addr:subcounty": "Nyabuhikye",
+    "amenity": "school",
+    "name": "Rwobuzizi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757468,
+  "lat": -0.1262019,
+  "lon": 30.5696371,
+  "tags": {
+    "addr:city": "Karututsi",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwengwe",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "name": "Rwomuhoro Modern Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757469,
+  "lat": -0.1318818,
+  "lon": 30.5642516,
+  "tags": {
+    "addr:city": "Rwomuhoro",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwengwe",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "name": "Rwomuhoro Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757470,
+  "lat": -0.1333418,
+  "lon": 30.5636622,
+  "tags": {
+    "addr:city": "Rwomuhoro",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rwengwe",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "name": "Rwomuhoro Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757471,
+  "lat": -0.0936331,
+  "lon": 30.4609383,
+  "tags": {
+    "addr:city": "Kigaigo",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyakatookye",
+    "addr:subcounty": "Kashangura",
+    "amenity": "school",
+    "name": "Saint John Rugazi Vocational Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757472,
+  "lat": -0.0148220,
+  "lon": 30.4945702,
+  "tags": {
+    "addr:city": "Keihiro II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kabaare",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Saint Jude Kabaare Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757473,
+  "lat": -0.1297688,
+  "lon": 30.4524591,
+  "tags": {
+    "addr:city": "Kagongo Institutions",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kagongo",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Saint Kalemba Catechist Training College",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757474,
+  "lat": -0.1291250,
+  "lon": 30.4507185,
+  "tags": {
+    "addr:city": "Kagongo Institutions",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kagongo",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Saint Thereza Girls' School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757475,
+  "lat": -0.1279554,
+  "lon": 30.4506089,
+  "tags": {
+    "addr:city": "Kagongo Institutions",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kagongo",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Saint Thereza Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757476,
+  "lat": -0.1053456,
+  "lon": 30.4617859,
+  "tags": {
+    "addr:city": "Bigyera",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Rugazi",
+    "addr:subcounty": "Ibanda Town Council",
+    "amenity": "school",
+    "name": "Sarena Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757477,
+  "lat": -0.1671043,
+  "lon": 30.5460584,
+  "tags": {
+    "addr:city": "Sigirira II",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kihani",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "name": "Sigira Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757478,
+  "lat": -0.0854606,
+  "lon": 30.4761136,
+  "tags": {
+    "addr:city": "Kanama I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Nyakatookye",
+    "addr:subcounty": "Kashangura",
+    "amenity": "school",
+    "name": "Trust Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042757479,
+  "lat": -0.0555781,
+  "lon": 30.4850421,
+  "tags": {
+    "addr:city": "Bisheshe Central",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Bugarama",
+    "addr:subcounty": "Bisheshe",
+    "amenity": "school",
+    "name": "Wisdom Training School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042794141,
+  "lat": -0.0172156,
+  "lon": 30.4006237,
+  "tags": {
+    "addr:city": "Rwanyabihuka I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kijongo",
+    "addr:subcounty": "Kijongo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwambogo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010692"
+  }
+},
+{
+  "type": "node",
+  "id": 4042794142,
+  "lat": -0.0083229,
+  "lon": 30.3991868,
+  "tags": {
+    "addr:city": "Kanyinya",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kijongo",
+    "addr:subcounty": "Kijongo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwanyabihuka Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23010693"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802900,
+  "lat": -0.1627269,
+  "lon": 30.3872672,
+  "tags": {
+    "addr:city": "Kinyamugara",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kicuzi",
+    "addr:subcounty": "Kicuzi",
+    "amenity": "school",
+    "name": "Kinyamugara Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802905,
+  "lat": -0.1722504,
+  "lon": 30.3699774,
+  "tags": {
+    "addr:city": "Muture",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kicuzi",
+    "addr:subcounty": "Kicuzi",
+    "amenity": "school",
+    "name": "Muture Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802909,
+  "lat": -0.1698849,
+  "lon": 30.3526785,
+  "tags": {
+    "addr:city": "Kisabo Central",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kanywambogo",
+    "addr:subcounty": "Kicuzi",
+    "amenity": "school",
+    "name": "Nyamabaare Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802913,
+  "lat": -0.1517250,
+  "lon": 30.3486757,
+  "tags": {
+    "addr:city": "Ryabatenga I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kanywambogo",
+    "addr:subcounty": "Kicuzi",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Ryabatenga Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042802914,
+  "lat": -0.1514358,
+  "lon": 30.3485141,
+  "tags": {
+    "addr:city": "Ryabatenga I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Kanywambogo",
+    "addr:subcounty": "Kicuzi",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Ryabatenga Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4042817062,
+  "lat": -0.1454528,
+  "lon": 30.2706440,
+  "tags": {
+    "addr:city": "Karuhisi",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Irimya",
+    "addr:subcounty": "Kicuzi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Irimya Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23016047"
+  }
+},
+{
+  "type": "node",
+  "id": 4042817068,
+  "lat": -0.1308120,
+  "lon": 30.2823726,
+  "tags": {
+    "addr:city": "Kitooma",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Irimya",
+    "addr:subcounty": "Kicuzi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kitooma Church School Primary",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23016042"
+  }
+},
+{
+  "type": "node",
+  "id": 4042817073,
+  "lat": -0.1233915,
+  "lon": 30.2515322,
+  "tags": {
+    "addr:city": "Buhindagye",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Irimya",
+    "addr:subcounty": "Kicuzi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwelebera Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23016037"
+  }
+},
+{
+  "type": "node",
+  "id": 5674849497,
+  "lat": -0.1736391,
+  "lon": 30.4966869,
+  "tags": {
+    "addr:city": "Kayenje I",
+    "amenity": "school",
+    "name": "MultiChoice Resource Center",
+    "operator": "Nyabuhikye Secondary School"
+  }
+},
+{
+  "type": "node",
+  "id": 7154926206,
+  "lat": -0.1271688,
+  "lon": 30.4970156,
+  "tags": {
+    "amenity": "school",
+    "name": "Alliance Vocational School"
+  }
+},
+{
+  "type": "node",
+  "id": 8458220224,
+  "lat": -0.0691191,
+  "lon": 30.4930069,
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "node",
+  "id": 8458235520,
+  "lat": -0.2213341,
+  "lon": 30.5448891,
+  "tags": {
+    "amenity": "school",
+    "name": "Standard High School Igorora"
+  }
+},
+{
+  "type": "node",
+  "id": 8458235521,
+  "lat": -0.2058107,
+  "lon": 30.5291059,
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "node",
+  "id": 8458235718,
+  "lat": 0.0352533,
+  "lon": 30.5081501,
+  "tags": {
+    "amenity": "school",
+    "name": "Ishongoro Primary School"
+  }
+},
+{
+  "type": "node",
+  "id": 8458236217,
+  "lat": -0.1953656,
+  "lon": 30.5138858,
+  "tags": {
+    "amenity": "school",
+    "name": "Parents' Hope Primary School"
+  }
+},
+{
+  "type": "node",
+  "id": 8458238117,
+  "lat": 0.0622470,
+  "lon": 30.4801352,
+  "tags": {
+    "amenity": "school",
+    "name": "St. Marcelinus Girls School"
+  }
+},
+{
+  "type": "node",
+  "id": 8458831217,
+  "lat": -0.2116453,
+  "lon": 30.5328522,
+  "tags": {
+    "amenity": "school",
+    "name": "Nyahoora Primary School"
+  }
+},
+{
+  "type": "node",
+  "id": 8458831218,
+  "lat": -0.1843389,
+  "lon": 30.4955714,
+  "tags": {
+    "amenity": "school",
+    "name": "Ibanda High School"
+  }
+},
+{
+  "type": "way",
+  "id": 595427770,
+  "center": {
+    "lat": -0.1734206,
+    "lon": 30.4975610
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "Nyabuhikye Catholic Primary School"
+  }
+},
+{
+  "type": "way",
+  "id": 595427777,
+  "center": {
+    "lat": -0.1728551,
+    "lon": 30.4960758
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "Nyabuhikye Secondary School",
+    "ref": "6744"
+  }
+},
+{
+  "type": "way",
+  "id": 596025927,
+  "center": {
+    "lat": -0.2239680,
+    "lon": 30.5476068
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 596025928,
+  "center": {
+    "lat": -0.2242585,
+    "lon": 30.5473468
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 596043891,
+  "center": {
+    "lat": -0.2241689,
+    "lon": 30.5501911
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 1209780127,
+  "center": {
+    "lat": 0.0380399,
+    "lon": 30.5582389
+  },
+  "tags": {
+    "amenity": "school",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1223458282,
+  "center": {
+    "lat": -0.0390219,
+    "lon": 30.5091337
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 1223463596,
+  "center": {
+    "lat": -0.0654025,
+    "lon": 30.4921709
+  },
+  "tags": {
+    "amenity": "school",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1223463597,
+  "center": {
+    "lat": -0.0653436,
+    "lon": 30.4923671
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 1223463598,
+  "center": {
+    "lat": -0.0655470,
+    "lon": 30.4924407
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 1223463599,
+  "center": {
+    "lat": -0.0654333,
+    "lon": 30.4925493
+  },
+  "tags": {
+    "amenity": "school",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1241365618,
+  "center": {
+    "lat": -0.2097480,
+    "lon": 30.4065680
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 1249922635,
+  "center": {
+    "lat": -0.1327888,
+    "lon": 30.5016180
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 1273068509,
+  "center": {
+    "lat": -0.1733481,
+    "lon": 30.4891941
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 1283738275,
+  "center": {
+    "lat": -0.1868844,
+    "lon": 30.5833557
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 1283738284,
+  "center": {
+    "lat": -0.1878419,
+    "lon": 30.5864147
+  },
+  "tags": {
+    "amenity": "school"
+  }
+}
+
+  ]
+}

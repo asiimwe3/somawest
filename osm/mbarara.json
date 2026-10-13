@@ -1,0 +1,3184 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-13T18:09:06Z",
+    "timestamp_areas_base": "2026-10-13T09:43:05Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4030729716,
+  "lat": -0.3008794,
+  "lon": 30.5938861,
+  "tags": {
+    "addr:city": "Ruhumba T/c",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kabare",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Aunt Betty Ruhumba Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045617"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729718,
+  "lat": -0.2474628,
+  "lon": 30.6065828,
+  "tags": {
+    "addr:city": "Nyakabirizi",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Bwengure",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bwengure Child Care Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045619"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729719,
+  "lat": -0.2464550,
+  "lon": 30.6094382,
+  "tags": {
+    "addr:city": "Nyakabirizi",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Bwengure",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "0",
+    "name": "Bwengure Pentecostal Nursery School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045620"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729720,
+  "lat": -0.2526687,
+  "lon": 30.5987926,
+  "tags": {
+    "addr:city": "Kyarutahairwa",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Bwengure",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bwengure Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045621"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729729,
+  "lat": -0.2377513,
+  "lon": 30.6164412,
+  "tags": {
+    "addr:city": "Kanyakwezi",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Bwengure",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "0",
+    "name": "Kanyakwezi Church School Nursery School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045630"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729730,
+  "lat": -0.3435219,
+  "lon": 30.6633665,
+  "tags": {
+    "addr:city": "Mushabwa",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyabisirira",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kashari Junior Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045631"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729736,
+  "lat": -0.2517712,
+  "lon": 30.6121891,
+  "tags": {
+    "addr:city": "Nyakabirizi",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Bwengure",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Katagyengera Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045637"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729738,
+  "lat": -0.2826292,
+  "lon": 30.5917761,
+  "tags": {
+    "addr:city": "Nsiika",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nsiika",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "0",
+    "name": "Katuregye Nursery School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045639"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729742,
+  "lat": -0.3275099,
+  "lon": 30.6511539,
+  "tags": {
+    "addr:city": "Akaihamba IV",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyabisirira",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyensama Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045643"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729745,
+  "lat": -0.3082550,
+  "lon": 30.6060706,
+  "tags": {
+    "addr:city": "Nchune A",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nchune",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nchune Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045646"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729746,
+  "lat": -0.3455833,
+  "lon": 30.5986593,
+  "tags": {
+    "addr:city": "Nombe Ib",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nchune",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nombe Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045647"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729747,
+  "lat": -0.3362436,
+  "lon": 30.5962289,
+  "tags": {
+    "addr:city": "Nombe Ia",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nchune",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Nombe Senior Secondary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045648"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729748,
+  "lat": -0.2804912,
+  "lon": 30.5929982,
+  "tags": {
+    "addr:city": "Nsiika",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nsiika",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "0",
+    "name": "Nsiika Nursery School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045649"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729749,
+  "lat": -0.2661582,
+  "lon": 30.5950408,
+  "tags": {
+    "addr:city": "Akanago",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nsiika",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nsiika Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045650"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729765,
+  "lat": -0.3242428,
+  "lon": 30.5864797,
+  "tags": {
+    "addr:city": "Nombe III",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nchune",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rubindi Parents Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045605"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729766,
+  "lat": -0.3360263,
+  "lon": 30.6235251,
+  "tags": {
+    "addr:city": "Rugarura I",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyabisirira",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rugarura Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045606"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729771,
+  "lat": -0.3427102,
+  "lon": 30.6649662,
+  "tags": {
+    "addr:city": "Mushabwa",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyabisirira",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rweibaare II Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045611"
+  }
+},
+{
+  "type": "node",
+  "id": 4030729774,
+  "lat": -0.3294483,
+  "lon": 30.6318443,
+  "tags": {
+    "addr:city": "Akaihamba I",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyabisirira",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "0",
+    "name": "Saint Livingstone I Nursery School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23045614"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143518,
+  "lat": -0.3708972,
+  "lon": 30.6402094,
+  "tags": {
+    "addr:city": "Akabaare",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Mirongo",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Akabaare Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971007"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143523,
+  "lat": -0.3546413,
+  "lon": 30.6273767,
+  "tags": {
+    "addr:city": "Amabaare West",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyabisirira",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Amabaare Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971012"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143524,
+  "lat": -0.3626984,
+  "lon": 30.6225963,
+  "tags": {
+    "addr:city": "Amabaare Central",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyabisirira",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Amabaare Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971013"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143525,
+  "lat": -0.4183017,
+  "lon": 30.6448021,
+  "tags": {
+    "addr:city": "Ekirehe II",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Itara",
+    "addr:subcounty": "Rubaya",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bethel Community Primary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971010"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143527,
+  "lat": -0.4861691,
+  "lon": 30.6614872,
+  "tags": {
+    "addr:city": "Ruyonza",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Bunenero",
+    "addr:subcounty": "Rubaya",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bunenero Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971008"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143529,
+  "lat": -0.4179533,
+  "lon": 30.6246510,
+  "tags": {
+    "addr:city": "Rukukuru",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Itara",
+    "addr:subcounty": "Rubaya",
+    "amenity": "school",
+    "denomination": "catholic",
+    "isced:level": "1",
+    "name": "Ekigando Catholic Primary School",
+    "operator": "government",
+    "religion": "christian",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971022"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143530,
+  "lat": -0.4803850,
+  "lon": 30.7546855,
+  "tags": {
+    "addr:city": "Rwabaranga",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rushozi",
+    "addr:subcounty": "Rubaya",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Esteri Kokundeka Memorial Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971023"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143531,
+  "lat": -0.4813382,
+  "lon": 30.7534168,
+  "tags": {
+    "addr:city": "Rwabaranga",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rushozi",
+    "addr:subcounty": "Rubaya",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Esteri Kokundeka Senior Secondary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971020"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143532,
+  "lat": -0.4258879,
+  "lon": 30.6446915,
+  "tags": {
+    "addr:city": "Ekyeera I",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Itara",
+    "addr:subcounty": "Rubaya",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Good Hope Primary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971021"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143536,
+  "lat": -0.4193608,
+  "lon": 30.6508109,
+  "tags": {
+    "addr:city": "Ekirehe II",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Itara",
+    "addr:subcounty": "Rubaya",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Itara Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971017"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143537,
+  "lat": -0.4425255,
+  "lon": 30.6758803,
+  "tags": {
+    "addr:city": "Kahoma",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruburara",
+    "addr:subcounty": "Rubaya",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kahoma Modern Primary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971030"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143539,
+  "lat": -0.3819529,
+  "lon": 30.6334077,
+  "tags": {
+    "addr:city": "Mirongo V",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Mirongo",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kashare Miracle Primary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971028"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143543,
+  "lat": -0.3758721,
+  "lon": 30.6078429,
+  "tags": {
+    "addr:city": "Kitongore",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Mitoozo",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kitongore II Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971024"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143544,
+  "lat": -0.4950938,
+  "lon": 30.6919756,
+  "tags": {
+    "addr:city": "Kyamatambarire II",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rushozi",
+    "addr:subcounty": "Rubaya",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyamatambarire Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971025"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143546,
+  "lat": -0.3860704,
+  "lon": 30.6193619,
+  "tags": {
+    "addr:city": "Mirongo I",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Mirongo",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mirongo Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971039"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143547,
+  "lat": -0.4104800,
+  "lon": 30.6344784,
+  "tags": {
+    "addr:city": "Mishenyi",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rwebishekye",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mishenyi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971036"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143548,
+  "lat": -0.4175954,
+  "lon": 30.6063214,
+  "tags": {
+    "addr:city": "Rwebishekye II",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rwebishekye",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Muko Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971037"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143550,
+  "lat": -0.3596880,
+  "lon": 30.6624813,
+  "tags": {
+    "addr:city": "Nyamirima",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Mirongo",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyamirima Moslem Primary School",
+    "religion": "muslim",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971035"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143551,
+  "lat": -0.3616189,
+  "lon": 30.6544878,
+  "tags": {
+    "addr:city": "Omukabaare II",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyabisirira",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Omukabaare Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971033"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143552,
+  "lat": -0.4496248,
+  "lon": 30.6243505,
+  "tags": {
+    "addr:district": "Mbarara",
+    "amenity": "school",
+    "name": "Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143553,
+  "lat": -0.4024199,
+  "lon": 30.6704875,
+  "tags": {
+    "addr:city": "Mutonto",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruburara",
+    "addr:subcounty": "Rubaya",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rubarara Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971047"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143555,
+  "lat": -0.4759883,
+  "lon": 30.6766881,
+  "tags": {
+    "addr:city": "Rukukuru",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Bunenero",
+    "addr:subcounty": "Rubaya",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rubaya Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971045"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143557,
+  "lat": -0.4519619,
+  "lon": 30.6013316,
+  "tags": {
+    "addr:city": "Ruhunga II",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruhunga",
+    "addr:subcounty": "Rubaya",
+    "amenity": "school",
+    "name": "Ruhunga Church School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971043"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143558,
+  "lat": -0.4355820,
+  "lon": 30.6152395,
+  "tags": {
+    "addr:city": "Rugyerera",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ruhunga",
+    "addr:subcounty": "Rubaya",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ruhunga Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971044"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143559,
+  "lat": -0.4633187,
+  "lon": 30.7141974,
+  "tags": {
+    "addr:city": "Nyantungu",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rushozi",
+    "addr:subcounty": "Rubaya",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rushozi Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971040"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143560,
+  "lat": -0.4605290,
+  "lon": 30.6696024,
+  "tags": {
+    "addr:city": "Rubaya",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Bunenero",
+    "addr:subcounty": "Rubaya",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Rwantsinga High School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971041"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143561,
+  "lat": -0.4633227,
+  "lon": 30.6686977,
+  "tags": {
+    "addr:city": "Rubaya",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Bunenero",
+    "addr:subcounty": "Rubaya",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwantsinga Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971055"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143562,
+  "lat": -0.3924130,
+  "lon": 30.5882833,
+  "tags": {
+    "addr:city": "Rweibaare I",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Mirongo",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rweibaare I Model Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971056"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143565,
+  "lat": -0.4724224,
+  "lon": 30.5892903,
+  "tags": {
+    "addr:city": "Rwentojo",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katyazo",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwentojo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971051"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143566,
+  "lat": -0.4703084,
+  "lon": 30.5864345,
+  "tags": {
+    "addr:city": "Kyakaziizi",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katyazo",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Rwentojo Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971052"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143567,
+  "lat": -0.4874991,
+  "lon": 30.6055980,
+  "tags": {
+    "addr:city": "Karukushu",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katyazo",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwishamiro Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971049"
+  }
+},
+{
+  "type": "node",
+  "id": 4031143569,
+  "lat": -0.3960937,
+  "lon": 30.5865740,
+  "tags": {
+    "addr:city": "Rweibaare I",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Mirongo",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Mary's Rweibaare Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22971058"
+  }
+},
+{
+  "type": "node",
+  "id": 4032472800,
+  "lat": -0.5649871,
+  "lon": 30.5246082,
+  "tags": {
+    "addr:city": "Bubaare II",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rwenshanku",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "name": "Bubaare Parents School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977177"
+  }
+},
+{
+  "type": "node",
+  "id": 4032472801,
+  "lat": -0.5717293,
+  "lon": 30.5666750,
+  "tags": {
+    "addr:city": "Katojo II",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katojo",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bubaare Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977206"
+  }
+},
+{
+  "type": "node",
+  "id": 4032472804,
+  "lat": -0.5280359,
+  "lon": 30.5229127,
+  "tags": {
+    "addr:city": "Rugarama I",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rugarama",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "California School of Western Primary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977205"
+  }
+},
+{
+  "type": "node",
+  "id": 4032472819,
+  "lat": -0.5867523,
+  "lon": 30.4775997,
+  "tags": {
+    "addr:city": "Kashaka I",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kashaka",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kashaka Girl's Secondary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977188"
+  }
+},
+{
+  "type": "node",
+  "id": 4032472820,
+  "lat": -0.5825533,
+  "lon": 30.4790243,
+  "tags": {
+    "addr:city": "Nyantamba - Kashaka",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamushoko",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kashaka High School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977189"
+  }
+},
+{
+  "type": "node",
+  "id": 4032472821,
+  "lat": -0.5876774,
+  "lon": 30.4745707,
+  "tags": {
+    "addr:city": "Rwengyenyi",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kashaka",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kashaka Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977194"
+  }
+},
+{
+  "type": "node",
+  "id": 4032472824,
+  "lat": -0.5542437,
+  "lon": 30.4798930,
+  "tags": {
+    "addr:city": "Keiba-kamushoko",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamushoko",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Katooma II Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977193"
+  }
+},
+{
+  "type": "node",
+  "id": 4032472835,
+  "lat": -0.5345802,
+  "lon": 30.4796825,
+  "tags": {
+    "addr:city": "Kakumba",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamushoko",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "fixme": "Please,check the position of the node",
+    "isced:level": "1",
+    "name": "Komiyaga Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977230"
+  }
+},
+{
+  "type": "node",
+  "id": 4032472841,
+  "lat": -0.5566506,
+  "lon": 30.4819904,
+  "tags": {
+    "addr:city": "Keiba-kamushoko",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamushoko",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Mbarara Community College",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977224"
+  }
+},
+{
+  "type": "node",
+  "id": 4032472845,
+  "lat": -0.6089053,
+  "lon": 30.4562241,
+  "tags": {
+    "addr:city": "Nshozi",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kashaka",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nshozi Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977228"
+  }
+},
+{
+  "type": "node",
+  "id": 4032472867,
+  "lat": -0.5599920,
+  "lon": 30.5235825,
+  "tags": {
+    "addr:city": "Bubaare I",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rwenshanku",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "name": "Rwentanga Farm School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977166"
+  }
+},
+{
+  "type": "node",
+  "id": 4032472868,
+  "lat": -0.5587302,
+  "lon": 30.5283302,
+  "tags": {
+    "addr:city": "Bubaare I",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rwenshanku",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwentanga Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977167"
+  }
+},
+{
+  "type": "node",
+  "id": 4032472870,
+  "lat": -0.5853077,
+  "lon": 30.4657976,
+  "tags": {
+    "addr:city": "Rwengyenyi",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kashaka",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Stanita Memorial Primary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977172"
+  }
+},
+{
+  "type": "node",
+  "id": 4032472874,
+  "lat": -0.5862777,
+  "lon": 30.4719857,
+  "tags": {
+    "addr:city": "Rwengyenyi",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kashaka",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Stone Hill Primary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977144"
+  }
+},
+{
+  "type": "node",
+  "id": 4032472877,
+  "lat": -0.5871250,
+  "lon": 30.4722759,
+  "tags": {
+    "addr:city": "Rwengyenyi",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kashaka",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Simon Kooga Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977164"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618946,
+  "lat": -0.3052871,
+  "lon": 30.5565678,
+  "tags": {
+    "addr:city": "Akarungu",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Karwesanga",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Akarungu Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977597"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618947,
+  "lat": -0.3211954,
+  "lon": 30.5819845,
+  "tags": {
+    "addr:city": "Rubindi T/c A",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kabare",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Ankole High School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977598"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618957,
+  "lat": -0.3149434,
+  "lon": 30.5847899,
+  "tags": {
+    "addr:city": "Rubindi T/c A",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kabare",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Hopebel Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977583"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618963,
+  "lat": -0.3206617,
+  "lon": 30.5641128,
+  "tags": {
+    "addr:city": "Karuhama",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kabare",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kabaare Modern Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977581"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618964,
+  "lat": -0.3220006,
+  "lon": 30.5605162,
+  "tags": {
+    "addr:city": "Karuhama",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kabare",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kabaare Progressive Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977582"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618966,
+  "lat": -0.2646322,
+  "lon": 30.5621144,
+  "tags": {
+    "addr:city": "Rweera",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ntuura",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kagongi Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977576"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618967,
+  "lat": -0.2977335,
+  "lon": 30.5819946,
+  "tags": {
+    "addr:city": "Kabaare",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kabare",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kagwesagye Memorial Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977577"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618968,
+  "lat": -0.3081231,
+  "lon": 30.5211574,
+  "tags": {
+    "addr:city": "Rwebihangere",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Karwesanga",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kaihiro Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977578"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618972,
+  "lat": -0.2724812,
+  "lon": 30.5551709,
+  "tags": {
+    "addr:city": "Ekikaira",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ngango",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kariire Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977573"
+  }
+},
+{
+  "type": "node",
+  "id": 4032618985,
+  "lat": -0.2911261,
+  "lon": 30.5073374,
+  "tags": {
+    "addr:city": "Kibingo Central",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kibingo",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kibingo Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977533"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619798,
+  "lat": -0.2856718,
+  "lon": 30.5676604,
+  "tags": {
+    "addr:city": "Kyarushanje",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ntuura",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyarushanje Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977554"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619802,
+  "lat": -0.3385871,
+  "lon": 30.5762339,
+  "tags": {
+    "addr:city": "Nombe Iia",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nchune",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "name": "Lypa International School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977550"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619806,
+  "lat": -0.2852647,
+  "lon": 30.5605738,
+  "tags": {
+    "addr:city": "Akacuucu",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ntuura",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Moonlight Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977546"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619811,
+  "lat": -0.2900198,
+  "lon": 30.5459865,
+  "tags": {
+    "addr:city": "Nyabuhama",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kyandahi",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Munyonyi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977510"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619816,
+  "lat": -0.2448385,
+  "lon": 30.5526869,
+  "tags": {
+    "addr:city": "Kigando I",
+    "addr:county": "Ibanda",
+    "addr:district": "Ibanda",
+    "addr:parish": "Keihangara",
+    "addr:subcounty": "Kikyenkye",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nkondo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977507"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619819,
+  "lat": -0.2625409,
+  "lon": 30.5732760,
+  "tags": {
+    "addr:city": "Ntuura",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ntuura",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "name": "Ntuura Christian School",
+    "operator:type": "private",
+    "religion": "christian",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977502"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619822,
+  "lat": -0.2829210,
+  "lon": 30.5264974,
+  "tags": {
+    "addr:city": "Kyandahi",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kibingo",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyakabwa Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977497"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619824,
+  "lat": -0.3264451,
+  "lon": 30.5324967,
+  "tags": {
+    "addr:city": "Rukanja",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyamiriro",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyamiriro Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977499"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619825,
+  "lat": -0.2430233,
+  "lon": 30.5773779,
+  "tags": {
+    "addr:city": "Kyeibare",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Bwengure",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyamunyobwa Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977491"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619829,
+  "lat": -0.2500839,
+  "lon": 30.5673235,
+  "tags": {
+    "addr:city": "Omukagyera",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ntuura",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Omukagyera Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977486"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619830,
+  "lat": -0.3302496,
+  "lon": 30.5762484,
+  "tags": {
+    "addr:city": "Rubindi",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kabare",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Pearl High School Ruhindi",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977487"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619833,
+  "lat": -0.3228646,
+  "lon": 30.5810343,
+  "tags": {
+    "addr:city": "Rubindi T/c B",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kabare",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rubindi Preparatory Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977482"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619834,
+  "lat": -0.3331366,
+  "lon": 30.5761707,
+  "tags": {
+    "addr:city": "Rubindi",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kabare",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "name": "Ruhindi Vocational Institution",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977483"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619835,
+  "lat": -0.3243128,
+  "lon": 30.5188578,
+  "tags": {
+    "addr:city": "Bugorora",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyamiriro",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rukanja Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977484"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619838,
+  "lat": -0.2841591,
+  "lon": 30.5299519,
+  "tags": {
+    "addr:city": "Orurembo",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kyandahi",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwamaanuuma Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977477"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619839,
+  "lat": -0.3430641,
+  "lon": 30.5248195,
+  "tags": {
+    "addr:city": "Nyamiriro",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyamiriro",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwamuhiiji Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977479"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619840,
+  "lat": -0.2737261,
+  "lon": 30.5366701,
+  "tags": {
+    "addr:city": "Kyakajebere",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ngango",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rweshe Pentecostal Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977480"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619841,
+  "lat": -0.2680684,
+  "lon": 30.5461858,
+  "tags": {
+    "addr:city": "Ngango",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ngango",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rweshe Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977529"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619844,
+  "lat": -0.3285203,
+  "lon": 30.5760485,
+  "tags": {
+    "addr:city": "Rubindi",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kabare",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Standrew Senior Secondary Rubindi",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977532"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619846,
+  "lat": -0.3283050,
+  "lon": 30.5751087,
+  "tags": {
+    "addr:city": "Rubindi",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kabare",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Joseph Model Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977526"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619848,
+  "lat": -0.3249058,
+  "lon": 30.5698207,
+  "tags": {
+    "addr:city": "Karuhama",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kabare",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "name": "Saint Joseph Rubindi Institution",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977528"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619849,
+  "lat": -0.2837466,
+  "lon": 30.5612546,
+  "tags": {
+    "addr:city": "Akacuucu",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Ntuura",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint King Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977521"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619851,
+  "lat": -0.3262711,
+  "lon": 30.5717455,
+  "tags": {
+    "addr:city": "Karuhama",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kabare",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Paul Rubindi Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977523"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619852,
+  "lat": -0.2908177,
+  "lon": 30.5463608,
+  "tags": {
+    "addr:city": "Nyabuhama",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kyandahi",
+    "addr:subcounty": "Kagongi",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Saint Paul Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977524"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619854,
+  "lat": -0.3274351,
+  "lon": 30.5746974,
+  "tags": {
+    "addr:city": "Karuhama",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kabare",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Peter's Rubindi Boys Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977517"
+  }
+},
+{
+  "type": "node",
+  "id": 4032619858,
+  "lat": -0.3354263,
+  "lon": 30.5820635,
+  "tags": {
+    "addr:city": "Nombe Iia",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nchune",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Town Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977513"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622636,
+  "lat": -0.4658238,
+  "lon": 30.5124564,
+  "tags": {
+    "addr:city": "Akashanda",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyarubungo",
+    "addr:subcounty": "Bukiiro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Akashanda Model Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977637"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622637,
+  "lat": -0.3932558,
+  "lon": 30.5856196,
+  "tags": {
+    "addr:city": "Rweibaare I",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Mirongo",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Boniface Junior Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977633"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622639,
+  "lat": -0.5032449,
+  "lon": 30.4941961,
+  "tags": {
+    "addr:city": "Mugarutsya I",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Mugarutsya",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "name": "Bright Future Primary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622641,
+  "lat": -0.4417172,
+  "lon": 30.5135699,
+  "tags": {
+    "addr:city": "Karuyenje B",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Karuyenje",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Buhumuriro Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977629"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622643,
+  "lat": -0.3589665,
+  "lon": 30.5310454,
+  "tags": {
+    "addr:city": "Igayaza",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rwamuhiigi",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Buyeye Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977631"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622644,
+  "lat": -0.4374193,
+  "lon": 30.5742331,
+  "tags": {
+    "addr:city": "Bwizibwera 'b' Trc",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rwebishekye",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bwizi Bwera Preparatory Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977632"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622645,
+  "lat": -0.4372138,
+  "lon": 30.5764867,
+  "tags": {
+    "addr:city": "Bwizibwera 'b' Trc",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rwebishekye",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bwizibwera Town School Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977625"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622646,
+  "lat": -0.4424538,
+  "lon": 30.5746354,
+  "tags": {
+    "addr:city": "Bwizibwera 'b' Trc",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rwebishekye",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bwizibwera Moslem Primary School",
+    "religion": "muslim",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977626"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622647,
+  "lat": -0.4392147,
+  "lon": 30.5755144,
+  "tags": {
+    "addr:city": "Bwizibwera 'b' Trc",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rwebishekye",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bwizibwera Standard Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977627"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622651,
+  "lat": -0.5003683,
+  "lon": 30.5375564,
+  "tags": {
+    "addr:city": "Bugarama",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Mabira",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ebenezer Hope Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977623"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622653,
+  "lat": -0.4139563,
+  "lon": 30.5364114,
+  "tags": {
+    "addr:city": "Kakyerere",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Karuyenje",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "fixme": "Please,check the position of the node",
+    "isced:level": "1",
+    "name": "Exford Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977617"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622654,
+  "lat": -0.4336203,
+  "lon": 30.5492454,
+  "tags": {
+    "addr:city": "Rwanyamahembe",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Karuyenje",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Global International Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977618"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622656,
+  "lat": -0.4447280,
+  "lon": 30.5268297,
+  "tags": {
+    "addr:city": "Karuyenje A",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Karuyenje",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "God's Hope Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977620"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622661,
+  "lat": -0.4609279,
+  "lon": 30.5400986,
+  "tags": {
+    "addr:city": "Kyagaju",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Mabira",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kacwamba Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977663"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622663,
+  "lat": -0.4308286,
+  "lon": 30.4746520,
+  "tags": {
+    "addr:city": "Kaziga I",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Bukiro",
+    "addr:subcounty": "Bukiiro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kakaya Primary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977665"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622665,
+  "lat": -0.3767540,
+  "lon": 30.5618556,
+  "tags": {
+    "addr:city": "Ihondero",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kariro",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "fixme": "Please,check the position of the node",
+    "isced:level": "1",
+    "name": "Kaliro Muslim Primary School",
+    "religion": "muslim",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977658"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622670,
+  "lat": -0.3924645,
+  "lon": 30.5470116,
+  "tags": {
+    "addr:city": "Nyakabungo",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kariro",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "fixme": "Please,check the position of the node",
+    "isced:level": "1",
+    "name": "Kariro Academy Primary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977655"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622671,
+  "lat": -0.3903701,
+  "lon": 30.5470723,
+  "tags": {
+    "addr:city": "Nyakabungo",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kariro",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kariro Wisdom Primary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977656"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622672,
+  "lat": -0.3524675,
+  "lon": 30.5518802,
+  "tags": {
+    "addr:city": "Bitsya",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Bitsya",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Karuhisi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977657"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622675,
+  "lat": -0.4342902,
+  "lon": 30.5270684,
+  "tags": {
+    "addr:city": "Rweishaka",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Karuyenje",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Karyenje Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977652"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622677,
+  "lat": -0.5229885,
+  "lon": 30.4808847,
+  "tags": {
+    "addr:city": "Rwambabana",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kamushoko",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kasikizi Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977646"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622679,
+  "lat": -0.4457805,
+  "lon": 30.4969523,
+  "tags": {
+    "addr:city": "Nyarubungo",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyarubungo",
+    "addr:subcounty": "Bukiiro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kibaare I Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977648"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622682,
+  "lat": -0.4245076,
+  "lon": 30.4802512,
+  "tags": {
+    "addr:city": "Bukiro",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Bukiro",
+    "addr:subcounty": "Bukiiro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kitengure Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977643"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622683,
+  "lat": -0.4829696,
+  "lon": 30.5366562,
+  "tags": {
+    "addr:city": "Kitookye",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Mabira",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kitokye Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977644"
+  }
+},
+{
+  "type": "node",
+  "id": 4032622686,
+  "lat": -0.3607672,
+  "lon": 30.5263035,
+  "tags": {
+    "addr:city": "Kyakataara",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rwamuhiigi",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyakatara Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977639"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626090,
+  "lat": -0.5097478,
+  "lon": 30.5656400,
+  "tags": {
+    "addr:city": "Kyeshamire",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katyazo",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyeshamire Primary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977701"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626092,
+  "lat": -0.4734697,
+  "lon": 30.5559227,
+  "tags": {
+    "addr:city": "Mabira",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Mabira",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "fixme": "Please,check the position of the node",
+    "isced:level": "1",
+    "name": "Mabira Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977703"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626094,
+  "lat": -0.5011619,
+  "lon": 30.4985288,
+  "tags": {
+    "addr:city": "Mugarutsya I",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Mugarutsya",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mugarutsya Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977696"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626096,
+  "lat": -0.5242251,
+  "lon": 30.5781163,
+  "tags": {
+    "addr:city": "Rwenturagara",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rwenshanku",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mukora Child Development Center Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977699"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626097,
+  "lat": -0.5260784,
+  "lon": 30.5763832,
+  "tags": {
+    "addr:city": "Rwenturagara",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rwenshanku",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mukora Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977691"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626098,
+  "lat": -0.4195559,
+  "lon": 30.4833100,
+  "tags": {
+    "addr:city": "Bukiro",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Bukiro",
+    "addr:subcounty": "Bukiiro",
+    "amenity": "school",
+    "fixme": "Please,check the position of the node",
+    "isced:level": "2;3;4",
+    "name": "New High School Bukiro",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977692"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626105,
+  "lat": -0.4263481,
+  "lon": 30.4983161,
+  "tags": {
+    "addr:city": "Nyakayojo A",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Karuyenje",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyakayo II Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977683"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626111,
+  "lat": -0.4618522,
+  "lon": 30.5809558,
+  "tags": {
+    "addr:city": "Orubare",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Mabira",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyampikye Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977681"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626113,
+  "lat": -0.3801220,
+  "lon": 30.5263573,
+  "tags": {
+    "addr:city": "Nyantungu",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rubingo",
+    "addr:subcounty": "Bukiiro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyantungu Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977731"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626114,
+  "lat": -0.4587254,
+  "lon": 30.5057301,
+  "tags": {
+    "addr:city": "Rwentojo",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyarubungo",
+    "addr:subcounty": "Bukiiro",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Nyarubungo Parent Secondary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977732"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626115,
+  "lat": -0.4536141,
+  "lon": 30.5052643,
+  "tags": {
+    "addr:city": "Rwentojo",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyarubungo",
+    "addr:subcounty": "Bukiiro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyarubungo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977733"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626117,
+  "lat": -0.4743241,
+  "lon": 30.5475964,
+  "tags": {
+    "addr:district": "Mbarara",
+    "amenity": "school",
+    "name": "Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626118,
+  "lat": -0.3970935,
+  "lon": 30.5144982,
+  "tags": {
+    "addr:city": "Rubingo Central",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rubingo",
+    "addr:subcounty": "Bukiiro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rubingo II Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977728"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626119,
+  "lat": -0.4067827,
+  "lon": 30.5196090,
+  "tags": {
+    "addr:city": "Nyanja A",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyanja",
+    "addr:subcounty": "Bukiiro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rubingo Nyanja Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977729"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626121,
+  "lat": -0.5196971,
+  "lon": 30.5224244,
+  "tags": {
+    "addr:city": "Rugarama I",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rugarama",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rugarama I Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977724"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626124,
+  "lat": -0.4926960,
+  "lon": 30.5679297,
+  "tags": {
+    "addr:city": "Runengo",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Katyazo",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Runengo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977727"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626125,
+  "lat": -0.4044718,
+  "lon": 30.5542731,
+  "tags": {
+    "addr:city": "Ihanika II",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rutoma",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rutooma Integrated Primary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977720"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626126,
+  "lat": -0.4280035,
+  "lon": 30.5568859,
+  "tags": {
+    "addr:city": "Rutooma",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Karuyenje",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rutooma Model Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977721"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626127,
+  "lat": -0.4075562,
+  "lon": 30.5711595,
+  "tags": {
+    "addr:city": "Rutooma T/c",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rutoma",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rutooma Parent Primary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977722"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626128,
+  "lat": -0.4212234,
+  "lon": 30.5653999,
+  "tags": {
+    "addr:city": "Rutooma",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rutoma",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Rutooma Secondary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977723"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626130,
+  "lat": -0.3702533,
+  "lon": 30.5665098,
+  "tags": {
+    "addr:city": "Rwamukondo",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Mitoozo",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwamukondo Primary School",
+    "note:code": "Please, check if amenity school is ok",
+    "note:remarks": "Govt Aided",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977717"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626131,
+  "lat": -0.5166019,
+  "lon": 30.4942968,
+  "tags": {
+    "addr:city": "Mugarutsya I",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Mugarutsya",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwatukwire Moslem Primary School",
+    "operator": "private",
+    "religion": "muslim",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977718"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626132,
+  "lat": -0.3857083,
+  "lon": 30.5357237,
+  "tags": {
+    "addr:city": "Kyeibumba",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kariro",
+    "addr:subcounty": "Rubindi",
+    "amenity": "school",
+    "fixme": "Please,check the position of the node",
+    "isced:level": "1",
+    "name": "Rwembirizi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977719"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626135,
+  "lat": -0.4134223,
+  "lon": 30.5291888,
+  "tags": {
+    "addr:city": "Rwengwe",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyanja",
+    "addr:subcounty": "Bukiiro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwengwe I Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977714"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626137,
+  "lat": -0.3618198,
+  "lon": 30.5758845,
+  "tags": {
+    "addr:city": "Rwebugoigo",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Mitoozo",
+    "addr:subcounty": "Kashare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rwobugoigo Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977708"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626140,
+  "lat": -0.4648870,
+  "lon": 30.5131825,
+  "tags": {
+    "addr:city": "Akashanda",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyarubungo",
+    "addr:subcounty": "Bukiiro",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Saint Charles Secondary Akashanda",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977711"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626141,
+  "lat": -0.4872141,
+  "lon": 30.4944029,
+  "tags": {
+    "addr:city": "Rushenyi",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Nyarubungo",
+    "addr:subcounty": "Bukiiro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Faith Kanyamatono Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977704"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626148,
+  "lat": -0.4362012,
+  "lon": 30.5739917,
+  "tags": {
+    "addr:city": "Bwizibwera 'b' Trc",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rwebishekye",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Tropical Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977678"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626149,
+  "lat": -0.5057994,
+  "lon": 30.4843179,
+  "tags": {
+    "addr:city": "Mugarutsya II",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Mugarutsya",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Urban Standard Primary School",
+    "operator": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977671"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626150,
+  "lat": -0.4363650,
+  "lon": 30.5733854,
+  "tags": {
+    "addr:city": "Bwizibwera 'b' Trc",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rwebishekye",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Victorious Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977672"
+  }
+},
+{
+  "type": "node",
+  "id": 4032626151,
+  "lat": -0.4081883,
+  "lon": 30.5645849,
+  "tags": {
+    "addr:city": "Ogwengoma",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Rutoma",
+    "addr:subcounty": "Rwanyamahembe",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Wagawaga Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977673"
+  }
+},
+{
+  "type": "node",
+  "id": 8458235517,
+  "lat": -0.3158881,
+  "lon": 30.5853395,
+  "tags": {
+    "amenity": "school",
+    "name": "Hope Primary School"
+  }
+},
+{
+  "type": "way",
+  "id": 596114905,
+  "center": {
+    "lat": -0.4371388,
+    "lon": 30.5766134
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 596114912,
+  "center": {
+    "lat": -0.4392368,
+    "lon": 30.5756193
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 635572187,
+  "center": {
+    "lat": -0.5869590,
+    "lon": 30.4723087
+  },
+  "tags": {
+    "addr:city": "Rwengyenyi",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kashaka",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "building": "yes",
+    "isced:level": "1",
+    "name": "Saint Simon Kooga Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977164"
+  }
+},
+{
+  "type": "way",
+  "id": 635572230,
+  "center": {
+    "lat": -0.5872932,
+    "lon": 30.4723246
+  },
+  "tags": {
+    "addr:city": "Rwengyenyi",
+    "addr:county": "Kashari",
+    "addr:district": "Mbarara",
+    "addr:parish": "Kashaka",
+    "addr:subcounty": "Bubaare",
+    "amenity": "school",
+    "building": "yes",
+    "isced:level": "1",
+    "name": "Saint Simon Kooga Primary School",
+    "operator": "government",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977164"
+  }
+},
+{
+  "type": "way",
+  "id": 1317690261,
+  "center": {
+    "lat": -0.2680492,
+    "lon": 30.5463520
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 1390844561,
+  "center": {
+    "lat": -0.3383615,
+    "lon": 30.5762372
+  },
+  "tags": {
+    "amenity": "school"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,889 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-13T18:04:02Z",
+    "timestamp_areas_base": "2026-10-13T09:43:05Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3981635805,
+  "lat": 1.0566204,
+  "lon": 30.5408448,
+  "tags": {
+    "addr:city": "Ntoroko North",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Ntoroko Ward",
+    "addr:subcounty": "Kanara Town Council",
+    "amenity": "school",
+    "name": "Early Learning Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3981635808,
+  "lat": 1.0551395,
+  "lon": 30.4694705,
+  "tags": {
+    "addr:city": "Kacwankumu",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Rwenyana",
+    "addr:subcounty": "Kanara",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "isced:level": "1",
+    "name": "Kacwankumu Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22348296"
+  }
+},
+{
+  "type": "node",
+  "id": 3981635809,
+  "lat": 1.1514122,
+  "lon": 30.4741212,
+  "tags": {
+    "addr:city": "Kamuga",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Rwangara",
+    "addr:subcounty": "Kanara",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "isced:level": "1",
+    "name": "Kamuga Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22348291"
+  }
+},
+{
+  "type": "node",
+  "id": 3981635810,
+  "lat": 1.1281446,
+  "lon": 30.4708093,
+  "tags": {
+    "addr:city": "Katanga B",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Rwangara",
+    "addr:subcounty": "Kanara",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Katanga Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22348292"
+  }
+},
+{
+  "type": "node",
+  "id": 3981753231,
+  "lat": 1.1151677,
+  "lon": 30.3917577,
+  "tags": {
+    "addr:city": "Budiba II",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Budiba",
+    "addr:subcounty": "Butungama",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "isced:level": "1",
+    "name": "Budiba II Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22348340"
+  }
+},
+{
+  "type": "node",
+  "id": 3981753232,
+  "lat": 1.1152037,
+  "lon": 30.3916679,
+  "tags": {
+    "addr:city": "Budiba I",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Budiba",
+    "addr:subcounty": "Butungama",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "isced:level": "1",
+    "name": "Budida I Primary School",
+    "note:remarks": "First House",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22348339"
+  }
+},
+{
+  "type": "node",
+  "id": 3981753233,
+  "lat": 1.0835126,
+  "lon": 30.2737616,
+  "tags": {
+    "addr:city": "Butungama",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Butungama",
+    "addr:subcounty": "Butungama",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Butungama Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22348342"
+  }
+},
+{
+  "type": "node",
+  "id": 3981753234,
+  "lat": 1.1675556,
+  "lon": 30.3781813,
+  "tags": {
+    "addr:city": "Masaka",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Masaka",
+    "addr:subcounty": "Butungama",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bwizibwera Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22348344"
+  }
+},
+{
+  "type": "node",
+  "id": 3981753235,
+  "lat": 1.0764614,
+  "lon": 30.3434134,
+  "tags": {
+    "addr:city": "Kasungu II",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Kasungu",
+    "addr:subcounty": "Butungama",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kasungu Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22348343"
+  }
+},
+{
+  "type": "node",
+  "id": 3981753236,
+  "lat": 1.0646717,
+  "lon": 30.2694998,
+  "tags": {
+    "addr:city": "Kiranga II",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Kiranga",
+    "addr:subcounty": "Rwebisengo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kiranga Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22348345"
+  }
+},
+{
+  "type": "node",
+  "id": 3981753238,
+  "lat": 1.1401780,
+  "lon": 30.3551816,
+  "tags": {
+    "addr:city": "Nyakasenyi I",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Nyakasenyi",
+    "addr:subcounty": "Butungama",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Masaka Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22348337"
+  }
+},
+{
+  "type": "node",
+  "id": 3981753239,
+  "lat": 1.1152067,
+  "lon": 30.3349660,
+  "tags": {
+    "addr:city": "Nyakasenyi I",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Nyakasenyi",
+    "addr:subcounty": "Butungama",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyakasenyi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22348338"
+  }
+},
+{
+  "type": "node",
+  "id": 3981797611,
+  "lat": 0.9568725,
+  "lon": 30.2050837,
+  "tags": {
+    "addr:city": "Bweramule",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Bweramule",
+    "addr:subcounty": "Bweramule",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bweramule Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22348369"
+  }
+},
+{
+  "type": "node",
+  "id": 4023618076,
+  "lat": 1.0471320,
+  "lon": 30.2623349,
+  "tags": {
+    "addr:city": "Rwebisengo West",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Rwebisengo Trc",
+    "addr:subcounty": "Rwebisengo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kanghuli Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22938979"
+  }
+},
+{
+  "type": "node",
+  "id": 4023618077,
+  "lat": 0.9358720,
+  "lon": 30.2407822,
+  "tags": {
+    "addr:city": "Kibuku I Tc",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Rukoora",
+    "addr:subcounty": "Bweramule",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kibuku Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22938982"
+  }
+},
+{
+  "type": "node",
+  "id": 4023618079,
+  "lat": 1.0491470,
+  "lon": 30.2630896,
+  "tags": {
+    "addr:city": "Rwebisengo West",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Rwebisengo Trc",
+    "addr:subcounty": "Rwebisengo",
+    "amenity": "school",
+    "fixme": "please fix the position of this node",
+    "isced:level": "2;3;4",
+    "name": "Rwebisengo Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22938980"
+  }
+},
+{
+  "type": "node",
+  "id": 4023653296,
+  "lat": 1.0291902,
+  "lon": 30.5201414,
+  "tags": {
+    "addr:city": "Kanara A",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Kanara Ward",
+    "addr:subcounty": "Kanara Town Council",
+    "amenity": "school",
+    "fixme": "Please,check the position of the node",
+    "name": "Early Learning Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22939509"
+  }
+},
+{
+  "type": "node",
+  "id": 4023653299,
+  "lat": 1.0491338,
+  "lon": 30.5358922,
+  "tags": {
+    "addr:city": "Ntoroko West",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Transami Ward",
+    "addr:subcounty": "Kanara Town Council",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Martyr's Victory Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22939506"
+  }
+},
+{
+  "type": "node",
+  "id": 4025752545,
+  "lat": 0.7735626,
+  "lon": 30.2202481,
+  "tags": {
+    "addr:city": "Kabasindagizi",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Karugutu",
+    "addr:subcounty": "Karugutu",
+    "amenity": "school",
+    "name": "Bright Future Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025752576,
+  "lat": 0.7696880,
+  "lon": 30.2164508,
+  "tags": {
+    "addr:city": "Ibanda I",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Ibanda",
+    "addr:subcounty": "Karugutu",
+    "amenity": "school",
+    "name": "Ibanda Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025752577,
+  "lat": 0.8423282,
+  "lon": 30.2251154,
+  "tags": {
+    "addr:city": "Itojo",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Itojo",
+    "addr:subcounty": "Karugutu",
+    "alt_name": "Itoyo Primary School",
+    "amenity": "school",
+    "name": "Itojo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025752580,
+  "lat": 0.7742735,
+  "lon": 30.2276293,
+  "tags": {
+    "addr:city": "Kabasindagizi",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Karugutu",
+    "addr:subcounty": "Karugutu",
+    "amenity": "school",
+    "name": "Kabasindagizi Learning Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025752583,
+  "lat": 0.8525062,
+  "lon": 30.2030663,
+  "tags": {
+    "addr:city": "Karambi",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Nyambiga",
+    "addr:subcounty": "Karugutu",
+    "amenity": "school",
+    "name": "Karambi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025752584,
+  "lat": 0.7921235,
+  "lon": 30.2268622,
+  "tags": {
+    "addr:city": "Karugutu West",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Karugutu Town Board",
+    "addr:subcounty": "Karugutu",
+    "amenity": "school",
+    "name": "Karugutu HC IV",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025752585,
+  "lat": 0.7841154,
+  "lon": 30.2244755,
+  "tags": {
+    "addr:city": "Kanyamukole B",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Karugutu",
+    "addr:subcounty": "Karugutu",
+    "amenity": "school",
+    "name": "Karugutu Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025752586,
+  "lat": 0.7849513,
+  "lon": 30.2235732,
+  "tags": {
+    "addr:city": "Ibanda II",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Ibanda",
+    "addr:subcounty": "Karugutu",
+    "amenity": "school",
+    "name": "Karugutu Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025752587,
+  "lat": 0.7861120,
+  "lon": 30.2232889,
+  "tags": {
+    "addr:city": "Ibanda II",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Ibanda",
+    "addr:subcounty": "Karugutu",
+    "amenity": "school",
+    "name": "Kasozi Primary School SDA",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025755305,
+  "lat": 0.7911157,
+  "lon": 30.2260083,
+  "tags": {
+    "addr:city": "Karugutu West",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Karugutu Town Board",
+    "addr:subcounty": "Karugutu",
+    "amenity": "school",
+    "name": "Modern Rob Nursery And Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025755308,
+  "lat": 0.7199801,
+  "lon": 30.1874866,
+  "tags": {
+    "addr:city": "Musandama I",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Musandama",
+    "addr:subcounty": "Karugutu",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Musandama Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4025755321,
+  "lat": 0.7861185,
+  "lon": 30.2224004,
+  "tags": {
+    "addr:city": "Ibanda II",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Ibanda",
+    "addr:subcounty": "Karugutu",
+    "amenity": "school",
+    "isced:level": "0",
+    "name": "Preparatory Nursery School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073428"
+  }
+},
+{
+  "type": "node",
+  "id": 4025755328,
+  "lat": 0.7890418,
+  "lon": 30.2233020,
+  "tags": {
+    "addr:city": "Karugutu West",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Karugutu Town Board",
+    "addr:subcounty": "Karugutu",
+    "amenity": "school",
+    "name": "Semliki Technical Training Institute",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073427"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796873,
+  "lat": 0.7884915,
+  "lon": 30.2469432,
+  "tags": {
+    "addr:city": "Kyabandara I",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Kyabandara",
+    "addr:subcounty": "Karugutu",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyabandara Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073387"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796876,
+  "lat": 0.7646714,
+  "lon": 30.2542025,
+  "tags": {
+    "addr:city": "Mirambi I",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Kyabandara",
+    "addr:subcounty": "Karugutu",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mirambi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073391"
+  }
+},
+{
+  "type": "node",
+  "id": 10146989140,
+  "lat": 0.8961400,
+  "lon": 30.1854333,
+  "tags": {
+    "addr:district": "Bundibugyo",
+    "addr:parish": "Burondo",
+    "addr:subcounty": "Burondo",
+    "addr:village": "Kinyambogo 1",
+    "amenity": "school",
+    "capacity": "200",
+    "isced:level": "0;1",
+    "name": "Bright Future Nursery and Primary School",
+    "operator:type": "private",
+    "staff_count": "10"
+  }
+},
+{
+  "type": "node",
+  "id": 10146989158,
+  "lat": 0.8934098,
+  "lon": 30.1925525,
+  "tags": {
+    "addr:district": "Bundibugyo",
+    "addr:parish": "Mwembi",
+    "addr:subcounty": "Burondo",
+    "addr:village": "Mwembi",
+    "amenity": "school",
+    "capacity": "140",
+    "isced:level": "0;1",
+    "name": "Mwembi SDA Nursery and Primary School.",
+    "operator:type": "private",
+    "staff_count": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 10146989159,
+  "lat": 0.8841236,
+  "lon": 30.1881516,
+  "tags": {
+    "addr:district": "Bundibugyo",
+    "addr:parish": "Mwembi",
+    "addr:subcounty": "Burondo",
+    "addr:village": "Kithoma",
+    "amenity": "school",
+    "capacity": "85",
+    "isced:level": "0",
+    "name": "Mwembi Parents Nursery School",
+    "operator:type": "private",
+    "staff_count": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 10146989161,
+  "lat": 0.8559619,
+  "lon": 30.1940164,
+  "tags": {
+    "addr:district": "Bundibugyo",
+    "addr:parish": "Karambi",
+    "addr:subcounty": "Burondo",
+    "addr:village": "Karambi 1",
+    "amenity": "school",
+    "capacity": "788",
+    "isced:level": "1",
+    "name": "Karambi Primary School",
+    "operator:type": "government",
+    "staff_count": "10"
+  }
+},
+{
+  "type": "way",
+  "id": 393653082,
+  "center": {
+    "lat": 0.7886358,
+    "lon": 30.2214965
+  },
+  "tags": {
+    "amenity": "school",
+    "denomination": "adventist",
+    "isced:level": "1",
+    "name": "Kasozi Seventh-day Adventist Primary School",
+    "operator": "Seventh-day Adventist Church",
+    "operator:wikidata": "Q104319",
+    "religion": "christian",
+    "wikidata": "Q23073288"
+  }
+},
+{
+  "type": "way",
+  "id": 393653091,
+  "center": {
+    "lat": 0.8036744,
+    "lon": 30.2338459
+  },
+  "tags": {
+    "addr:city": "Nyabusokoma",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Karugutu",
+    "addr:subcounty": "Karugutu",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyabusokoma Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073405"
+  }
+},
+{
+  "type": "way",
+  "id": 393653251,
+  "center": {
+    "lat": 0.7561904,
+    "lon": 30.2385528
+  },
+  "tags": {
+    "addr:city": "Nombe III",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Nombe",
+    "addr:subcounty": "Karugutu",
+    "amenity": "school",
+    "name": "Nombe Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "way",
+  "id": 508838760,
+  "center": {
+    "lat": 1.1114515,
+    "lon": 30.3773048
+  },
+  "tags": {
+    "addr:city": "Kyabukunguru I",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Kyabukunguru",
+    "addr:subcounty": "Butungama",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyabukunguru Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22348341"
+  }
+},
+{
+  "type": "way",
+  "id": 508969323,
+  "center": {
+    "lat": 1.1280940,
+    "lon": 30.4704869
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 628624056,
+  "center": {
+    "lat": 1.0479205,
+    "lon": 30.2706847
+  },
+  "tags": {
+    "addr:city": "Rwebisengo West",
+    "addr:country": "UG",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Rwebisengo Trc",
+    "addr:subcounty": "Rwebisengo",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ngombi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22938981"
+  }
+},
+{
+  "type": "way",
+  "id": 636326613,
+  "center": {
+    "lat": 1.0805246,
+    "lon": 30.4542354
+  },
+  "tags": {
+    "addr:city": "Rwenyana",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Rwenyana",
+    "addr:subcounty": "Kanara",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Rweyana Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22348294"
+  }
+},
+{
+  "type": "way",
+  "id": 636327218,
+  "center": {
+    "lat": 1.1199380,
+    "lon": 30.4792735
+  },
+  "tags": {
+    "addr:city": "Rwangara A",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Rwangara",
+    "addr:subcounty": "Kanara",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Pumoja Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22348293"
+  }
+},
+{
+  "type": "way",
+  "id": 636327242,
+  "center": {
+    "lat": 1.1197651,
+    "lon": 30.4833698
+  },
+  "tags": {
+    "addr:city": "Rwangara B",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Rwangara",
+    "addr:subcounty": "Kanara",
+    "amenity": "school",
+    "name": "Early Learning Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "way",
+  "id": 1025738417,
+  "center": {
+    "lat": 1.0468587,
+    "lon": 30.5361796
+  },
+  "tags": {
+    "addr:city": "Ntoroko West",
+    "addr:county": "Ntoroko",
+    "addr:district": "Ntoroko",
+    "addr:parish": "Transami Ward",
+    "addr:subcounty": "Kanara Town Council",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ntoroko Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22939502"
+  }
+}
+
+  ]
+}

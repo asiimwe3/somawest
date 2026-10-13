@@ -1,0 +1,1597 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-13T18:22:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3820882252,
+  "lat": 0.6705619,
+  "lon": 30.2859818,
+  "tags": {
+    "addr:city": "Boma West",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Nyabukara",
+    "addr:subcounty": "Western Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Divine Mercy Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22981015"
+  }
+},
+{
+  "type": "node",
+  "id": 3974322793,
+  "lat": 0.6465155,
+  "lon": 30.2760337,
+  "tags": {
+    "addr:city": "Kabarole Hill",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bazaar",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kyebambe Girls Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089332"
+  }
+},
+{
+  "type": "node",
+  "id": 3974322795,
+  "lat": 0.6580801,
+  "lon": 30.2813777,
+  "tags": {
+    "addr:city": "Booma East",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Njara",
+    "addr:subcounty": "Eastern Division",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Mpanga Secondary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977294"
+  }
+},
+{
+  "type": "node",
+  "id": 3974322798,
+  "lat": 0.6447512,
+  "lon": 30.2671623,
+  "tags": {
+    "addr:city": "Harukoto B",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bazaar",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "King of King's Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089335"
+  }
+},
+{
+  "type": "node",
+  "id": 3974817334,
+  "lat": 0.6385700,
+  "lon": 30.2706055,
+  "tags": {
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Saint Maria Goretti Secondary School",
+    "wikidata": "Q23089395"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796856,
+  "lat": 0.7058706,
+  "lon": 30.2480681,
+  "tags": {
+    "addr:city": "Bwanika",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bwanika",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bishop Magambo Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073394"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796867,
+  "lat": 0.7096137,
+  "lon": 30.3091432,
+  "tags": {
+    "addr:city": "Kansenene",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Rwengaju",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kansenene Progressive Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073380"
+  }
+},
+{
+  "type": "node",
+  "id": 4025796870,
+  "lat": 0.7125015,
+  "lon": 30.2673682,
+  "tags": {
+    "addr:city": "Kikonge",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bwanika",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "fixme": "Please, check the position of the node",
+    "name": "Kikonge Early Childhood Learning Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23073374"
+  }
+},
+{
+  "type": "node",
+  "id": 4027475676,
+  "lat": 0.6285522,
+  "lon": 30.2302989,
+  "tags": {
+    "addr:city": "Birayobora",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Karambi",
+    "addr:subcounty": "Karambi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Burungu Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089540"
+  }
+},
+{
+  "type": "node",
+  "id": 4027475679,
+  "lat": 0.7006351,
+  "lon": 30.2306350,
+  "tags": {
+    "addr:city": "Buhara A",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bwanika",
+    "addr:subcounty": "Kicwamba",
+    "amenity": "school",
+    "fixme": "Please, check position of node",
+    "isced:level": "1",
+    "name": "Buhara Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089516"
+  }
+},
+{
+  "type": "node",
+  "id": 4027475686,
+  "lat": 0.6627450,
+  "lon": 30.2258626,
+  "tags": {
+    "addr:city": "Ibonde I",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Karago",
+    "addr:subcounty": "Bukuuku",
+    "amenity": "school",
+    "name": "Ibonde Early Child Learning Centre",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089281"
+  }
+},
+{
+  "type": "node",
+  "id": 4027475900,
+  "lat": 0.6198601,
+  "lon": 30.2258019,
+  "tags": {
+    "addr:city": "Kyanduuru",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Burungu",
+    "addr:subcounty": "Mugusu",
+    "amenity": "school",
+    "fixme": "Please, check position of node",
+    "name": "Kyanduuru Early Childhood Development Centre",
+    "operator": "Early Childhood Development",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089430"
+  }
+},
+{
+  "type": "node",
+  "id": 4027475904,
+  "lat": 0.6699343,
+  "lon": 30.2231668,
+  "tags": {
+    "addr:city": "Ibonde I",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Karago",
+    "addr:subcounty": "Bukuuku",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyakasura Juniour Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089418"
+  }
+},
+{
+  "type": "node",
+  "id": 4027475905,
+  "lat": 0.6713840,
+  "lon": 30.2204929,
+  "tags": {
+    "addr:city": "Ibonde I",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Karago",
+    "addr:subcounty": "Bukuuku",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Nyakasura Secondary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089507"
+  }
+},
+{
+  "type": "node",
+  "id": 4030848274,
+  "lat": 0.6121706,
+  "lon": 30.2386494,
+  "tags": {
+    "addr:city": "Nyabataahi",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kiboha",
+    "addr:subcounty": "Mugusu",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kiboha Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22968748"
+  }
+},
+{
+  "type": "node",
+  "id": 4030848280,
+  "lat": 0.6043343,
+  "lon": 30.2645192,
+  "tags": {
+    "addr:city": "Mukumbwe",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Rubingo",
+    "addr:subcounty": "Karambi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mukumbwe Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22968756"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525173,
+  "lat": 0.6266860,
+  "lon": 30.2946623,
+  "tags": {
+    "addr:city": "Katentebere",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Ibaale",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "name": "Ahmed Islamic Education Centre",
+    "religion": "muslim",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977301"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525175,
+  "lat": 0.6547801,
+  "lon": 30.2786769,
+  "tags": {
+    "addr:city": "Mugurusi Road",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bazaar",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Buhinga Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977299"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525176,
+  "lat": 0.6419709,
+  "lon": 30.2859859,
+  "tags": {
+    "addr:city": "Kisumbi C",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bukwali",
+    "addr:subcounty": "Eastern Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bukwali Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977298"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525177,
+  "lat": 0.6278770,
+  "lon": 30.2977001,
+  "tags": {
+    "addr:city": "Ibaale",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Ibaale",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "isced:level": "0;1",
+    "name": "Good Shepherd Special Nursery and Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977288"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525179,
+  "lat": 0.6241435,
+  "lon": 30.3000438,
+  "tags": {
+    "addr:city": "Ibaale",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Ibaale",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Haibaale Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977285"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525180,
+  "lat": 0.6235298,
+  "lon": 30.3155489,
+  "tags": {
+    "addr:city": "Rwentuha",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Ibaale",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Ibaale Senior Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977284"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525182,
+  "lat": 0.6315985,
+  "lon": 30.2795547,
+  "tags": {
+    "addr:city": "Kinyamasika",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kijanju",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kinyamasika Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977292"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525184,
+  "lat": 0.6472724,
+  "lon": 30.3117494,
+  "tags": {
+    "addr:city": "Nyabinamba",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kitumba",
+    "addr:subcounty": "Eastern Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kitumba Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977289"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525185,
+  "lat": 0.6475526,
+  "lon": 30.3110940,
+  "tags": {
+    "addr:city": "Nyabinamba",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kitumba",
+    "addr:subcounty": "Eastern Division",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kitumba Secondary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977308"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525188,
+  "lat": 0.6538044,
+  "lon": 30.3168826,
+  "tags": {
+    "addr:city": "Kyogya",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Busoro",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Ngombe Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977305"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525389,
+  "lat": 0.6452624,
+  "lon": 30.2997612,
+  "tags": {
+    "addr:city": "Nyakagongo Cell",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Nyakagongo",
+    "addr:subcounty": "Eastern Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyakagongo Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977304"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525391,
+  "lat": 0.6208013,
+  "lon": 30.2849172,
+  "tags": {
+    "addr:city": "Kigaya",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Gweri",
+    "addr:subcounty": "Karambi",
+    "amenity": "school",
+    "name": "Saint Jude Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525392,
+  "lat": 0.6290164,
+  "lon": 30.2862366,
+  "tags": {
+    "addr:city": "St. Leo's College",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Nyakagongo",
+    "addr:subcounty": "Eastern Division",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Saint Leo's College Kyegobe",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977302"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525393,
+  "lat": 0.6261531,
+  "lon": 30.2957783,
+  "tags": {
+    "addr:city": "Katentebere",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Ibaale",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Skalom Junior Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977297"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525394,
+  "lat": 0.6532904,
+  "lon": 30.2941389,
+  "tags": {
+    "addr:city": "Binanata A",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kitumba",
+    "addr:subcounty": "Eastern Division",
+    "amenity": "school",
+    "isced:level": "0;1",
+    "name": "Sky is The Limit Nursery and Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977296"
+  }
+},
+{
+  "type": "node",
+  "id": 4032525395,
+  "lat": 0.6361290,
+  "lon": 30.2946733,
+  "tags": {
+    "addr:city": "Kyarwabugodi/buraro",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Nyakagongo",
+    "addr:subcounty": "Eastern Division",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Tooro High School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977295"
+  }
+},
+{
+  "type": "node",
+  "id": 4032561996,
+  "lat": 0.6012553,
+  "lon": 30.2218458,
+  "tags": {
+    "addr:city": "Nyansozi",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kiboha",
+    "addr:subcounty": "Mugusu",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Charles Nyansozi Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089318"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726393,
+  "lat": 0.6349809,
+  "lon": 30.2692677,
+  "tags": {
+    "addr:city": "Virika",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kijanju",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "name": "Bishop Magambo Counseling Training Institute",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089407"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726394,
+  "lat": 0.6542993,
+  "lon": 30.2422280,
+  "tags": {
+    "addr:city": "Kyakitara",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Butebe",
+    "addr:subcounty": "Karambi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Butebe Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089410"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726395,
+  "lat": 0.6314434,
+  "lon": 30.2603948,
+  "tags": {
+    "addr:city": "Kidukuru Kihembo 'a'",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kasusu",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "isced:level": "0;1",
+    "name": "Cleverland Nursery and Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089402"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726396,
+  "lat": 0.6223183,
+  "lon": 30.2555732,
+  "tags": {
+    "addr:city": "Kasusu C",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kasusu",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "isced:level": "0;1",
+    "name": "Greenhill Nursery and Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089405"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726398,
+  "lat": 0.6214611,
+  "lon": 30.2592086,
+  "tags": {
+    "addr:city": "Nsorro A",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kasusu",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "isced:level": "0;1",
+    "name": "International Junior Academy Nursery and Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089401"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726399,
+  "lat": 0.6535097,
+  "lon": 30.2773610,
+  "tags": {
+    "addr:city": "Buhinga",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bazaar",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kabarole College of Commerce and Computer",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089398"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726400,
+  "lat": 0.6521663,
+  "lon": 30.2682373,
+  "tags": {
+    "addr:city": "Harukoto A",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bazaar",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kabarole Hillside Secondary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089400"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726401,
+  "lat": 0.6532157,
+  "lon": 30.2764450,
+  "tags": {
+    "addr:city": "Buhinga",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bazaar",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kabarole Parents' Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089565"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726402,
+  "lat": 0.6478356,
+  "lon": 30.2752050,
+  "tags": {
+    "addr:city": "Kabarole Hill",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bazaar",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kabarole Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089568"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726404,
+  "lat": 0.6544335,
+  "lon": 30.2527439,
+  "tags": {
+    "addr:city": "Kikunyu",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Butebe",
+    "addr:subcounty": "Karambi",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kahinju Secondary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089562"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726406,
+  "lat": 0.6362556,
+  "lon": 30.2416531,
+  "tags": {
+    "addr:city": "Karambi II",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Karambi",
+    "addr:subcounty": "Karambi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Karambi Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089557"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726407,
+  "lat": 0.6307651,
+  "lon": 30.2546127,
+  "tags": {
+    "addr:city": "Kiduukuru B",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Karambi",
+    "addr:subcounty": "Karambi",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kihembo Hill College Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089549"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726408,
+  "lat": 0.6497819,
+  "lon": 30.2742306,
+  "tags": {
+    "addr:city": "Kabarole Hill",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bazaar",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kyebambe Model Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089551"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726413,
+  "lat": 0.6440708,
+  "lon": 30.2678551,
+  "tags": {
+    "addr:city": "Harukoto B",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bazaar",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Rukiidi Secondary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089528"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726415,
+  "lat": 0.6476449,
+  "lon": 30.2709205,
+  "tags": {
+    "addr:city": "Harukoto Kasese Road",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bazaar",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "name": "Rwenzori Construction and Training Institute",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089519"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726417,
+  "lat": 0.6563026,
+  "lon": 30.2752408,
+  "tags": {
+    "addr:city": "Rukiidi -ruhandika",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Bazaar",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Charles Lwanga Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22977114"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726419,
+  "lat": 0.6351316,
+  "lon": 30.2709612,
+  "tags": {
+    "addr:city": "Virika",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kijanju",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "name": "Saint John Mary Vianney's Comprehensive School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089501"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726421,
+  "lat": 0.6381934,
+  "lon": 30.2701817,
+  "tags": {
+    "addr:city": "Virika",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kijanju",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Maria Goretti Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089487"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726422,
+  "lat": 0.6357480,
+  "lon": 30.2679409,
+  "tags": {
+    "addr:city": "Virika",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kijanju",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "name": "Saint Mary's Seminary",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089493"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726423,
+  "lat": 0.6558235,
+  "lon": 30.2605685,
+  "tags": {
+    "addr:city": "Rwengoma Cii",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Rwengoma",
+    "addr:subcounty": "Western Division",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Saint Paul College",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089478"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726424,
+  "lat": 0.6571219,
+  "lon": 30.2631299,
+  "tags": {
+    "addr:city": "Rwengoma Biii",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Rwengoma",
+    "addr:subcounty": "Western Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Paul Junior Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089484"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726425,
+  "lat": 0.6328291,
+  "lon": 30.2780147,
+  "tags": {
+    "addr:city": "Kinyamasika",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kijanju",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "name": "Saint Paul National Seminary",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089470"
+  }
+},
+{
+  "type": "node",
+  "id": 4032726426,
+  "lat": 0.6338519,
+  "lon": 30.2662176,
+  "tags": {
+    "addr:city": "Virika",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kijanju",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Saint Peter and Paul Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089472"
+  }
+},
+{
+  "type": "node",
+  "id": 4034199311,
+  "lat": 0.6704722,
+  "lon": 30.2855682,
+  "tags": {
+    "addr:city": "Njara A",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Njara",
+    "addr:subcounty": "Eastern Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Banyatereza Golden Jubilee Primary School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22981018"
+  }
+},
+{
+  "type": "node",
+  "id": 4034199312,
+  "lat": 0.7025786,
+  "lon": 30.3190391,
+  "tags": {
+    "addr:city": "Bukoni",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Rwengaju",
+    "addr:subcounty": "Busoro",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Bwabya Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22981019"
+  }
+},
+{
+  "type": "node",
+  "id": 4034199314,
+  "lat": 0.6620024,
+  "lon": 30.2892941,
+  "tags": {
+    "addr:city": "Njara B",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Njara",
+    "addr:subcounty": "Eastern Division",
+    "amenity": "school",
+    "name": "Fort Portal Institute of Commerce",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22981009"
+  }
+},
+{
+  "type": "node",
+  "id": 4034199315,
+  "lat": 0.6616156,
+  "lon": 30.2787366,
+  "tags": {
+    "addr:city": "Boma West",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Nyabukara",
+    "addr:subcounty": "Western Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Green Circle Primary School",
+    "operator:type": "public",
+    "phone": "+256 772 590066",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "website": "https://web.facebook.com/Green-Circle-School-in-Fort-Portal-Uganda-835392053139890/",
+    "wikidata": "Q22981010"
+  }
+},
+{
+  "type": "node",
+  "id": 4034199317,
+  "lat": 0.6619089,
+  "lon": 30.2998082,
+  "tags": {
+    "addr:city": "Kamengo A",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Njara",
+    "addr:subcounty": "Eastern Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kamengo Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22981004"
+  }
+},
+{
+  "type": "node",
+  "id": 4034199318,
+  "lat": 0.6615320,
+  "lon": 30.2980947,
+  "tags": {
+    "addr:city": "Kamengo A",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Njara",
+    "addr:subcounty": "Eastern Division",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kamengo Secondary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22981005"
+  }
+},
+{
+  "type": "node",
+  "id": 4034199320,
+  "lat": 0.6676809,
+  "lon": 30.2859507,
+  "tags": {
+    "addr:city": "Njara B",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Njara",
+    "addr:subcounty": "Eastern Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Njara Hill Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22981007"
+  }
+},
+{
+  "type": "node",
+  "id": 4034199322,
+  "lat": 0.6819173,
+  "lon": 30.2783780,
+  "tags": {
+    "addr:city": "Kyamukerege",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Nyabukara",
+    "addr:subcounty": "Western Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Nyabukara Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22981013"
+  }
+},
+{
+  "type": "node",
+  "id": 4034212683,
+  "lat": 0.6610715,
+  "lon": 30.2745810,
+  "tags": {
+    "addr:city": "Kagote B",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kagote",
+    "addr:subcounty": "Western Division",
+    "amenity": "school",
+    "denomination": "adventist",
+    "isced:level": "2;3;4",
+    "name": "Kabarole Adventist Secondary School",
+    "operator:type": "private",
+    "religion": "christian",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22981086"
+  }
+},
+{
+  "type": "node",
+  "id": 4034212684,
+  "lat": 0.6709137,
+  "lon": 30.2662060,
+  "tags": {
+    "addr:city": "Kagote D",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kagote",
+    "addr:subcounty": "Western Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kagote Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22981084"
+  }
+},
+{
+  "type": "node",
+  "id": 4034212685,
+  "lat": 0.6703406,
+  "lon": 30.2658234,
+  "tags": {
+    "addr:city": "Kagote D",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kagote",
+    "addr:subcounty": "Western Division",
+    "amenity": "school",
+    "isced:level": "2;3;4",
+    "name": "Kagote Seed Secondary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22981078"
+  }
+},
+{
+  "type": "node",
+  "id": 4034212686,
+  "lat": 0.6619146,
+  "lon": 30.2659798,
+  "tags": {
+    "addr:city": "Rwengoma Ai",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Rwengoma",
+    "addr:subcounty": "Western Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kahunga Bunyonyi Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22981075"
+  }
+},
+{
+  "type": "node",
+  "id": 4034212688,
+  "lat": 0.6936069,
+  "lon": 30.2537343,
+  "tags": {
+    "addr:city": "Kasindikwa-nyakaziba",
+    "addr:county": "Burahya",
+    "addr:district": "Kabarole",
+    "addr:parish": "Butebe",
+    "addr:subcounty": "Karambi",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Mountains of the Moon Primary School",
+    "operator:type": "public",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22981079"
+  }
+},
+{
+  "type": "node",
+  "id": 4034217990,
+  "lat": 0.6649294,
+  "lon": 30.2711583,
+  "tags": {
+    "addr:city": "Kagote B",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kagote",
+    "addr:subcounty": "Western Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Tooro Primary School",
+    "operator:type": "private",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q22981103"
+  }
+},
+{
+  "type": "node",
+  "id": 5226400472,
+  "lat": 0.6517069,
+  "lon": 30.3014148,
+  "tags": {
+    "amenity": "school",
+    "name": "Seraph Angels Infant Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 5443445221,
+  "lat": 0.6389436,
+  "lon": 30.2739361,
+  "tags": {
+    "addr:housenumber": "001",
+    "addr:postcode": "0000",
+    "addr:street": "Fort Portal - Kasese Road",
+    "amenity": "school",
+    "email": "info@upu.ac.ug",
+    "name": "Uganda Pentecostal University Muchwa Campus",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "operator": "UPU",
+    "website": "http://www.upu.ac.uu"
+  }
+},
+{
+  "type": "node",
+  "id": 8575853118,
+  "lat": 0.6544922,
+  "lon": 30.2733497,
+  "tags": {
+    "amenity": "school",
+    "name": "Psalms Music School"
+  }
+},
+{
+  "type": "way",
+  "id": 181072097,
+  "center": {
+    "lat": 0.6597285,
+    "lon": 30.2680971
+  },
+  "tags": {
+    "amenity": "school",
+    "isced:level": "0",
+    "name": "Modern Nursery School",
+    "wikidata": "Q22981101"
+  }
+},
+{
+  "type": "way",
+  "id": 207081543,
+  "center": {
+    "lat": 0.6302856,
+    "lon": 30.2735867
+  },
+  "tags": {
+    "addr:city": "Kinyamasika",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kijanju",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "name": "Saint Joseph's Technical Institute",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089305"
+  }
+},
+{
+  "type": "way",
+  "id": 375135428,
+  "center": {
+    "lat": 0.6579105,
+    "lon": 30.2814645
+  },
+  "tags": {
+    "amenity": "school",
+    "landuse": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 375152998,
+  "center": {
+    "lat": 0.6620253,
+    "lon": 30.2786396
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "Green Circle",
+    "wikidata": "Q22981017"
+  }
+},
+{
+  "type": "way",
+  "id": 375313622,
+  "center": {
+    "lat": 0.6447455,
+    "lon": 30.2671974
+  },
+  "tags": {
+    "amenity": "school",
+    "landuse": "commercial"
+  }
+},
+{
+  "type": "way",
+  "id": 377375989,
+  "center": {
+    "lat": 0.6595954,
+    "lon": 30.2677508
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 377375992,
+  "center": {
+    "lat": 0.6599347,
+    "lon": 30.2693289
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 378670872,
+  "center": {
+    "lat": 0.6704397,
+    "lon": 30.2857092
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 378670879,
+  "center": {
+    "lat": 0.6704980,
+    "lon": 30.2860717
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 379207999,
+  "center": {
+    "lat": 0.6308934,
+    "lon": 30.2748295
+  },
+  "tags": {
+    "addr:city": "Kinyamasika",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Kijanju",
+    "addr:subcounty": "Southern Division",
+    "amenity": "school",
+    "name": "Rosa Myatica Institute of Business and Vocational School",
+    "source": "www.ubos.org",
+    "source:date": "2010..2014",
+    "wikidata": "Q23089545"
+  }
+},
+{
+  "type": "way",
+  "id": 394423164,
+  "center": {
+    "lat": 0.6572096,
+    "lon": 30.2801756
+  },
+  "tags": {
+    "amenity": "school",
+    "landuse": "commercial"
+  }
+},
+{
+  "type": "way",
+  "id": 394476112,
+  "center": {
+    "lat": 0.6380652,
+    "lon": 30.2706371
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 444760571,
+  "center": {
+    "lat": 0.6831731,
+    "lon": 30.3200836
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 547760957,
+  "center": {
+    "lat": 0.6569092,
+    "lon": 30.2525566
+  },
+  "tags": {
+    "addr:city": "Rwengoma Ci",
+    "addr:county": "Fort Portal Municipality",
+    "addr:district": "Kabarole",
+    "addr:parish": "Rwengoma",
+    "addr:subcounty": "Western Division",
+    "amenity": "school",
+    "isced:level": "1",
+    "name": "Kahinju Primary School",
+    "operator:type": "public",
+    "wikidata": "Q23089559"
+  }
+}
+
+  ]
+}

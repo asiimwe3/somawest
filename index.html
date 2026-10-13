@@ -15,6 +15,7 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebSite","name":"SomaWest","description":"School finder for Western Uganda","url":"https://asiimwe3.github.io/somawest/"}
 </script>
+<script src="schools-data.js?v=1"></script>
 <style>
 :root{--green:#0b3d2e;--green2:#0f5138;--gold:#d4a017;--goldl:#f0c445;--ink:#1c2320;--mut:#5f6b64;--bg:#f7f8f6;--card:#fff;--line:#e4e9e4}
 *{margin:0;padding:0;box-sizing:border-box}
@@ -129,6 +130,23 @@ footer b{color:var(--goldl)}
 .aform .err{color:#b30f1a;font-weight:700;margin-top:10px;font-size:14px}
 .aform .okmsg{color:#0b3d2e;font-weight:700;margin-top:10px;font-size:15px}
 .aform small{color:#8a958f;font-size:12.5px;display:block;margin-top:10px}
+
+.tabs{display:flex;gap:8px;overflow-x:auto;padding:4px 0 10px}
+.tabs button{flex:0 0 auto;border:1.5px solid #d8ddd9;border-radius:999px;padding:9px 16px;background:#fff;font-weight:700;font-size:14px;cursor:pointer}
+.tabs button.on{background:#0b3d2e;color:#fff;border-color:#0b3d2e}
+.tile{background:#fff;border:1px solid #e3e7e3;border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
+.tile .ic{height:92px;display:flex;align-items:center;justify-content:center;font-size:34px;font-weight:800;color:#fff}
+.ic.sec{background:#0b3d2e}.ic.pri{background:#1a4d7a}.ic.nur{background:#b06a12}.ic.oth{background:#4a6b3a}
+.tile .bd{padding:10px 12px 12px}
+.tile h3{font-size:15px;margin:0 0 6px;line-height:1.3;min-height:38px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.tile .meta{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:9px}
+.tile .meta i{background:#f0f4f0;border-radius:999px;padding:3px 9px;font-size:12px;font-style:normal;font-weight:600;color:#40544a}
+.tile .acts{display:flex;gap:8px;margin-top:auto}
+.tile .acts .btn{flex:1;padding:9px 6px;font-size:13px}
+#more{display:flex;justify-content:center;padding:18px}
+.feat-tag{background:#d4a017;color:#123120;border-radius:999px;padding:2px 9px;font-size:11px;font-weight:800;letter-spacing:.4px;position:absolute;left:10px;top:10px}
+.res-note{font-size:13px;color:#667;font-weight:600;margin:2px 0 8px}
+.chips-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
 </style>
 </head>
 <body>
@@ -149,22 +167,25 @@ footer b{color:var(--goldl)}
 <section class="hero">
   <div class="bg"></div><div class="ov"></div>
   <div class="in">
-    <span class="tag">Serving Tooro, Rwenzori &amp; Ankole</span>
+    <span class="tag">3,300+ SCHOOLS · NURSERY, PRIMARY &amp; SECONDARY</span>
     <h1>Find the right school<br>in <em>Western Uganda</em></h1>
-    <p>Search and compare secondary schools across the region — then send your admission enquiry straight from SomaWest.</p>
+    <p>Every school in Western Uganda — nursery, primary and secondary — in one place. Search, compare and apply straight from SomaWest.</p>
     <div class="search">
       <input id="q" type="search" placeholder="School name or district…">
       <select id="f-district"><option value="">All districts</option></select>
-      <select id="f-gender"><option value="">Boys, girls or mixed</option><option>Boys</option><option>Girls</option><option>Mixed</option></select>
+      <select id="f-level"><option value="">All levels</option><option>Secondary</option><option>Primary</option><option>Nursery</option></select>
       <button class="btn" onclick="scrollRes()">Search</button>
     </div>
   </div>
 </section>
 
 <main class="wrap" id="schools">
-  <div class="fbar" id="chips"></div>
+  <div class="fbar chips-scroll" id="chips"></div>
+  <div class="tabs" id="tabs"></div>
+  <div class="res-note" id="res-note"></div>
   <div class="res-head"><h2 id="res-title">All schools</h2><span id="res-count"></span></div>
   <div class="grid" id="grid"></div>
+  <div id="more"></div>
   <div class="empty" id="empty" style="display:none"><b>No schools match</b>Try clearing a filter or searching another district.</div>
 </main>
 
@@ -173,9 +194,9 @@ footer b{color:var(--goldl)}
     <h2>How SomaWest works</h2>
     <p class="sub">Like booking a hotel — but for your child's education.</p>
     <div class="steps">
-      <div class="step"><div class="n">1</div><h4>Search</h4><p>Filter schools by district, level, gender and boarding. Every listing is a real school in Western Uganda.</p></div>
+      <div class="step"><div class="n">1</div><h4>Search</h4><p>Filter by district and level — nursery, primary or secondary. Every listing is a real school, mapped on OpenStreetMap.</p></div>
       <div class="step"><div class="n">2</div><h4>Compare</h4><p>Open a profile to see the school's level, student community, location on the map and background.</p></div>
-      <div class="step"><div class="n">3</div><h4>Enquire</h4><p>Send an admission enquiry from the listing. The school or our team responds with what you need to apply.</p></div>
+      <div class="step"><div class="n">3</div><h4>Enquire</h4><p>Fill the short application form on a listing. It goes straight to the SomaWest admissions desk on WhatsApp — no accounts, no paperwork to start.</p></div>
     </div>
   </div>
 </section>
@@ -195,7 +216,7 @@ footer b{color:var(--goldl)}
 <footer>
   <div class="in">
     <div><b>SomaWest</b> · School finder for Western Uganda<br>
-    <span class="note">School photos via Wikimedia Commons (CC BY-SA); location maps © OpenStreetMap contributors; in-app map © Google. Profiles list verified school facts; fees and term dates come directly from each school.</span></div>
+    <span class="note">School photos via Wikimedia Commons (CC BY-SA); location maps © OpenStreetMap contributors; in-app map © Google. Directory data © OpenStreetMap contributors. Profiles list verified school facts; fees and term dates come directly from each school.</span></div>
     <div>Platform by <b>Derycode</b></div>
   </div>
 </footer>
@@ -275,6 +296,39 @@ footer b{color:var(--goldl)}
   </div>
 </div>
 
+<div class="modal" id="dirModal" onclick="if(event.target===this)closeDir()">
+  <div class="sheet" id="dirSheet"></div>
+</div>
+
+<div class="modal" id="appModal" onclick="if(event.target===this)closeApp()">
+  <div class="sheet" style="max-width:480px">
+    <div class="aform">
+      <h3>Apply for admission</h3>
+      <div class="sub">Applying to: <b id="appSchoolName"></b></div>
+      <form onsubmit="return sendApplication(event)">
+        <label>Student name</label>
+        <input name="student" required placeholder="Full name of the student">
+        <label>Class applying for</label>
+        <select name="cls" required>
+          <option value="">Choose class/level</option>
+          <option>Nursery / baby class</option>
+          <option>Primary (P.1 – P.7)</option>
+          <option>S.1</option><option>S.2</option><option>S.3</option><option>S.4</option>
+          <option>S.5</option><option>S.6</option><option>Other / not sure</option>
+        </select>
+        <label>Previous school (if any)</label>
+        <input name="prev" placeholder="Last school attended">
+        <label>Parent / guardian name</label>
+        <input name="guardian" required placeholder="Your name">
+        <label>Phone (WhatsApp)</label>
+        <input name="phone" required placeholder="e.g. 0772 000 000" inputmode="tel">
+        <button class="btn g" type="submit" style="width:100%;margin-top:6px">Send application on WhatsApp</button>
+        <p style="font-size:13px;color:#667;margin:10px 0 0;text-align:center">Opens WhatsApp with your application — no account needed.</p>
+      </form>
+    </div>
+  </div>
+</div>
+
 <div class="modal" id="modal" onclick="if(event.target===this)closeModal()">
   <div class="sheet" id="sheet"></div>
 </div>
@@ -294,42 +348,31 @@ const SCHOOLS = [
  {id:"muntuyera", name:"Muntuyera High School Kitunga", district:"Ntungamo", loc:"Kitunga, Ntungamo", gender:"Mixed", board:"Boarding", level:"O & A level", founded:"", phone:"", img:"images/map_muntuyera.jpg?v=2", blurb:"A respected boarding high school in Kitunga, Ntungamo district, serving the Ankole sub-region.", site:""}
 ];
 
-let state = {q:"", district:"", gender:"", level:"", board:false};
+let state = {q:"", district:"", level:"", board:false, shown:48};
+let curFeatured = [];
+let curDir = [];
+
+const ALL_DISTRICTS = [...new Set([...SCHOOLS.map(s=>s.district), ...LISTINGS.map(s=>s.d)])].sort();
 
 const districtSel = document.getElementById('f-district');
-[...new Set(SCHOOLS.map(s=>s.district))].sort().forEach(d=>{
-  const o=document.createElement('option'); o.textContent=d; districtSel.appendChild(o);
-});
+ALL_DISTRICTS.forEach(d=>{ const o=document.createElement('option'); o.textContent=d; districtSel.appendChild(o); });
 
 function chips(){
   const el=document.getElementById('chips');
-  const ds=[...new Set(SCHOOLS.map(s=>s.district))].sort();
-  el.innerHTML='<span class="lbl">District:</span>' + ds.map(d=>
+  el.innerHTML='<span class="lbl">District:</span>' + ALL_DISTRICTS.map(d=>
     `<button class="chip ${state.district===d?'on':''}" onclick="setDistrict('${d}')">${d}</button>`).join('') +
-    `<span class="lbl" style="margin-left:14px">Type:</span>
-     <button class="chip ${state.board?'on':''}" onclick="toggleBoard()">Boarding</button>
-     <button class="chip ${state.level==='A'?'on':''}" onclick="toggleLevel()">A level</button>`;
+    `<button class="chip ${state.board?'on':''}" onclick="toggleBoard()">Boarding</button>` +
+    `<button class="chip ${state.board||state.level?'':'x'}" onclick="clearDir()" style="border:1.5px solid #d8ddd9">Reset</button>`;
 }
-function setDistrict(d){ state.district = state.district===d ? "" : d; districtSel.value=state.district; render(); }
+function setDistrict(d){ state.district = state.district===d ? "" : d; districtSel.value=state.district; state.shown=48; render(); }
 function toggleBoard(){ state.board=!state.board; render(); }
-function toggleLevel(){ state.level = state.level==='A' ? "" : "A"; render(); }
-
-function match(s){
-  if(state.district && s.district!==state.district) return false;
-  if(state.gender && s.gender!==state.gender) return false;
-  if(state.board && s.board!=='Boarding') return false;
-  if(state.level==='A' && s.level!=='O & A level') return false;
-  if(state.q){
-    const q=state.q.toLowerCase();
-    if(!(s.name.toLowerCase().includes(q)||s.district.toLowerCase().includes(q)||s.loc.toLowerCase().includes(q))) return false;
-  }
-  return true;
-}
+function setLevel(l){ state.level = state.level===l ? "" : l; state.shown=48; render(); }
+function clearDir(){ state={q:"",district:"",level:"",board:false,shown:48}; document.getElementById('q').value=''; districtSel.value=''; render(); }
 
 function cardHTML(s){
   return `<div class="card">
     <div class="ph"><img src="${s.img}" alt="${s.name}" loading="lazy">
-      <span class="badge">${s.district}</span></div>
+      <span class="badge">${s.district}</span><span class="feat-tag">FEATURED</span></div>
     <div class="bd">
       <h3>${s.name}</h3>
       <div class="meta">
@@ -341,26 +384,67 @@ function cardHTML(s){
       <p>${s.blurb.slice(0,110)}…</p>
       <div class="acts">
         <button class="btn o" onclick="openModal('${s.id}')">View profile</button>
-        <button class="btn" onclick="enquiry('${s.id}')">Enquire</button>
+        <button class="btn" onclick="applySchool('${s.name.replace(/'/g,"\'")}', '${s.district}')">Apply</button>
+      </div>
+    </div>
+  </div>`;
+}
+
+function tabs(){
+  const el=document.getElementById('tabs');
+  const counts={Secondary:0,Primary:0,Nursery:0};
+  LISTINGS.forEach(s=>{ if(counts[s.lv]!==undefined) counts[s.lv]++; });
+  el.innerHTML=['','Secondary','Primary','Nursery'].map(t=>
+    `<button class="${state.level===t?'on':''}" onclick="setLevel('${t}')">${t? t+' ('+counts[t]+')' : 'All ('+LISTINGS.length+')'}</button>`).join('');
+}
+
+function tileHTML(s){
+  const cls = s.lv==='Secondary'?'sec':s.lv==='Primary'?'pri':s.lv==='Nursery'?'nur':'oth';
+  const initials = s.n.split(/\s+/).filter(w=>w.length>1||/[A-Z]/.test(w)).slice(0,2).map(w=>w[0].toUpperCase()).join('');
+  return `<div class="tile">
+    <div class="ic ${cls}">${initials||'S'}</div>
+    <div class="bd">
+      <h3>${s.n}</h3>
+      <div class="meta"><i>${s.lv}</i><i>${s.d} district</i></div>
+      <div class="acts">
+        <button class="btn o" onclick="openDir(${LISTINGS.indexOf(s)})">Details</button>
+        <button class="btn" onclick="applySchool(${JSON.stringify(s.n).replace(/"/g,'&quot;')})">Apply</button>
       </div>
     </div>
   </div>`;
 }
 
 function render(){
-  const list=SCHOOLS.filter(match);
-  document.getElementById('grid').innerHTML=list.map(cardHTML).join('');
-  document.getElementById('res-count').textContent=list.length+" school"+(list.length===1?"":"s");
-  document.getElementById('res-title').textContent=state.district?state.district+" district":(state.q?"Search results":"All schools");
-  document.getElementById('empty').style.display=list.length?'none':'block';
-  chips();
+  const q=(state.q||"").toLowerCase();
+  curFeatured = SCHOOLS.filter(s=>{
+    if(state.district && s.district!==state.district) return false;
+    if(state.board && s.board!=='Boarding') return false;
+    if(q && !(s.name.toLowerCase().includes(q)||s.district.toLowerCase().includes(q)||s.loc.toLowerCase().includes(q))) return false;
+    if(state.level==='Secondary' && s.level==='O level (S.1–S.4)') return false;
+    return true;
+  });
+  curDir = LISTINGS.filter(s=>{
+    if(state.district && s.d!==state.district) return false;
+    if(state.level && s.lv!==state.level) return false;
+    if(q && !(s.n.toLowerCase().includes(q)||s.d.toLowerCase().includes(q))) return false;
+    return true;
+  });
+  const total = curFeatured.length + curDir.length;
+  const grid = document.getElementById('grid');
+  let html = curFeatured.map(cardHTML).join('');
+  html += curDir.slice(0, state.shown - curFeatured.length).map(tileHTML).join('');
+  if (html) grid.innerHTML = html; else grid.innerHTML='';
+  document.getElementById('res-count').textContent = total+" school"+(total===1?"":"s");
+  document.getElementById('res-title').textContent = state.district? state.district+" district" : (state.q||state.level? "Search results" : "All schools");
+  document.getElementById('res-note').textContent = curFeatured.length? curFeatured.length+" featured profile"+(curFeatured.length===1?"":"s")+" with photos · "+curDir.length+" mapped schools" : "";
+  const more = document.getElementById('more');
+  if (curFeatured.length + curDir.length > state.shown) {
+    more.innerHTML = '<button class="btn o" onclick="showMore()">Show more schools</button>';
+  } else more.innerHTML='';
+  document.getElementById('empty').style.display=total?'none':'block';
+  chips(); tabs();
 }
-
-function enquiry(id){
-  const s=SCHOOLS.find(x=>x.id===id);
-  const msg=encodeURIComponent(`Hello SomaWest, I would like admission information for ${s.name} (${s.district} district). Please share fees, requirements and term dates.`);
-  window.open(`https://wa.me/256772002326?text=${msg}`,'_blank');
-}
+function showMore(){ state.shown += 48; render(); }
 
 function openModal(id){
   const s=SCHOOLS.find(x=>x.id===id);
@@ -386,10 +470,11 @@ function openModal(id){
       <iframe class="mmap" loading="lazy" title="School location" src="https://www.google.com/maps?q=${encodeURIComponent(s.name+" "+s.district+" Uganda")}&output=embed"></iframe>
       <div class="credit">${s.img.includes("map_")?"Location map © OpenStreetMap contributors":"Photo via Wikimedia Commons (CC BY-SA)"}</div>
       <div class="acts">
-        <a class="btn g" target="_blank" rel="noopener" href="https://wa.me/256772002326?text=${encodeURIComponent(`Hello SomaWest, I would like admission information for ${s.name}.`)}">Enquire about admission</a>
+        <a class="btn g" onclick="closeModal();applySchool('${s.name.replace(/'/g,"\'")}','${s.district}')">Apply for admission</a>
         <a class="btn o" target="_blank" rel="noopener" href="${map}">View on map</a>
         ${s.phone?`<a class="btn o" href="tel:${s.phone.replace(/\s/g,'')}">Call school</a>`:''}
         ${s.site?`<a class="btn o" target="_blank" rel="noopener" href="${s.site}">Website</a>`:''}
+        <a class="btn o" onclick="claimSchool('${s.name.replace(/'/g,"\'")}')" style="background:#fff;border:1.5px solid #0b3d2e;color:#0b3d2e">School owner? Manage listing</a>
       </div>
     </div>`;
   document.getElementById('modal').classList.add('open');
@@ -402,7 +487,7 @@ function resetAll(){ state={q:"",district:"",gender:"",level:"",board:false}; do
 
 document.getElementById('q').addEventListener('input',e=>{state.q=e.target.value;render()});
 districtSel.addEventListener('change',e=>{state.district=e.target.value;render()});
-document.getElementById('f-gender').addEventListener('change',e=>{state.gender=e.target.value;render()});
+document.getElementById('f-level').addEventListener('change',e=>{state.level=e.target.value==='Secondary'?'Secondary':e.target.value==='Primary'?'Primary':e.target.value==='Nursery'?'Nursery':'';state.shown=48;render();});
 render();
 
 function openAdd(){ document.getElementById('addModal').classList.add('open'); document.body.style.overflow='hidden'; }
@@ -441,6 +526,28 @@ async function submitSchool(e){
   btn.disabled = false;
 }
 
+
+function openDir(i){
+  const s = LISTINGS[i];
+  const q = encodeURIComponent(s.n + " " + s.d + " Uganda");
+  document.getElementById('dirSheet').innerHTML = `
+    <div class="hero-img" style="background:#0b3d2e"><div style="color:#fff;text-align:center;padding:46px 20px;font-size:44px;font-weight:800">${s.n.split(/\s+/).slice(0,2).map(w=>w[0].toUpperCase()).join('')}</div><button class="x" onclick="closeDir()">✕</button></div>
+    <div class="pad">
+      <h3>${s.n}</h3>
+      <div class="loc">📍 ${s.d} district, Western Uganda</div>
+      <div class="meta"><i>${s.lv}</i><i>${s.d} district</i></div>
+      <iframe class="mmap" loading="lazy" title="School location" src="https://www.google.com/maps?q=${q}&output=embed"></iframe>
+      <div class="credit">Location data © OpenStreetMap contributors</div>
+      <div class="acts">
+        <a class="btn g" onclick="closeDir();applySchool('${s.n.replace(/'/g,"\'")}','${s.d}')">Apply for admission</a>
+        <a class="btn o" target="_blank" rel="noopener" href="https://www.google.com/maps/search/${q}">Open in Google Maps</a>
+        <a class="btn o" onclick="claimSchool('${s.n.replace(/'/g,"\'")}')" style="background:#fff;border:1.5px solid #0b3d2e;color:#0b3d2e">School owner? Manage listing</a>
+      </div>
+    </div>`;
+  document.getElementById('dirModal').classList.add('open');
+  document.body.style.overflow='hidden';
+}
+function closeDir(){ document.getElementById('dirModal').classList.remove('open'); document.body.style.overflow=''; }
 </script>
 </body>
 </html>
