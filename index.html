@@ -147,6 +147,11 @@ footer b{color:var(--goldl)}
 .feat-tag{background:#d4a017;color:#123120;border-radius:999px;padding:2px 9px;font-size:11px;font-weight:800;letter-spacing:.4px;position:absolute;left:10px;top:10px}
 .res-note{font-size:13px;color:#667;font-weight:600;margin:2px 0 8px}
 .chips-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+
+#nearBtn{border:2px solid #0b3d2e;background:#fff;color:#0b3d2e;font-weight:700}
+.share-row{display:flex;gap:10px;margin-top:10px}
+.share-row a{flex:1;text-align:center;padding:12px;border-radius:12px;background:#fff;border:2px solid #0b3d2e;color:#0b3d2e;font-weight:700;text-decoration:none}
+.tile .km{font-weight:700;color:#0b3d2e}
 </style>
 </head>
 <body>
@@ -446,6 +451,27 @@ function render(){
 }
 function showMore(){ state.shown += 48; render(); }
 
+
+// ---------- near me + slugs + tracking + share ----------
+const TRACK_API='https://superagent-c4c23880.base44.app/functions/somawestTrack';
+function slugifyBase(s){s=(s||'').toLowerCase();s=s.replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');return (s||'school').slice(0,90);}
+const SLUGS={};{const used={};const reg=(n,d)=>{let b=slugifyBase(n+'-'+d);if(used[b]){used[b]++;b=b+'-'+used[b];}else used[b]=0;return b;};SCHOOLS.forEach(s=>SLUGS[s.name+'|'+s.district]=reg(s.name,s.district));LISTINGS.forEach(s=>SLUGS[s.n+'|'+s.d]=reg(s.n,s.d));}
+function slugFor(name,district){return SLUGS[name+'|'+district]||slugifyBase(name+'-'+district);}
+function track(slug,name,district,ev){try{fetch(TRACK_API,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({slug:slug,name:name,district:district,event:ev})}).catch(function(){});}catch(e){}}
+function nearMe(){
+  if(!navigator.geolocation){alert('Location not available on this device.');return;}
+  document.getElementById('nearBtn').textContent='📍 Locating…';
+  navigator.geolocation.getCurrentPosition(function(p){
+    const la=p.coords.latitude,lo=p.coords.longitude;
+    const dist=(a,b,c,d)=>{const R=6371,dLa=(c-a)*Math.PI/180,dLo=(d-b)*Math.PI/180;const x=Math.sin(dLa/2)*Math.sin(dLa/2)+Math.cos(a*Math.PI/180)*Math.cos(c*Math.PI/180)*Math.sin(dLo/2)*Math.sin(dLo/2);return R*2*Math.atan2(Math.sqrt(x),Math.sqrt(1-x));};
+    state.near={la,lo,dist};
+    document.getElementById('nearBtn').textContent='📍 Nearest first (tap to clear)';document.getElementById('nearBtn').onclick=clearNear;
+    render();
+  },function(){document.getElementById('nearBtn').textContent='📍 Schools near me';alert('Could not get your location. Check that location is allowed.');},{timeout:9000});
+}
+
+
+function clearNear(){state.near=null;document.getElementById('nearBtn').textContent='📍 Schools near me';document.getElementById('nearBtn').onclick=nearMe;render();}
 function applySchool(name, district){
   openApp(name, district);
 }
@@ -468,12 +494,20 @@ function sendApplication(e){
   closeApp(); f.reset();
   return false;
 }
+
+function shareSchool(name, district, slug){
+  const url = 'https://asiimwe3.github.io/somawest/school/' + (slug || slugFor(name, district)) + '.html';
+  const msg = name + ' (' + district + ' district) is on SomaWest, the school finder for Western Uganda: ' + url;
+  track(slugFor(name, district), name, district, 'share');
+  window.open('https://wa.me/?text=' + encodeURIComponent(msg), '_blank');
+}
 function claimSchool(name){
-  const msg = 'Hello SomaWest, I represent ' + name + '. I would like to update and manage our school listing (fees, photos, contacts, term dates).';
+  const msg = 'Hello SomaWest, I represent ' + name + '. I want to manage our listing. Here is our updated info:\n1) Fees per term\n2) WhatsApp/phone contacts\n3) Photos\n4) Term dates\n5) Admission requirements';
   window.open('https://wa.me/256772002326?text=' + encodeURIComponent(msg), '_blank');
 }
 function openModal(id){
   const s=SCHOOLS.find(x=>x.id===id);
+  track(slugFor(s.name,s.district),s.name,s.district,'view');
   const map=`https://www.google.com/maps/search/${encodeURIComponent(s.name+" "+s.district+" Uganda")}`;
   document.getElementById('sheet').innerHTML=`
     <div class="hero-img"><img src="${s.img}" alt="${s.name}"><button class="x" onclick="closeModal()">✕</button></div>
@@ -500,6 +534,8 @@ function openModal(id){
         <a class="btn o" target="_blank" rel="noopener" href="${map}">View on map</a>
         ${s.phone?`<a class="btn o" href="tel:${s.phone.replace(/\s/g,'')}">Call school</a>`:''}
         ${s.site?`<a class="btn o" target="_blank" rel="noopener" href="${s.site}">Website</a>`:''}
+        <a class="btn o" target="_blank" rel="noopener" href="school/${slugFor(s.name, s.district)}.html">Open full school page</a>
+        <a class="btn o" onclick="shareSchool('${s.name.replace(/'/g,"\'")}', '${s.district}')">Share on WhatsApp</a>
         <a class="btn o" onclick="claimSchool('${s.name.replace(/'/g,"\'")}')" style="background:#fff;border:1.5px solid #0b3d2e;color:#0b3d2e">School owner? Manage listing</a>
       </div>
     </div>`;
@@ -567,6 +603,8 @@ function openDir(i){
       <div class="acts">
         <a class="btn g" onclick="closeDir();applySchool('${s.n.replace(/'/g,"\'")}','${s.d}')">Apply for admission</a>
         <a class="btn o" target="_blank" rel="noopener" href="https://www.google.com/maps/search/${q}">Open in Google Maps</a>
+        <a class="btn o" target="_blank" rel="noopener" href="school/${slugFor(s.n, s.d)}.html">Open full school page</a>
+        <a class="btn o" onclick="shareSchool('${s.n.replace(/'/g,"\'")}', '${s.d}')">Share on WhatsApp</a>
         <a class="btn o" onclick="claimSchool('${s.n.replace(/'/g,"\'")}')" style="background:#fff;border:1.5px solid #0b3d2e;color:#0b3d2e">School owner? Manage listing</a>
       </div>
     </div>`;
