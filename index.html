@@ -446,6 +446,32 @@ function render(){
 }
 function showMore(){ state.shown += 48; render(); }
 
+function applySchool(name, district){
+  openApp(name, district);
+}
+function openApp(name, district){
+  window.appSchool = {name: name, district: district||''};
+  document.getElementById('appSchoolName').textContent = name;
+  document.getElementById('appModal').classList.add('open');
+}
+function closeApp(){ document.getElementById('appModal').classList.remove('open'); document.body.style.overflow=''; }
+function sendApplication(e){
+  e.preventDefault();
+  const f = e.target;
+  const d = Object.fromEntries(new FormData(f).entries());
+  const s = window.appSchool;
+  const msg = 'APPLICATION VIA SOMAWEST\n\nSchool: ' + s.name + (s.district? ' (' + s.district + ' district)':'') +
+    '\nStudent name: ' + d.student + '\nClass applying for: ' + d.cls +
+    '\nPrevious school: ' + (d.prev||'-') + '\nParent/guardian: ' + d.guardian + '\nPhone: ' + d.phone +
+    '\n\nPlease share fees, requirements and next steps.';
+  window.open('https://wa.me/256772002326?text=' + encodeURIComponent(msg), '_blank');
+  closeApp(); f.reset();
+  return false;
+}
+function claimSchool(name){
+  const msg = 'Hello SomaWest, I represent ' + name + '. I would like to update and manage our school listing (fees, photos, contacts, term dates).';
+  window.open('https://wa.me/256772002326?text=' + encodeURIComponent(msg), '_blank');
+}
 function openModal(id){
   const s=SCHOOLS.find(x=>x.id===id);
   const map=`https://www.google.com/maps/search/${encodeURIComponent(s.name+" "+s.district+" Uganda")}`;
